@@ -22,6 +22,7 @@
 
 ## keywords
 - 물리, 물리학 , physics 
+- atom, genome, bit
 - 고전물리학
 - 열역학
 - 전자기학
