@@ -59,10 +59,10 @@
 ![일과 일률](http://study.zumst.com/upload/00-K33-00-11-08/K33-00-11-08-%EC%9D%BC01.png)  
 (source: http://study.zumst.com/upload/00-K33-00-11-08/K33-00-11-08-%EC%9D%BC01.png)
 
-> 운동에너지와 위치에너지
-- ![운동에너지와 위치에너지의 변화](http://www.cyberschool.co.kr/html/text/mst/mst123a.gif)   (source: http://www.cyberschool.co.kr/html/text/mst/mst123a.gif)
+> 운동에너지와 위치에너지  
+![운동에너지와 위치에너지의 변화](http://www.cyberschool.co.kr/html/text/mst/mst123a.gif)   (source: http://www.cyberschool.co.kr/html/text/mst/mst123a.gif)
 
-> 탄성충돌과 비탄성충돌
+> 탄성충돌과 비탄성충돌  
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOaBXm1iT_g-L8BI5AnSUEF3wsxgRswYSDobqlZHUfxtIR2SsW)  
 ![](https://mblogthumb-phinf.pstatic.net/20160301_186/qjqh159_1456760969366xODDb_PNG/1.png?type=w800)
 
