@@ -76,6 +76,7 @@ https://m.blog.naver.com/PostView.nhn?blogId=qjqh159&logNo=220642115511&proxyRef
 *** 
 
 > 뉴턴의운동법칙
+
 ![](https://mblogthumb-phinf.pstatic.net/MjAxNjEyMDlfMTQ0/MDAxNDgxMjg2NjM4NTIw.CDr5K4axB7HQmQ87XVt3L3dZyPWv1aET0LQugzn-I2Ig.W02nBb1e0twFDQYhvXUI4vFYtYsIHSNQ1a-gXeMzqK8g.PNG.jintaeky/%EB%89%B4%ED%84%B4%EC%9D%98%EB%B2%95%EC%B9%99.png?type=w2)
 (source: https://mblogthumb-phinf.pstatic.net/MjAxNjEyMDlfMTQ0/MDAxNDgxMjg2NjM4NTIw.CDr5K4axB7HQmQ87XVt3L3dZyPWv1aET0LQugzn-I2Ig.W02nBb1e0twFDQYhvXUI4vFYtYsIHSNQ1a-gXeMzqK8g.PNG.jintaeky/%EB%89%B4%ED%84%B4%EC%9D%98%EB%B2%95%EC%B9%99.png?type=w2)
 - [그림으로 보는 뉴턴의 운동법칙](https://m.blog.naver.com/PostView.nhn?blogId=jintaeky&logNo=220882228850&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
