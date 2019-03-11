@@ -41,16 +41,20 @@
 ***
 
 > 속력, 속도와 가속도
+
 - https://yjh-phys.tistory.com/185
 
 > 질량, 관성, 무게
+
 - https://books.google.co.kr/books?id=fVgzDwAAQBAJ&pg=PT9&lpg=PT9&dq=%EC%A7%88%EB%9F%89+%EA%B4%80%EC%84%B1+%EB%AC%B4%EA%B2%8C&source=bl&ots=qETYTIeDQa&sig=ACfU3U03GoLroFvgyDAEoghcWkENtb3W6w&hl=ko&sa=X&ved=2ahUKEwiJ2r6e7vjgAhVdyYsBHSwRBLEQ6AEwCnoECAEQAQ#v=onepage&q=%EC%A7%88%EB%9F%89%20%EA%B4%80%EC%84%B1%20%EB%AC%B4%EA%B2%8C&f=false
 
 > 마찰력
+
 - https://m.blog.naver.com/PostView.nhn?blogId=toshizo&logNo=220335130169&proxyReferer=https%3A%2F%2Fwww.google.com%2F
 - https://m.blog.naver.com/PostView.nhn?blogId=staryoorang&logNo=80212170270&proxyReferer=https%3A%2F%2Fwww.google.com%2F
 
 > 운동량
+
 - 선운동량과 각운동량의 차이는?
 - [Amazing Demonstration Of A Giant Newton's Cradle! - YouTube](https://www.youtube.com/watch?v=8dgyPRA86K0)
 
@@ -60,9 +64,11 @@
 (source: http://study.zumst.com/upload/00-K33-00-11-08/K33-00-11-08-%EC%9D%BC01.png)
 
 > 운동에너지와 위치에너지  
+
 ![운동에너지와 위치에너지의 변화](http://www.cyberschool.co.kr/html/text/mst/mst123a.gif)   (source: http://www.cyberschool.co.kr/html/text/mst/mst123a.gif)
 
 > 탄성충돌과 비탄성충돌  
+
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOaBXm1iT_g-L8BI5AnSUEF3wsxgRswYSDobqlZHUfxtIR2SsW)  
 ![](https://mblogthumb-phinf.pstatic.net/20160301_186/qjqh159_1456760969366xODDb_PNG/1.png?type=w800)
 
