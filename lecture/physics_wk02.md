@@ -56,16 +56,14 @@
 
 > 일, 에너지와 일률
 
-![일과 일률](http://study.zumst.com/upload/00-K33-00-11-08/K33-00-11-08-%EC%9D%BC01.png) 
+![일과 일률](http://study.zumst.com/upload/00-K33-00-11-08/K33-00-11-08-%EC%9D%BC01.png)  
 (source: http://study.zumst.com/upload/00-K33-00-11-08/K33-00-11-08-%EC%9D%BC01.png)
 
 > 운동에너지와 위치에너지
-- ![운동에너지와 위치에너지의 변화](http://www.cyberschool.co.kr/html/text/mst/mst123a.gif)
-
-(source: http://www.cyberschool.co.kr/html/text/mst/mst123a.gif)
+- ![운동에너지와 위치에너지의 변화](http://www.cyberschool.co.kr/html/text/mst/mst123a.gif)   (source: http://www.cyberschool.co.kr/html/text/mst/mst123a.gif)
 
 > 탄성충돌과 비탄성충돌
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOaBXm1iT_g-L8BI5AnSUEF3wsxgRswYSDobqlZHUfxtIR2SsW)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOaBXm1iT_g-L8BI5AnSUEF3wsxgRswYSDobqlZHUfxtIR2SsW)  
 ![](https://mblogthumb-phinf.pstatic.net/20160301_186/qjqh159_1456760969366xODDb_PNG/1.png?type=w800)
 
 (source: 
@@ -79,7 +77,7 @@ https://m.blog.naver.com/PostView.nhn?blogId=qjqh159&logNo=220642115511&proxyRef
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAxNjEyMDlfMTQ0/MDAxNDgxMjg2NjM4NTIw.CDr5K4axB7HQmQ87XVt3L3dZyPWv1aET0LQugzn-I2Ig.W02nBb1e0twFDQYhvXUI4vFYtYsIHSNQ1a-gXeMzqK8g.PNG.jintaeky/%EB%89%B4%ED%84%B4%EC%9D%98%EB%B2%95%EC%B9%99.png?type=w2)
 
-(source: https://mblogthumb-phinf.pstatic.net/MjAxNjEyMDlfMTQ0/MDAxNDgxMjg2NjM4NTIw.CDr5K4axB7HQmQ87XVt3L3dZyPWv1aET0LQugzn-I2Ig.W02nBb1e0twFDQYhvXUI4vFYtYsIHSNQ1a-gXeMzqK8g.PNG.jintaeky/%EB%89%B4%ED%84%B4%EC%9D%98%EB%B2%95%EC%B9%99.png?type=w2)
+(source: https://mblogthumb-phinf.pstatic.net/MjAxNjEyMDlfMTQ0/MDAxNDgxMjg2NjM4NTIw.CDr5K4axB7HQmQ87XVt3L3dZyPWv1aET0LQugzn-I2Ig.W02nBb1e0twFDQYhvXUI4vFYtYsIHSNQ1a-gXeMzqK8g.PNG.jintaeky/%EB%89%B4%ED%84%B4%EC%9D%98%EB%B2%95%EC%B9%99.png?type=w2)  
 - [그림으로 보는 뉴턴의 운동법칙](https://m.blog.naver.com/PostView.nhn?blogId=jintaeky&logNo=220882228850&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 - [읽어보기: 뉴턴의 실패](http://www.newsian.co.kr/news/articleView.html?idxno=29958)
 
@@ -108,12 +106,12 @@ https://m.blog.naver.com/PostView.nhn?blogId=qjqh159&logNo=220642115511&proxyRef
 ***
 
 > 각운동량
-- 회전하는 물체의 운동량 (물체의 모양과 속도에 의해 결정)
+- 회전하는 물체의 운동량 (물체의 모양과 속도에 의해 결정)  
 ![](http://study.zumst.com/upload/00-T33-00-21-06/20130802_165822.png)
 (source: http://study.zumst.com/upload/00-T33-00-21-06/20130802_165822.png)
 
 
-> 구심력과 원심력
+> 구심력과 원심력  
 ![](http://mblogthumb1.phinf.naver.net/20160421_212/toshizo_1461193705757naGRn_JPEG/m004.jpg?type=w2)
 (source: http://mblogthumb1.phinf.naver.net/20160421_212/toshizo_1461193705757naGRn_JPEG/m004.jpg?type=w2)
 - ![](https://www.scienceall.com/nas/image/200906/20090618_287Z3Sjg.jpg)
