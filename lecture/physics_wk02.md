@@ -121,6 +121,7 @@ https://m.blog.naver.com/PostView.nhn?blogId=qjqh159&logNo=220642115511&proxyRef
 > 코리올리효과
 - 회전하는 계에서 느껴지는 관성력
 - [위키백과](https://ko.wikipedia.org/wiki/%EC%BD%94%EB%A6%AC%EC%98%AC%EB%A6%AC_%ED%9A%A8%EA%B3%BC)
+
 ![](https://upload.wikimedia.org/wikipedia/commons/b/b6/Corioliskraftanimation.gif)
 (source: https://upload.wikimedia.org/wikipedia/commons/b/b6/Corioliskraftanimation.gif)
 각운동량 보존법칙에 의해 회전판의 붉은 점에서 보았을 때 물체는 진행방향의 왼쪽으로 움직이는 것처럼 보인다. 북반구에서는 태풍이 반시계방향으로 회전한다.
