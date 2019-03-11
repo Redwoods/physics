@@ -15,7 +15,7 @@
 — Giles Sparrow
 
 
-## keywords
+## @icon-info-circle keywords
 
 ### **atom**, genome, bit
 
