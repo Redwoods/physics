@@ -49,7 +49,7 @@
 
 ***
 
-> `단순 기계`
+> `단순 기계`  
 ![시소의 균형](http://ncc.phinf.naver.net/ncc02/2012/7/16/173/4.jpg?type=w646)  
 (source: http://ncc.phinf.naver.net/ncc02/2012/7/16/173/4.jpg?type=w646)  
 [- 아르키메데스의 지렛대](https://www.scienceall.com/%EC%95%84%EB%A5%B4%ED%82%A4%EB%A9%94%EB%8D%B0%EC%8A%A4%EC%9D%98-%EC%A7%80%EB%A0%9B%EB%8C%80%EC%9D%98-%EC%9B%90%EB%A6%AC%EC%99%80-%EC%9B%90%EC%A3%BC%EC%9C%A8/)  
@@ -63,19 +63,19 @@ https://cba.snu.ac.kr/ko/sblcolumn?mode=view&bbsidx=77835
 ---
 ## 변형과 탄성
 
-> `변형` : 훅의 법칙
+> `변형` : 훅의 법칙  
 ![훅의 법칙](https://t1.daumcdn.net/cfile/tistory/2759343F55B6E67F1B)   
 (source: https://t1.daumcdn.net/cfile/tistory/2759343F55B6E67F1B)  
 
-> `탄성, 응력과 변형률` : 훅의 법칙의 한계
+> `탄성, 응력과 변형률` : 훅의 법칙의 한계  
 ![훅의 법칙의 한계](https://www.scienceall.com/nas/image/201008/20100826_T40z7f4b.jpg)   
 (source: https://www.scienceall.com/nas/image/201008/20100826_T40z7f4b.jpg)  
 
 ***
 ## 기체
-> `기체법칙`  
+> `기체법칙`    
 ### $PV =  N k_B T$ ,  이상기체
-- 이상기체와 (일반적인) 기체의 차이는?  
+- 이상기체와 (일반적인) 기체의 차이는?   
 
 ![기체방정식](http://postfiles7.naver.net/MjAxNjEyMjlfMjU3/MDAxNDgyOTk5NDY0ODA1.cUdqDKLFOoTqiKm4TtzRuZ-C2LlMAtksJkMiCRcwm8Ig.I98EvD06grqwgpdo68pu-bVKHHxnE4n3oRvJM8TO1qIg.JPEG.applepop/87675.jpg?type=w3)    
 (source: http://postfiles7.naver.net/MjAxNjEyMjlfMjU3/MDAxNDgyOTk5NDY0ODA1.cUdqDKLFOoTqiKm4TtzRuZ-C2LlMAtksJkMiCRcwm8Ig.I98EvD06grqwgpdo68pu-bVKHHxnE4n3oRvJM8TO1qIg.JPEG.applepop/87675.jpg?type=w3)
