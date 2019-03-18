@@ -63,17 +63,17 @@ https://cba.snu.ac.kr/ko/sblcolumn?mode=view&bbsidx=77835
 ---
 ## 변형과 탄성
 
-> `변형` : 훅의 법칙  
+> ### `변형` : 훅의 법칙  
 ![훅의 법칙](https://t1.daumcdn.net/cfile/tistory/2759343F55B6E67F1B)   
 (source: https://t1.daumcdn.net/cfile/tistory/2759343F55B6E67F1B)  
 
-> `탄성, 응력과 변형률` : 훅의 법칙의 한계  
+> ### `탄성, 응력과 변형률` : 훅의 법칙의 한계  
 ![훅의 법칙의 한계](https://www.scienceall.com/nas/image/201008/20100826_T40z7f4b.jpg)   
 (source: https://www.scienceall.com/nas/image/201008/20100826_T40z7f4b.jpg)  
 
 ***
 ## 기체
-> `기체법칙`    
+> ### `기체법칙`    
 ### $PV =  N k_B T$ ,  이상기체
 - 이상기체와 (일반적인) 기체의 차이는?   
 
@@ -88,7 +88,7 @@ https://cba.snu.ac.kr/ko/sblcolumn?mode=view&bbsidx=77835
 
 ---
 
-> `기체분자운동론`
+> ### `기체분자운동론`
 
 ![저온, 고온에서의 기체분자의 운동](http://image.surae.com/library/img/carsense/heatenergy.jpg)   
 (source: http://image.surae.com/library/img/carsense/heatenergy.jpg)
@@ -97,7 +97,7 @@ https://cba.snu.ac.kr/ko/sblcolumn?mode=view&bbsidx=77835
 
 --- 
 
-> `아보가드로의 법칙`  
+> ### `아보가드로의 법칙`  
 - 모든 기체는 같은 온도, 같은 압력에서 같은 부피속에 같은 개수의 입자(분자)를 포함한다.
 - #### 기체 내 입자의 수 $N = n N_A$, n은 몰의 수.
 
@@ -106,7 +106,7 @@ https://cba.snu.ac.kr/ko/sblcolumn?mode=view&bbsidx=77835
 
 *** 
 
-> `유체역학` 
+> ### `유체역학` 
 - 뉴턴유체와 비뉴턴유체  
 - 층류와 난류  
 - 비행기의 양력  
@@ -118,7 +118,7 @@ https://cba.snu.ac.kr/ko/sblcolumn?mode=view&bbsidx=77835
 
 *** 
 
-> `아르키메데스의 원리`
+> ### `아르키메데스의 원리`
 - 아르키메데스의 부력 원리와 왕관의 무게 측정
 ![아르키메데스와 왕관](https://javalab.org/lee/contents/Archimedes_cartoon_03.jpg)  
 (SOURCE: https://javalab.org/lee/contents/Archimedes_cartoon_03.jpg)  
@@ -126,7 +126,7 @@ https://cba.snu.ac.kr/ko/sblcolumn?mode=view&bbsidx=77835
 
 ---
 
-> `베르누이의정리` 
+> ### `베르누이의정리` 
 - 유체에서의 에너지 보전법칙
 - 가는 관에서 유체 속도가 증가되는 현상  
 ![관을 흐르는 유체의 속도 변화](http://4.bp.blogspot.com/-mLfEnWcNdNs/VHU4DiknekI/AAAAAAAAAKg/9Vt-cFD6dpo/s1600/1.jpg)  
@@ -141,7 +141,7 @@ https://cba.snu.ac.kr/ko/sblcolumn?mode=view&bbsidx=77835
 
 *** 
 
-> `카오스 이론`
+> ### `카오스 이론`
 - #### 초기조건 민감성: 초기 조건의 조그마한 차이가 시간이 지나면서 어머 어마한 결과로 커지는 현상.
 - #### 삼체문제 : 3개의 천체가 서로 영향을 주면서 움직일 때 궤도의 안정성을 예측할 수 없다.
 ![삼체 운동](http://www.seoulkaas.org/xe/files/attach/images/58213/971/085/faa74c7425a32b6013b7c424c169bf63.png)  
@@ -156,7 +156,7 @@ https://cba.snu.ac.kr/ko/sblcolumn?mode=view&bbsidx=77835
 ![로렌츠 끌개](https://upload.wikimedia.org/wikipedia/commons/2/20/Intermittent_Lorenz_Attractor_-_Chaoscope.jpg)  
 (SOURCE: https://upload.wikimedia.org/wikipedia/commons/2/20/Intermittent_Lorenz_Attractor_-_Chaoscope.jpg) 
 
-> `카오스의 패턴 -> 프랙털`
+> ### `카오스의 패턴 -> 프랙털`
 - #### 프랙털이란 무엇인가? 그리고 카오스와의 관계는?
 ![프랙털](http://mathworld.wolfram.com/images/eps-gif/Fractal1_1000.gif)  
 (SOURCE: http://mathworld.wolfram.com/images/eps-gif/Fractal1_1000.gif)
