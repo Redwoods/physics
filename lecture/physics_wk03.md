@@ -182,7 +182,7 @@ https://cba.snu.ac.kr/ko/sblcolumn?mode=view&bbsidx=77835
 ## Prestudy: wk04
 ### ● 운동에 대한 토론 (1시간)
 - 주제 1 사과의 떨어짐과 달의 공전
-- 주제 2
+- 주제 2 야구에서 공의 회전에 따른 구종과 유체역학
 - 주제 3
 - 주제 4. 카오스 이론의 한계
 
