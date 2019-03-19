@@ -37,13 +37,18 @@
 - 중력과 행성의 운동
 - 회전운동, 각운동량
 
+> 속력, 속도와 가속도 / 질량, 관성, 무게 / 마찰력 / 운동량 / 일, 에너지와 일률 / 운동에너지와 위치에너지 / 탄성충돌과 비탄성충돌 / 뉴턴의운동법칙 / 식과 운동 그래프 / 궤도 / 케플러의 행성 운동 법칙 / 뉴턴의 인력 / 각운동량 / 구심력과 원심력 / 코리올리효과
+
+***
+
 - 변형과 탄성
 - 기체
 - 유체
 - 카오스이론
-***
 
 > 단순 기계 / 변형 / 탄성, 응력과 변형률 / 기체법칙 / 기체분자운동론 / 아보가드로의법칙 / 유체역학 / 아르키메데스의원리 / 베르누이의정리 / 카오스이론
+
+*** 
 
 > - [교재-구글이북](https://books.google.co.kr/books?id=fVgzDwAAQBAJ&pg=PT9&lpg=PT9&dq=%EC%A7%88%EB%9F%89+%EA%B4%80%EC%84%B1+%EB%AC%B4%EA%B2%8C&source=bl&ots=qETYTIeDQa&sig=ACfU3U03GoLroFvgyDAEoghcWkENtb3W6w&hl=ko&sa=X&ved=2ahUKEwiJ2r6e7vjgAhVdyYsBHSwRBLEQ6AEwCnoECAEQAQ#v=onepage&q=%EC%A7%88%EB%9F%89%20%EA%B4%80%EC%84%B1%20%EB%AC%B4%EA%B2%8C&f=false)
 
