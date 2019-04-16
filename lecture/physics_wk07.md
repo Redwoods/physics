@@ -75,8 +75,8 @@
 ![엔트로피](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmeuwxn_QufkIvrVHsMlmQryUeOrXdz0OZ5cTknMm4KsKxM4oVHw)  
 (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmeuwxn_QufkIvrVHsMlmQryUeOrXdz0OZ5cTknMm4KsKxM4oVHw)
 
-![엔트로피](https://w.namu.la/s/5c13a93da9392154e290d2ab9f834895a8b0406a239b02eec9bbda051872603ba0912e3018aa9ce602c19d9563dedf0e661df400215a39c08f6c376c0834c09d3456883d19d8503eedcb8a177bc71fb41bab00d4f9f8be6f852fdcc7b126fa2b)  
-(source: https://w.namu.la/s/5c13a93da9392154e290d2ab9f834895a8b0406a239b02eec9bbda051872603ba0912e3018aa9ce602c19d9563dedf0e661df400215a39c08f6c376c0834c09d3456883d19d8503eedcb8a177bc71fb41bab00d4f9f8be6f852fdcc7b126fa2bw)
+![엔트로피](http://www.kierandkelly.com/wp-content/uploads/2015/04/Entropy-004-1024x417.jpg)  
+(source: http://www.kierandkelly.com/wp-content/uploads/2015/04/Entropy-004-1024x417.jpg)
 
 --- 
 
