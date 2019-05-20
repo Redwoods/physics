@@ -133,7 +133,7 @@
 
 > ### 자기공명 영상 (MRI)
 
-- ### 신체의 주요 구성 요소인 물에 있는 수소 원자핵인 양성자의 자기모멘트 정렬의 변화를 이용한 고성능 신체 내부 촬영 방법
+- ### 신체의 주요 구성 요소인 물에 있는 수소 원자핵인 양성자의 자기모멘트 정렬의 변화를 이용한 3차원 신체 내부 촬영 방법
 
   ![자기공명 영상](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhukgYGfoxVzH6ofxU8z0tj6VVGckD5eemWTYTuvn2oxsu7hz)  
   (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhukgYGfoxVzH6ofxU8z0tj6VVGckD5eemWTYTuvn2oxsu7hz)
