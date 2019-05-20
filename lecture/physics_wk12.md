@@ -1,0 +1,222 @@
+# 물리학의 세계 - wk12
+
+---
+
+# Physics world
+
+“What I cannot create, I do not understand.”
+— Richard Feynman
+
+“What I cannot understand, I do not utilize.”
+— Redwoods
+
+"물리는 그냥 안된다.~~ 물리에서는 모든 게 된다."
+— Giles Sparrow
+
+## keywords
+
+### `atom`, genome, bit
+
+- 물리, 물리학 , physics
+- 고전물리학
+- 열역학
+- 전자기학
+- 광학
+- 현대물리학
+- 양자물리학
+- 우주론
+- 상대성이론
+
+---
+
+> - [교재-구글이북](https://books.google.co.kr/books?id=fVgzDwAAQBAJ&pg=PT9&lpg=PT9&dq=%EC%A7%88%EB%9F%89+%EA%B4%80%EC%84%B1+%EB%AC%B4%EA%B2%8C&source=bl&ots=qETYTIeDQa&sig=ACfU3U03GoLroFvgyDAEoghcWkENtb3W6w&hl=ko&sa=X&ved=2ahUKEwiJ2r6e7vjgAhVdyYsBHSwRBLEQ6AEwCnoECAEQAQ#v=onepage&q=%EC%A7%88%EB%9F%89%20%EA%B4%80%EC%84%B1%20%EB%AC%B4%EA%B2%8C&f=false)
+
+---
+
+### 양자물리학 (Quantum Physics)
+
+> 광전효과 / 파동-입자 이중성 / 드브로이의 가설 / (전자현미경) / 슈뢰딩거 파동방정식 / 양자 터널효과 / (코펜하겐 해석) / 양자역학과 불확정성원리 / 슈뢰딩거의 고양이 / (그 외의 양자 해석) / (양자수) / (스핀) / (보스입자와 페르미입자, 그리고 파울리의배타원리) / (자기공명 영상) / (축퇴) / (양자 얽힘) / 양자 계산과 암호 / (초유동체)
+
+## keywords
+
+- 파동-입자 이중성
+- 양자역학과 불확정성원리
+- 양자 계산과 암호
+
+---
+
+> ## 양자물리학 (Quantum Physics)
+
+- 물질과 파동의 이중성 -> 물질파
+- 슈레딩어의 파동방정식
+- 양자현상과 양자 컴퓨팅
+
+  ![양자물리학](https://t1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/2XtG/image/NAJTks1RHJvZ3uzh3nuMeatPrX8.jpg)  
+  (source: https://t1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/2XtG/image/NAJTks1RHJvZ3uzh3nuMeatPrX8.jpg)
+
+---
+
+> ### 광전효과
+
+- 특정 파장의 빛에 노출된 금속 표면에서 전자가 방출되는 현상
+- 빛의 입자성 -> 광자 (photon)  
+  ![광전효과](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Photoelectric_effect.svg/275px-Photoelectric_effect.svg.png)  
+  (source: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Photoelectric_effect.svg/275px-Photoelectric_effect.svg.png)
+
+---
+
+> ### 파동-입자 이중성
+
+- 빛, 소리와 같은 파동은 이중 슬릿을 통과하면 간섭현상을 보인다.
+- 전자총에서 나온 전자들도 이중 슬릿을 통과하면 간섭현상을 보인다.
+
+![파동-입자 이중성](https://t1.daumcdn.net/cfile/tistory/21432B4655524D4B1D)  
+(source: https://t1.daumcdn.net/cfile/tistory/21432B4655524D4B1D)
+
+- [link: 파동-입자 이중성](http://cfile218.uf.daum.net/R400x0/27038D4154AE6A9B261914)
+
+---
+
+> ### 드브로이의 물질파 가설
+
+- 모든 움직이는 입자는 고유한 파동을 가진다. (파장 = h/p = h/mv, p는 운동량)
+
+![드브로이의 물질파 가설](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPV2ctfw64qsTJGwXjiCmiE7P2jymDfpxRJQ3CD6O7IVfPweNV)  
+ (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPV2ctfw64qsTJGwXjiCmiE7P2jymDfpxRJQ3CD6O7IVfPweNV
+
+- [link: 물질파 전산 시늉](https://javalab.org/matter_wave/)
+
+---
+
+> ### 슈뢰딩거 파동방정식과 파동함수
+
+- 물질파 현상을 설명하는 파동방정식
+- 물질파는 파동함수로 표현됨. -> 확률적 해석 (코펜하겐 해석)
+- 파동의 에너지는 불연속적인 값으로 양자화된다.  
+  ![슈뢰딩거 파동방정식](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkGvRe7vDYdUIxjZlK4K4zhUGdq7YMcaJgV2o4th898ui2mLL5g)  
+   (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkGvRe7vDYdUIxjZlK4K4zhUGdq7YMcaJgV2o4th898ui2mLL5g)
+
+- link:파동함수 http://cfile202.uf.daum.net/R400x0/2579524957A6C9E732EA0A
+
+---
+
+> ### 양자 터널효과
+
+- 파동함수가 주변으로 퍼져 나가서 발생되는 현상
+
+![양자 터널효과](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdBPsZpebV3SmqgpRyyV_w3rnb8dQn48dXw53i-p56tm0toG6Ydg)  
+ (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdBPsZpebV3SmqgpRyyV_w3rnb8dQn48dXw53i-p56tm0toG6Ydg)
+
+- link: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR00PaxF0XTYUGIuBZ4WZ4Ces7PzqfbiupZGcMTgzpwtoJ0dIkE
+
+---
+
+> ## 양자역학과 불확정성원리 (dx \* dp > h)
+
+- ### 파동성을 가진 입자의 위치와 속도(운동량, 파장)을 동시에 측정할 수 없다.
+
+  ![불확정성원리](https://img1.daumcdn.net/thumb/S272x320/?scode=mtistory&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2472FA3A57F521E601)
+  (source: https://img1.daumcdn.net/thumb/S272x320/?scode=mtistory&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2472FA3A57F521E601)
+
+  - link: https://t1.daumcdn.net/cfile/tistory/990DD8345A4393861C
+
+---
+
+> ### 슈뢰딩거의 고양이
+
+- ## 고양이가 죽었나? 살았나? -> 관찰 전에는 중첩 상태로 생사를 알 수 없다.
+
+  ![슈뢰딩거의 고양이](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqWuwst2R4S73thCvve5iTWbJ_4Hsi5FHxIt44XwTUKhQkzDhd)  
+  (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqWuwst2R4S73thCvve5iTWbJ_4Hsi5FHxIt44XwTUKhQkzDhd)
+
+---
+
+> ### 양자 계산과 암호
+
+- ### 큐비트를 이용한 양자 계산, 양자 암호
+
+  ![양자 계산](https://steemitimages.com/640x0/https://steemitimages.com/DQmWzPpBQF9Tj4W4fxi2YTgjt9U6G6c2qzKEDX6fLjADH9h/qubit.png)  
+  (source: https://steemitimages.com/640x0/https://steemitimages.com/DQmWzPpBQF9Tj4W4fxi2YTgjt9U6G6c2qzKEDX6fLjADH9h/qubit.png)
+
+  link:큐비트 http://www.epnc.co.kr/news/photo/201903/82687_74737_2325.jpg
+
+---
+
+> ## 머신러닝/딥러닝
+
+- ### 개냐? 고양이냐?
+- ### 컴퓨터에게는 모든 개/고양이 사진이 개와 고양이의 중첩!
+- ### 개 또는 고양이의 특징을 확률로 계산해서 개/고양이 결정
+
+  ![ML/DL](https://t1.daumcdn.net/cfile/tistory/99B9C4415B5991D516)  
+  (source: https://t1.daumcdn.net/cfile/tistory/99B9C4415B5991D516)
+
+---
+
+### ● 양자물리학에 대한 토론
+
+- ## 주제 1. 파동-입자 이중성
+
+  > [Youtube: 파동-입자 이중성](https://www.youtube.com/watch?v=a4LsdqwZEaU)
+
+- ## 주제 2. 양자역학과 불확정성원리
+
+  > [Youtube: 불확정성원리](https://www.youtube.com/watch?v=0MT1rRvXcVU)
+
+  > [Youtube: 슈레딩거의 고양이](https://www.youtube.com/watch?v=39pGNND9ue4)
+
+* ## 주제 3. 양자 계산과 암호
+  > [Youtube: 양자 계산과 암호](https://www.youtube.com/watch?v=QlbKFqZjwEQ)
+
+---
+
+### ● 양자물리학의 이해 및 개념 확인 퀴즈 6개 (Kahoot quiz)
+
+- PC: kahoot.com 또는 kahoot.it (즉석 퀴즈 참여)
+- Mobile: kahoot app 설치 또는 kahoot.it (즉석 퀴즈 참여)
+
+---
+
+## Prestudy: wk13
+
+### 입자 물리학 (Elementary Particle Physics)
+
+> 표준 모형 / 입자가속기 / 쿼크 / 경입자 / 기본 힘 / (전자기력) / 양자전기역학 / (게이지 보스입자) / (카시미르 효과와 영점에너지) / 강한 핵력 / (양자색역학) / 약한 핵력 / (힉스 장과 힉스 보스입자) / 대통일이론 / (대칭 / [중력자 / 모든 것의 이론] / 끈 이론 / 여분의 차원들 / 강입자 충돌기)
+
+## keywords
+
+- 표준모형
+- 대통일이론
+- 끈이론과 모든 것의 이론
+
+---
+
+### ● 입자물리학에 대한 토론
+
+- ## 주제 1. 표준모형
+
+  > [Youtube: 표준 모형]()
+
+- ## 주제 2. 대통일이론
+
+  > [Youtube: 대통일이론]()
+
+- ## 주제 3. 모든 것의 이론
+  > [Youtube: 모든 것의 이론]()
+
+---
+
+### ● 입자물리학의 이해 및 개념 확인 퀴즈 6개 (Kahoot quiz)
+
+- PC: kahoot.com 또는 kahoot.it (즉석 퀴즈 참여)
+- Mobile: kahoot app 설치 또는 kahoot.it (즉석 퀴즈 참여)
+
+---
+
+# 수업자료실 : github
+
+# > [Redwood's GitHub](https://github.com/redwoods/physics)
+
+> https://github.com/redwoods/physics
+
+---
