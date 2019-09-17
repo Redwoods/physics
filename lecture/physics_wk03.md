@@ -40,7 +40,7 @@
 - 중력과 행성의 운동
 - 회전운동, 각운동량
 
-> 속력, 속도와 가속도 / 질량, 관성, 무게 / 마찰력 / 운동량 / 일, 에너지와 일률 / 운동에너지와 위치에너지 / 탄성충돌과 비탄성충돌 / 뉴턴의운동법칙 / 식과 운동 그래프 / 궤도 / 케플러의 행성 운동 법칙 / 뉴턴의 인력 / 각운동량 / 구심력과 원심력 / 코리올리효과
+> 속력, 속도와 가속도 / 질량, 관성, 무게 / 마찰력 / 운동량 / 일, 에너지와 일률 / 운동에너지와 위치에너지 / 탄성충돌과 비탄성충돌 / 뉴턴의운동법칙 / (식과 운동 그래프) / 궤도 / 케플러의 행성 운동 법칙 / 뉴턴의 인력 / 각운동량 / 구심력과 원심력 / 코리올리효과
 
 ---
 ### 오늘의 물리
@@ -57,9 +57,8 @@
 > (source: http://ncc.phinf.naver.net/ncc02/2012/7/16/173/4.jpg?type=w646)  
 > [- 아르키메데스의 지렛대](https://www.scienceall.com/%EC%95%84%EB%A5%B4%ED%82%A4%EB%A9%94%EB%8D%B0%EC%8A%A4%EC%9D%98-%EC%A7%80%EB%A0%9B%EB%8C%80%EC%9D%98-%EC%9B%90%EB%A6%AC%EC%99%80-%EC%9B%90%EC%A3%BC%EC%9C%A8/)  
 > ![지구 들어 올리기](https://cba.snu.ac.kr/webdata/sbl-column/img/142_01.gif)  
-> (source: https://www.scienceall.com/%EC%95%84%EB%A5%B4%ED%82%A4%EB%A9%94%EB%8D%B0%EC%8A%A4%EC%9D%98-%EC%A7%80%EB%A0%9B%EB%8C%80%EC%9D%98-%EC%9B%90%EB%A6%AC%EC%99%80-%EC%9B%90%EC%A3%BC%EC%9C%A8/  
+> (source: https://www.scienceall.com/%EC%95%84%EB%A5%B4%ED%82%A4%EB%A9%94%EB%8D%B0%EC%8A%A4%EC%9D%98-%EC%A7%80%EB%A0%9B%EB%8C%80%EC%9D%98-%EC%9B%90%EB%A6%AC%EC%99%80-%EC%9B%90%EC%A3%BC%EC%9C%A8/)    
 > https://cba.snu.ac.kr/webdata/sbl-column/img/142_01.gif)  
-> https://cba.snu.ac.kr/ko/sblcolumn?mode=view&bbsidx=77835
 > ![워라벨](https://previews.123rf.com/images/cbies/cbies1603/cbies160300003/54712452-%EC%9D%BC%EA%B3%BC-%EC%82%B6%EC%9D%98-%EA%B7%A0%ED%98%95-%EB%82%98%EB%AC%B4-%EC%8B%9C%EC%86%8C%EC%97%90-%EB%8B%A8%EC%96%B4.jpg)  
 > (source: https://previews.123rf.com/images/cbies/cbies1603/cbies160300003/54712452-%EC%9D%BC%EA%B3%BC-%EC%82%B6%EC%9D%98-%EA%B7%A0%ED%98%95-%EB%82%98%EB%AC%B4-%EC%8B%9C%EC%86%8C%EC%97%90-%EB%8B%A8%EC%96%B4.jpg)
 
@@ -192,7 +191,7 @@
 
 ## Prestudy: wk04
 
-### ● 운동에 대한 토론 (1시간)
+### ● 운동에 대한 토론 (1시간), 그리고 1차 Quiz
 
 - 주제 1 사과의 떨어짐과 달의 공전
 - 주제 2 야구에서 공의 회전에 따른 구종과 유체역학
@@ -204,7 +203,7 @@
 - 도플러 효과
 - 음악과 잡음
 
-> 파동의 성질 / 하위헌스의원리 / 간섭 / 변조 / 음파 / 도플러효과 / 음향학 / 조화파와 공명
+> 파동의 성질 / 하위헌스의원리 / 간섭 / 변조 / 음파 / 도플러효과 / (음향학) / 조화파와 공명
 
 ## keywords
 
