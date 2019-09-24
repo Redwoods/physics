@@ -15,18 +15,18 @@
 — Giles Sparrow
 
 ## keywords
-
-### `atom`, genome, bit
-
-- 물리, 물리학 , physics 
-- 고전물리학
-- 열역학
-- 전자기학
-- 광학
-- 현대물리학
-- 양자물리학
-- 우주론
-- 상대성이론
+### **atom**, genome, bit
+---
+- 물리, 물리학 , physics
+  - 고전물리학
+  - 열역학
+  - 전자기학
+  - 광학
+  - 현대물리학
+  - 양자물리학
+  - 입자물리학
+  - 우주론
+  - 상대성이론
 
 ***
 
@@ -36,8 +36,7 @@
 - 주제 2 야구에서 공의 회전에 따른 구종과 유체역학
 > [Youtube: 마그누스 효과 = 공의 회전에 따른 구종과 유체역학](https://www.youtube.com/watch?v=0rUvdUXunNo)
 - 주제 3 카오스 이론의 한계
-> [Youtube: 카오스 이론의 한계](https://www.youtube.com/watch?v=J-27YGFEFs4)
-> - [Youtube: 로렌츠의 물레방아](https://www.youtube.com/watch?v=7bJ6U7B4cQ8)
+> [Youtube: 카오스 이론: 나비효과](https://www.youtube.com/watch?v=ee_DFV49VHQ)  
 > - [Youtube: 프랙탈(Fractal) 이해하기!](https://www.youtube.com/watch?v=ziJrrbI2tis)
 
 ---
@@ -47,17 +46,15 @@
 - Mobile: kahoot app 설치 또는 kahoot.it (즉석 퀴즈 참여)
 
 ---
+> - [교재-구글이북](https://books.google.co.kr/books?id=fVgzDwAAQBAJ&pg=PT9&lpg=PT9&dq=%EC%A7%88%EB%9F%89+%EA%B4%80%EC%84%B1+%EB%AC%B4%EA%B2%8C&source=bl&ots=qETYTIeDQa&sig=ACfU3U03GoLroFvgyDAEoghcWkENtb3W6w&hl=ko&sa=X&ved=2ahUKEwiJ2r6e7vjgAhVdyYsBHSwRBLEQ6AEwCnoECAEQAQ#v=onepage&q=%EC%A7%88%EB%9F%89%20%EA%B4%80%EC%84%B1%20%EB%AC%B4%EA%B2%8C&f=false)
 
+***
 ### ● 진동과 떨림의 세계에 대한 개념 형성 및 이해
 - 파동과 진동, 지진파
 - 도플러 효과
-- 음악과 잡음
+- 조화파와 공명
 
-> 파동의 성질 / 하위헌스의원리 / 간섭 / 변조 / 음파 / 도플러효과 / 음향학 / 조화파와 공명 
-
-***
-
-> - [교재-구글이북](https://books.google.co.kr/books?id=fVgzDwAAQBAJ&pg=PT9&lpg=PT9&dq=%EC%A7%88%EB%9F%89+%EA%B4%80%EC%84%B1+%EB%AC%B4%EA%B2%8C&source=bl&ots=qETYTIeDQa&sig=ACfU3U03GoLroFvgyDAEoghcWkENtb3W6w&hl=ko&sa=X&ved=2ahUKEwiJ2r6e7vjgAhVdyYsBHSwRBLEQ6AEwCnoECAEQAQ#v=onepage&q=%EC%A7%88%EB%9F%89%20%EA%B4%80%EC%84%B1%20%EB%AC%B4%EA%B2%8C&f=false)
+> 파동의 성질 / 하위헌스의원리 / 간섭 / 변조 / 음파 / 도플러효과 / (음향학) / 조화파와 공명 
 
 ***
 
@@ -168,7 +165,7 @@
 - 광학 기구: 렌즈, 망원경, 현미경
 - 회절과 간섭을 이용한 기구: 회절 격자, 간섭계 
 
-> 광학 / 반사 / 굴절 / 전반사 / 회절 / 분해능 / 산란과 흡수 / 편광 / 렌즈와 프리즘 / 망원경 / 현미경 / 회절격자 / 간섭계
+> 광학 / 반사 / 굴절 / 전반사 / 회절 / (분해능) / 산란과 흡수 / 편광 / 렌즈와 프리즘 / (망원경) / (현미경) / 회절격자 / 간섭계
 
 
 ## keywords
