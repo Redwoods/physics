@@ -15,18 +15,23 @@
 — Giles Sparrow
 
 ## keywords
+### **atom**, genome, bit
+---
 
-### `atom`, genome, bit
+- 물리, 물리학 , physics
+  - 고전물리학
+  - 열역학
+  - 전자기학
+  - 광학
+  - 현대물리학
+  - 양자물리학
+  - 입자물리학
+  - 우주론
+  - 상대성이론
 
-- 물리, 물리학 , physics 
-- 고전물리학
-- 열역학
-- 전자기학
-- 광학
-- 현대물리학
-- 양자물리학
-- 우주론
-- 상대성이론
+***
+
+> - [교재-구글이북](https://books.google.co.kr/books?id=fVgzDwAAQBAJ&pg=PT9&lpg=PT9&dq=%EC%A7%88%EB%9F%89+%EA%B4%80%EC%84%B1+%EB%AC%B4%EA%B2%8C&source=bl&ots=qETYTIeDQa&sig=ACfU3U03GoLroFvgyDAEoghcWkENtb3W6w&hl=ko&sa=X&ved=2ahUKEwiJ2r6e7vjgAhVdyYsBHSwRBLEQ6AEwCnoECAEQAQ#v=onepage&q=%EC%A7%88%EB%9F%89%20%EA%B4%80%EC%84%B1%20%EB%AC%B4%EA%B2%8C&f=false)
 
 ***
 
@@ -37,10 +42,6 @@
 - 흑체복사
 
 > 가시광선 / 적외 복사 / 전파 / 마이크로파 / 자외선 복사 / 엑스선 / (감마선) / (분광학)/광자 / 레이저 / 홀로그래피 / 흑체복사 / (체렌코프복사)
-
-***
-
-> - [교재-구글이북](https://books.google.co.kr/books?id=fVgzDwAAQBAJ&pg=PT9&lpg=PT9&dq=%EC%A7%88%EB%9F%89+%EA%B4%80%EC%84%B1+%EB%AC%B4%EA%B2%8C&source=bl&ots=qETYTIeDQa&sig=ACfU3U03GoLroFvgyDAEoghcWkENtb3W6w&hl=ko&sa=X&ved=2ahUKEwiJ2r6e7vjgAhVdyYsBHSwRBLEQ6AEwCnoECAEQAQ#v=onepage&q=%EC%A7%88%EB%9F%89%20%EA%B4%80%EC%84%B1%20%EB%AC%B4%EA%B2%8C&f=false)
 
 ***
 
@@ -149,8 +150,8 @@
 > [Youtube: 전자기파 스펙트럼-  NASA](https://www.youtube.com/watch?v=cfXzwh3KadE)  
 
 - ## 주제 2. 홀로그래피의 이해 
+> [Youtube: 홀로그래피 원리](https://www.youtube.com/watch?v=uCx1ntBsJqE)  
 > [Youtube: 홀로그래피](https://www.youtube.com/watch?v=erGradhsJhI)  
-> [Youtube: 홀로그래피 원리](https://www.youtube.com/watch?v=uCx1ntBsJqE)
 
 - ## 주제 3. 흑체복사 원리는?
 > [Youtube: 흑체복사](https://www.youtube.com/watch?v=qY4UICrx_SY) 
