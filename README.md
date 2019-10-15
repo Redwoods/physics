@@ -3,6 +3,7 @@
 > Introduction to the world of Physics for the undergraduate students, Inje University, GimHae.
 
 # ● 중간시험 안내 
+- 대상: 화/목 수업 수강 학생
 - 시간: 4월24일(목요일) 오후 5시00~50분
 - 장소: C101
 - 시험범위
