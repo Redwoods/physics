@@ -15,18 +15,19 @@
 — Giles Sparrow
 
 ## keywords
+### **atom**, genome, bit
+---
 
-### `atom`, genome, bit
-
-- 물리, 물리학 , physics 
-- 고전물리학
-- 열역학
-- 전자기학
-- 광학
-- 현대물리학
-- 양자물리학
-- 우주론
-- 상대성이론
+- 물리, 물리학 , physics
+  - 고전물리학
+  - 열역학
+  - 전자기학
+  - 광학
+  - 현대물리학
+  - 양자물리학
+  - 입자물리학
+  - 우주론
+  - 상대성이론
 
 ***
 
@@ -50,8 +51,8 @@
 - 물질의 상태와 내부 구조 
 - 물질 내 결합 구조 
 - 물질의 미시 구조와 구성 요소  
-![양성자2](http://www.dgunews.com/news/photo/200809/545_440_5054.jpg)  
-(source: http://www.dgunews.com/news/photo/200809/545_440_5054.jpg) 
+![양성자2](https://ipfs.busy.org/ipfs/QmYygLHRH3YVpzDfijiwtYVcGnSfqAVyJQXPk3LkX9qWHa)  
+(source: https://ipfs.busy.org/ipfs/QmYygLHRH3YVpzDfijiwtYVcGnSfqAVyJQXPk3LkX9qWHa) 
 
 ---
 
@@ -79,10 +80,9 @@
 
 > ### 양성자
 - ## 원자핵 내부에서 + 전하를 띤 무거운 입자   
-![양성자1](http://lovescience.pe.kr/Themepark/nucleus/images/ruth_chad.gif)  
-(source: http://lovescience.pe.kr/Themepark/nucleus/images/ruth_chad.gif)  
-![양성자2](http://study.zumst.com/upload/00-T33-00-12-01/%EC%9D%B4%EB%AF%B8%EC%A7%80%20001.png)  
-(source: http://study.zumst.com/upload/00-T33-00-12-01/%EC%9D%B4%EB%AF%B8%EC%A7%80%20001.png)
+![양성자1](https://ipfs.busy.org/ipfs/QmXCWmPe9SMW1tm28AupJpZQv7HBWJ18S7iJM17iE9PdVJ)  
+(source: https://ipfs.busy.org/ipfs/QmXCWmPe9SMW1tm28AupJpZQv7HBWJ18S7iJM17iE9PdVJ)  
+
  
 ---
 
