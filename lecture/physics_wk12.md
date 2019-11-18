@@ -35,7 +35,7 @@
 
 ### 양자물리학 (Quantum Physics)
 
-> 광전효과 / 파동-입자 이중성 / 드브로이의 가설 / (전자현미경) / 슈뢰딩거 파동방정식 / 양자 터널효과 / (코펜하겐 해석) / 양자역학과 불확정성원리 / 슈뢰딩거의 고양이 / (그 외의 양자 해석) / (양자수) / (스핀) / (보스입자와 페르미입자, 그리고 파울리의배타원리) / (자기공명 영상) / (축퇴) / (양자 얽힘) / 양자 계산과 암호 / (초유동체)
+> 광전효과 / 파동-입자 이중성 / 드브로이의 가설 / (전자현미경) / 슈뢰딩거 파동방정식 / 양자 터널효과 / (코펜하겐 해석) / 양자역학과 불확정성원리 / 슈뢰딩거의 고양이 / (그 외의 양자 해석) / (양자수) / (스핀) / (보스입자와 페르미입자, 그리고 파울리의배타원리) / 자기공명 영상 / (축퇴) / (양자 얽힘) / 양자 계산과 암호 / (초유동체)
 
 ## keywords
 
@@ -53,6 +53,12 @@
 
   ![양자물리학](https://t1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/2XtG/image/NAJTks1RHJvZ3uzh3nuMeatPrX8.jpg)  
   (source: https://t1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/2XtG/image/NAJTks1RHJvZ3uzh3nuMeatPrX8.jpg)
+
+- 양자물리의 세계관
+  
+  ![에너지준위와 아파트 층](https://github.com/Redwoods/physics/blob/master/media/quantized_floors.png?raw=true)  
+  
+  (source: Das, Kunal K. The Quantum Rules: How the Laws of Physics Explain Love, Success, and Everyday Life . Skyhorse. 2015)
 
 ---
 
@@ -175,7 +181,9 @@
   > [Youtube: 슈레딩거의 고양이](https://www.youtube.com/watch?v=39pGNND9ue4)
 
 * ## 주제 3. 양자 계산과 암호
-  > [Youtube: 양자 계산과 암호](https://www.youtube.com/watch?v=QlbKFqZjwEQ)
+  > [Youtube: 양자 계산과 암호](https://www.youtube.com/watch?v=QlbKFqZjwEQ)  
+  > [Youtube: 양자 우월성 (quantum supremacy, 2019)](https://www.youtube.com/watch?v=Vo6ix2FZrVE)
+
 
 ---
 
@@ -183,6 +191,9 @@
 
 - PC: kahoot.com 또는 kahoot.it (즉석 퀴즈 참여)
 - Mobile: kahoot app 설치 또는 kahoot.it (즉석 퀴즈 참여)
+
+
+* [슈레딩어의 고양이 최근 연구 동향](https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=081&aid=0003004582)
 
 ---
 
