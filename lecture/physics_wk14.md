@@ -96,9 +96,9 @@
 > ### 시간 지연과 로런츠 인자
 
 - 움직이는 물체 내의 시간은 길어진다.
-- 열차 밖의 사람이 느끼는 열차 안의 시간은 길어진다.  
-   ![시간 지연](https://w.namu.la/s/457701dbd1c579ab7b0447f449bb92b690c25039fdbeb87e1fb0c0055bddae15d8d7e625cb60d16e346d16cd5420fce268614820b44a22b15c3f75bb6301eaa7a6a5adc908c63bd7396a617a43a7baedd38a7f601dcb48e6fb2cb41701ba004f)  
-   (source: https://w.namu.la/s/457701dbd1c579ab7b0447f449bb92b690c25039fdbeb87e1fb0c0055bddae15d8d7e625cb60d16e346d16cd5420fce268614820b44a22b15c3f75bb6301eaa7a6a5adc908c63bd7396a617a43a7baedd38a7f601dcb48e6fb2cb41701ba004f)
+- 열차 밖의 사람이 느끼는 열차 안의 시간은 길어진다.    
+   ![시간 지연](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfOrEqzem4PovIqr_0nAzTDZ6ZVMPM1Gv0iPJBkVsICs-qnaMD&s)  
+   (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfOrEqzem4PovIqr_0nAzTDZ6ZVMPM1Gv0iPJBkVsICs-qnaMD&s)  
 - 로렌츠 인자  
   http://pds13.egloos.com/pds/200904/16/80/c0093580_49e7158ee8ffa.jpg
 
