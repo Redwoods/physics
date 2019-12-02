@@ -97,7 +97,7 @@
 
 - 움직이는 물체 내의 시간은 길어진다.
 - 열차 밖의 사람이 느끼는 열차 안의 시간은 길어진다.  
-  ![시간 지연](https://w.namu.la/s/457701dbd1c579ab7b0447f449bb92b690c25039fdbeb87e1fb0c0055bddae15d8d7e625cb60d16e346d16cd5420fce268614820b44a22b15c3f75bb6301eaa7a6a5adc908c63bd7396a617a43a7baedd38a7f601dcb48e6fb2cb41701ba004f)  
+   ![시간 지연](https://w.namu.la/s/457701dbd1c579ab7b0447f449bb92b690c25039fdbeb87e1fb0c0055bddae15d8d7e625cb60d16e346d16cd5420fce268614820b44a22b15c3f75bb6301eaa7a6a5adc908c63bd7396a617a43a7baedd38a7f601dcb48e6fb2cb41701ba004f)  
    (source: https://w.namu.la/s/457701dbd1c579ab7b0447f449bb92b690c25039fdbeb87e1fb0c0055bddae15d8d7e625cb60d16e346d16cd5420fce268614820b44a22b15c3f75bb6301eaa7a6a5adc908c63bd7396a617a43a7baedd38a7f601dcb48e6fb2cb41701ba004f)
 - 로렌츠 인자  
   http://pds13.egloos.com/pds/200904/16/80/c0093580_49e7158ee8ffa.jpg
@@ -223,21 +223,6 @@
 
 ---
 
----
-
-## 기말 시험 안내: wk15
-
-- 시간: 6월19일(수요일) 오후 5시00~50분
-- 장소: C226
-- 시험범위
-  - 교재: 물질, 전기/자기, 핵물리학, 양자물리학, 입자물리학, 상대성이론과 우주론
-  - 시험형태: 4지선다형, 단답형, 설명형
-  - 배점: 30 (총점의 30%)
-  - Kahoot Quiz에서 다룬 문제에서 60% 이상 출제.
-
----
-
----
 
 # 수업자료실 : github
 
