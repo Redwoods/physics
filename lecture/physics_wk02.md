@@ -18,7 +18,7 @@
 ---
 
 - 물리, 물리학 , physics
-  - 고전물리학
+  - 고전물리학: 역학
   - 열역학
   - 전자기학
   - 광학
@@ -177,6 +177,8 @@ https://m.blog.naver.com/PostView.nhn?blogId=qjqh159&logNo=220642115511&proxyRef
 - 기체분자운동
 - 베르누이정리
 - 카오스이론이란?
+
+## Quiz-1차
 
 ---
 
