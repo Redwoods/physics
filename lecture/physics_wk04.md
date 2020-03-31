@@ -29,22 +29,6 @@
   - 상대성이론
 
 ***
-
-### ● 운동에 대한 토론 (35분/1시간)
-- 주제 1 사과의 떨어짐과 달의 공전
-> [Youtube: 사과의 떨어짐과 달의 공전](https://www.youtube.com/watch?v=Tkb2OMgim14)
-- 주제 2 야구에서 공의 회전에 따른 구종과 유체역학
-> [Youtube: 마그누스 효과 = 공의 회전에 따른 구종과 유체역학](https://www.youtube.com/watch?v=0rUvdUXunNo)
-- 주제 3 카오스 이론의 한계
-> [Youtube: 카오스 이론: 나비효과](https://www.youtube.com/watch?v=ee_DFV49VHQ)  
-> - [Youtube: 프랙탈(Fractal) 이해하기!](https://www.youtube.com/watch?v=ziJrrbI2tis)
-
----
-
-### ● 운동에 대한 이해 및 개념 확인 퀴즈 6개 (Kahoot quiz, 25분/1시간)
-- PC: kahoot.com 또는 kahoot.it (즉석 퀴즈 참여)
-- Mobile: kahoot app 설치 또는 kahoot.it (즉석 퀴즈 참여)
-
 ---
 > - [교재-구글이북](https://books.google.co.kr/books?id=fVgzDwAAQBAJ&pg=PT9&lpg=PT9&dq=%EC%A7%88%EB%9F%89+%EA%B4%80%EC%84%B1+%EB%AC%B4%EA%B2%8C&source=bl&ots=qETYTIeDQa&sig=ACfU3U03GoLroFvgyDAEoghcWkENtb3W6w&hl=ko&sa=X&ved=2ahUKEwiJ2r6e7vjgAhVdyYsBHSwRBLEQ6AEwCnoECAEQAQ#v=onepage&q=%EC%A7%88%EB%9F%89%20%EA%B4%80%EC%84%B1%20%EB%AC%B4%EA%B2%8C&f=false)
 
