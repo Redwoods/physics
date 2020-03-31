@@ -188,14 +188,25 @@
   - 로렌츠의 나비와 기상
 
 ---
+## ● 운동에 대한 토론, 그리고 1차 Quiz
+
+### ● 운동에 대한 토론 
+- 주제 1 사과의 떨어짐과 달의 공전
+> [Youtube: 사과의 떨어짐과 달의 공전](https://www.youtube.com/watch?v=Tkb2OMgim14)
+- 주제 2 야구에서 공의 회전에 따른 구종과 유체역학
+> [Youtube: 마그누스 효과 = 공의 회전에 따른 구종과 유체역학](https://www.youtube.com/watch?v=0rUvdUXunNo)
+- 주제 3 카오스 이론의 한계
+> [Youtube: 카오스 이론: 나비효과](https://www.youtube.com/watch?v=ee_DFV49VHQ)  
+> - [Youtube: 프랙탈(Fractal) 이해하기!](https://www.youtube.com/watch?v=ziJrrbI2tis)
+
+---
+
+### ● 운동에 대한 이해 및 개념 확인 퀴즈 7개 (Kahoot quiz)
+- PC: kahoot.com 또는 kahoot.it (즉석 퀴즈 참여)
+- Mobile: kahoot app 설치 또는 kahoot.it (즉석 퀴즈 참여)
+---
 
 ## Prestudy: wk04
-
-### ● 운동에 대한 토론 (1시간), 그리고 1차 Quiz
-
-- 주제 1 사과의 떨어짐과 달의 공전
-- 주제 2 야구에서 공의 회전에 따른 구종과 유체역학
-- 주제 3 카오스 이론의 한계
 
 ### ● 진동과 떨림의 세계에 대한 개념 형성 및 이해
 
