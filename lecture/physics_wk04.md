@@ -57,6 +57,9 @@
 > ![횡파와 종파](https://kimmy-ro.kimm.re.kr/images/learn/environ_v03_img01.gif)  
 (source: https://kimmy-ro.kimm.re.kr/images/learn/environ_v03_img01.gif)
 
+- ## 동영상 토론 1. 지진파의 이해
+> [Youtube: 지진파의 발생](https://www.youtube.com/watch?v=IsQoZyhzB_Q) 
+
 ---
 
 > ### `하위헌스의원리` : 파동 전파 
@@ -131,6 +134,9 @@
 - [link: 제진대의 공진주파수](http://ivic.co.kr/archives/385)
 - [link: Youtube-Braekdown of Tacoma bridge](https://www.youtube.com/watch?v=3mclp9QmCGs)
 
+- ## 동영상 토론 2. 공명으로 인한 거대한 파괴
+> [Youtube: Breakdown of Tacoma bridge](https://www.youtube.com/watch?v=3mclp9QmCGs) 
+
 ***
 
 ## keywords
@@ -141,6 +147,11 @@
     - 공명이란?
 
 ***
+
+### ● 진동과 떨림에 대한 이해 및 개념 확인 퀴즈 1차 5개 (Kahoot quiz)
+- PC: kahoot.com 또는 kahoot.it (즉석 퀴즈 참여)
+- Mobile: kahoot app 설치 또는 kahoot.it (즉석 퀴즈 참여)
+
 
 ## Prestudy: wk05
 
@@ -160,7 +171,7 @@
 
 ---
 
-### ● 진동과 떨림의 세계에 대한 토론 (1시간)
+### ● 진동과 떨림의 세계에 대한 토론
 - 주제 1 지진파의 이해
 > 
 - 주제 2 공명으로 인한 거대한 파괴
@@ -170,7 +181,7 @@
 
 ---
 
-### ● 진동과 떨림에 대한 이해 및 개념 확인 퀴즈 6개 (Kahoot quiz)
+### ● 진동과 떨림에 대한 이해 및 개념 확인 퀴즈 2차 5개 (Kahoot quiz)
 - PC: kahoot.com 또는 kahoot.it (즉석 퀴즈 참여)
 - Mobile: kahoot app 설치 또는 kahoot.it (즉석 퀴즈 참여)
 
