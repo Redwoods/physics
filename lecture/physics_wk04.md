@@ -54,8 +54,8 @@
 
 > `파동의 성질`
 - 횡파와 종파
-> ![횡파와 종파](https://kimmy-ro.kimm.re.kr/images/learn/environ_v03_img01.gif)  
-(source: https://kimmy-ro.kimm.re.kr/images/learn/environ_v03_img01.gif)
+> ![횡파와 종파](https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile3.uf.tistory.com%2Fimage%2F260E4E3757588BCD35255A)  
+(source: https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile3.uf.tistory.com%2Fimage%2F260E4E3757588BCD35255A)
 
 - ## 동영상 토론 1. 지진파의 이해
 > [Youtube: 지진파의 발생](https://www.youtube.com/watch?v=IsQoZyhzB_Q) 
