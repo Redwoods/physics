@@ -152,6 +152,7 @@
 - PC: kahoot.com 또는 kahoot.it (즉석 퀴즈 참여)
 - Mobile: kahoot app 설치 또는 kahoot.it (즉석 퀴즈 참여)
 
+***
 
 ## Prestudy: wk05
 
