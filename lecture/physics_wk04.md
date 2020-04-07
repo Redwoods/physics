@@ -127,8 +127,10 @@
 
 > ### `음향학` 
 - 가청주파수: 20~20000 Hz
+
 ![가청주파수](https://t1.daumcdn.net/cfile/tistory/234B3A445528C30003)  
 (SOURCE: https://t1.daumcdn.net/cfile/tistory/234B3A445528C30003)
+
 - 음압레벨 (dB)  
 ![음압레벨](https://t1.daumcdn.net/cfile/tistory/27759D3C586EC95408)  
 (https://t1.daumcdn.net/cfile/tistory/27759D3C586EC95408)
