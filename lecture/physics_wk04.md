@@ -99,9 +99,12 @@
 > ### `음파` 
 - 종파의 형태로 전파되는 압력의 변화
 - 공기에서보다 액체 또는 고체 안에서 음속은 빠르다.
+
 ![음파: 종파의 형태로 전파되는 압력의 변화](https://t1.daumcdn.net/cfile/tistory/245627475859EB5B13)  
 (SOURCE: https://t1.daumcdn.net/cfile/tistory/245627475859EB5B13)  
+
 - 음파와 스피커
+
 ![음파와 스피커](https://t1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/3QTe/image/fTmUseYW9w1deGpU3QcTbbGuXNg.png)  
 (source: https://t1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/3QTe/image/fTmUseYW9w1deGpU3QcTbbGuXNg.png)
 
