@@ -61,7 +61,7 @@
 > ![횡파와 종파 발생 실험](https://lh3.googleusercontent.com/proxy/lJk_zecGa1LWFivPMuGCF3ZzNB9qMVTfKF1RmpiXQ2TxqZN_ltmSICoH5r_X9aLk5dn7t5FTISuitHNuBTRTpF0w4E20ZGJSWnofx4Nxfw8RGZMRc8EoldCb7jTBXaB-6tRUSHBxQGQj83iGlNp2KxAcQ_z_Zit3Z4T8tfcimPrBfrx4bs61b-AjYn9xdsnFwnc8XJQOHGBIAxjzyXYp6ywV7K0RQt8yZsh7yTXRbzorLnUkWHpteZeTAwozfp3rCOQZThfT18aWd-oJycjJGn2vOZq1Mf-kJH5T1EM)  
 (source: https://lh3.googleusercontent.com/proxy/lJk_zecGa1LWFivPMuGCF3ZzNB9qMVTfKF1RmpiXQ2TxqZN_ltmSICoH5r_X9aLk5dn7t5FTISuitHNuBTRTpF0w4E20ZGJSWnofx4Nxfw8RGZMRc8EoldCb7jTBXaB-6tRUSHBxQGQj83iGlNp2KxAcQ_z_Zit3Z4T8tfcimPrBfrx4bs61b-AjYn9xdsnFwnc8XJQOHGBIAxjzyXYp6ywV7K0RQt8yZsh7yTXRbzorLnUkWHpteZeTAwozfp3rCOQZThfT18aWd-oJycjJGn2vOZq1Mf-kJH5T1EM)
 
->> 위의 그림에서 윗 그림이 종파, 아랫 그림이 횡파입니다. (그림 오류에 주의) 
+>> 위의 그림에서 윗 그림이 횡파, 아랫 그림이 종파입니다. (그림 오류에 주의. 단 영어는 변동 없이 정확함.) 
 
 
 ---
