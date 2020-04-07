@@ -29,7 +29,7 @@
   - 상대성이론
 
 ***
----
+
 > - [교재-구글이북](https://books.google.co.kr/books?id=fVgzDwAAQBAJ&pg=PT9&lpg=PT9&dq=%EC%A7%88%EB%9F%89+%EA%B4%80%EC%84%B1+%EB%AC%B4%EA%B2%8C&source=bl&ots=qETYTIeDQa&sig=ACfU3U03GoLroFvgyDAEoghcWkENtb3W6w&hl=ko&sa=X&ved=2ahUKEwiJ2r6e7vjgAhVdyYsBHSwRBLEQ6AEwCnoECAEQAQ#v=onepage&q=%EC%A7%88%EB%9F%89%20%EA%B4%80%EC%84%B1%20%EB%AC%B4%EA%B2%8C&f=false)
 
 ***
@@ -62,7 +62,6 @@
 (source: https://lh3.googleusercontent.com/proxy/lJk_zecGa1LWFivPMuGCF3ZzNB9qMVTfKF1RmpiXQ2TxqZN_ltmSICoH5r_X9aLk5dn7t5FTISuitHNuBTRTpF0w4E20ZGJSWnofx4Nxfw8RGZMRc8EoldCb7jTBXaB-6tRUSHBxQGQj83iGlNp2KxAcQ_z_Zit3Z4T8tfcimPrBfrx4bs61b-AjYn9xdsnFwnc8XJQOHGBIAxjzyXYp6ywV7K0RQt8yZsh7yTXRbzorLnUkWHpteZeTAwozfp3rCOQZThfT18aWd-oJycjJGn2vOZq1Mf-kJH5T1EM)
 
 >> 위의 그림에서 윗 그림이 횡파, 아랫 그림이 종파입니다. (그림 오류에 주의. 단 영어는 변동 없이 정확함.) 
-
 
 ---
 
@@ -165,7 +164,7 @@
 
 ## Prestudy: wk05
 
-### ● 진동과 떨림의 세계에 대한 개념 형성 및 이해
+### ● 진동과 떨림의 세계에 대한 개념 형성 및 이해 - 빛과 광학
 - 광학: 반사, 굴절, 회절
 - 빛의 변화: 산란과 편돵
 - 광학 기구: 렌즈, 망원경, 현미경
