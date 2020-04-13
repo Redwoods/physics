@@ -69,6 +69,8 @@
 ![전반사와 광섬유 ](https://www.scienceall.com/nas/image/201304/AI403_36.jpg)   
 (source: https://www.scienceall.com/nas/image/201304/AI403_36.jpg)
 
+> ## [Youtube: 굴절, 전반사, 광섬유, 그리고 광통신](https://www.youtube.com/watch?v=FbphrqB9Nwo)
+
 > ### 회절
 ![회절의 구조](http://cfile239.uf.daum.net/image/1676F54E50C84AD129E9C9)   
 (source: http://cfile239.uf.daum.net/image/1676F54E50C84AD129E9C9)
