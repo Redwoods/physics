@@ -175,7 +175,7 @@
 
 ---
 
-### ● 진동과 떨림에 대한 이해 및 개념 확인 퀴즈 6개 (Kahoot quiz)
+### ● 빛과 광학에 대한 이해 및 개념 확인 퀴즈 5개 (Kahoot quiz)
 - PC: kahoot.com 또는 kahoot.it (즉석 퀴즈 참여)
 - Mobile: kahoot app 설치 또는 kahoot.it (즉석 퀴즈 참여)
 
