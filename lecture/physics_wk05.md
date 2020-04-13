@@ -45,6 +45,7 @@
 
 ## 광학
 - 광학 / 반사 / 굴절 / 전반사 / 회절 / (분해능)
+
 > ### 광학
 ![광학](https://image.freepik.com/free-vector/no-translate-detected_68708-37.jpg)   
 (source: https://image.freepik.com/free-vector/no-translate-detected_68708-37.jpg)  
@@ -54,22 +55,31 @@
 (source: http://proi.edupia.com/contents/proicontents/proi/proi/middle/SchoolBook/seb/images/2term/smsc1/401663.jpg)
 
 > ### 굴절
+
 - 장난감 자동차는 어느 방향으로 진행?
+
 ![지동차의 굴절](https://t1.daumcdn.net/cfile/tistory/22069F40523122CD06)   
 (source: https://t1.daumcdn.net/cfile/tistory/22069F40523122CD06)  
+
 - 빛의 굴절  
+
 ![빛의 굴절](http://kinimage.naver.net/storage/upload/2004/11/57/pikachu0116_1101734343.jpg)   
 (source: http://kinimage.naver.net/storage/upload/2004/11/57/pikachu0116_1101734343.jpg)  
 
 > ### 전반사
 - ### 전반사와 임계각  
+
 ![전반사와 임계각](http://cfs1.blog.daum.net/upload_control/download.blog?fhandle=MDhmOW5AZnMxLmJsb2cuZGF1bS5uZXQ6L0lNQUdFLzAvMC5qcGc=&filename=0.jpg)   
 (source: http://cfs1.blog.daum.net/upload_control/download.blog?fhandle=MDhmOW5AZnMxLmJsb2cuZGF1bS5uZXQ6L0lNQUdFLzAvMC5qcGc=&filename=0.jpg)  
+
 - ### 전반사와 광섬유
+
 ![전반사와 광섬유 ](https://www.scienceall.com/nas/image/201304/AI403_36.jpg)   
 (source: https://www.scienceall.com/nas/image/201304/AI403_36.jpg)
 
 > ## [Youtube: 굴절, 전반사, 광섬유, 그리고 광통신](https://www.youtube.com/watch?v=FbphrqB9Nwo)
+
+---
 
 > ### 회절
 ![회절의 구조](http://cfile239.uf.daum.net/image/1676F54E50C84AD129E9C9)   
@@ -82,16 +92,22 @@
 - 산란과 흡수 / 편광
 
 > `산란과 흡수`
+
 - 산란  
 - 하늘이 파란 이유
+
 > ![하늘이 파란 이유](http://mblogthumb4.phinf.naver.net/MjAxNzAxMzFfMjcx/MDAxNDg1ODIwODI5MTk2.QZF28_CiYjDSW_jeGSKXW1CArwBa3RFIypPvlilbt08g.yb1x4hHjJGiKWrOk9BBvtrqeWdIVil-dm08NMZhXwvIg.GIF.youngdisplay/8.gif?type=w2)  
 (source: http://mblogthumb4.phinf.naver.net/MjAxNzAxMzFfMjcx/MDAxNDg1ODIwODI5MTk2.QZF28_CiYjDSW_jeGSKXW1CArwBa3RFIypPvlilbt08g.yb1x4hHjJGiKWrOk9BBvtrqeWdIVil-dm08NMZhXwvIg.GIF.youngdisplay/8.gif?type=w2)  
+
 - 노을이 붉은 이유
+
 > ![노을이 붉은 이유](http://mblogthumb4.phinf.naver.net/20140314_179/staryoorang_139476212369549xPu_JPEG/%C7%CF%B4%C3%C0%CC_%C6%C4%B6%F5_%C0%CC%C0%AF.jpg?type=w2)  
 (source: http://mblogthumb4.phinf.naver.net/20140314_179/staryoorang_139476212369549xPu_JPEG/%C7%CF%B4%C3%C0%CC_%C6%C4%B6%F5_%C0%CC%C0%AF.jpg?type=w2)
 
 > `편광`  
+
 - 빛 즉 전자기파에서 전기장의 진동 방향 
+
 > ![편광 현상의란?](https://post-phinf.pstatic.net/MjAxODAxMTJfNjEg/MDAxNTE1NzIyMzc5ODc1.RKwnFE9XsqLFEtksphO1nxVvOkPG9ICe89U17g93kr4g.FUs6o0s9tk_OYNXEhmS2_22l4JbNbhVGsuDjhSnS8jgg.JPEG/temp_1515722309035.1801742643.jpeg?type=w1200)  
 (source: https://post-phinf.pstatic.net/MjAxODAxMTJfNjEg/MDAxNTE1NzIyMzc5ODc1.RKwnFE9XsqLFEtksphO1nxVvOkPG9ICe89U17g93kr4g.FUs6o0s9tk_OYNXEhmS2_22l4JbNbhVGsuDjhSnS8jgg.JPEG/temp_1515722309035.1801742643.jpeg?type=w1200)
 
@@ -102,25 +118,31 @@
 - 렌즈와 프리즘 / (망원경) / (현미경) / 회절격자 / 간섭계
 
 > ### `렌즈와 프리즘` 
+
 - 오목/볼록 렌즈
 ![오목/볼록 렌즈](https://www.scienceall.com/nas/image/201303/201303051201332_N541S7FU.jpg)  
 (SOURCE: https://www.scienceall.com/nas/image/201303/201303051201332_N541S7FU.jpg)  
 
 - 프리즘과 파장에 따라 변하는 빛의 분산  
+
 ![프리즘](http://cfile203.uf.daum.net/R400x0/26785E50525D4812232BDF)  
 (SOURCE: http://cfile203.uf.daum.net/R400x0/26785E50525D4812232BDF) 
 
 ---
 
 > ### `회절격자` 
+
 - 파장에 따라 굴절 정도가 다른 빛의 성질을 이용하여 특정파장의 빛을 분리하는 도구  
+
 ![특정파장의 빛을 분리하는 도구](http://cfile210.uf.daum.net/image/206E51425037181908BCF6)  
 (SOURCE: http://cfile210.uf.daum.net/image/206E51425037181908BCF6)  
 
 ---
 
 > ### `간섭계` 
+
 - 분리된 두 빛의 중첩과 간섭을 이용한 **정밀 거리 측정**  
+
 ![두 빛의 중첩과 간섭을 이용한 정밀 거리 측정](http://physica.gsnu.ac.kr/physedu/modexp/Michelson/fig2.gif)  
 (source: http://physica.gsnu.ac.kr/physedu/modexp/Michelson/fig2.gif)  
 
