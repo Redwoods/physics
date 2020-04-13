@@ -71,6 +71,7 @@
 
 > ### 전반사
 - ### 전반사와 임계각  
+  - 물 속에서 공기 중으로 빛이 나올 때
 
 ![전반사와 임계각](http://cfs1.blog.daum.net/upload_control/download.blog?fhandle=MDhmOW5AZnMxLmJsb2cuZGF1bS5uZXQ6L0lNQUdFLzAvMC5qcGc=&filename=0.jpg)   
 (source: http://cfs1.blog.daum.net/upload_control/download.blog?fhandle=MDhmOW5AZnMxLmJsb2cuZGF1bS5uZXQ6L0lNQUdFLzAvMC5qcGc=&filename=0.jpg)  
