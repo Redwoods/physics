@@ -212,7 +212,7 @@
 
 ### ● 전자기학-전자기파의 이해 및 개념 확인 퀴즈 6개 (Kahoot quiz)
 - PC: kahoot.com 또는 kahoot.it (즉석 퀴즈 참여)
-- Mobile: kahoot app 설치 또는 kahoot.it (즉석 퀴즈 참여)
+- Mobile: kahoot app 설치, 또는 kahoot.it (즉석 퀴즈 참여)
 
 # 수업자료실 : github
 
