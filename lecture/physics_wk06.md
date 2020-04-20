@@ -142,6 +142,7 @@
 
 ![홀로그래피](http://contents.dt.co.kr/images/201401/2014011302011860718002.jpg)  
 (source: http://contents.dt.co.kr/images/201401/2014011302011860718002.jpg)  
+
 ![홀로그래피의 원리](https://image.slidesharecdn.com/random-101031190804-phpapp01/95/-4-638.jpg?cb=1422584158)  
 (source: https://image.slidesharecdn.com/random-101031190804-phpapp01/95/-4-638.jpg?cb=1422584158)
 
@@ -158,6 +159,7 @@
 
 ![숯불 복사](https://t1.daumcdn.net/cfile/tistory/9904A7425AD20E9717) 
 (source: https://t1.daumcdn.net/cfile/tistory/9904A7425AD20E9717)
+
 ![연탄불](https://img.sbs.co.kr/newimg/news/20190123/201274771_1280.jpg)  
 (source: https://img.sbs.co.kr/newimg/news/20190123/201274771_1280.jpg)
 
