@@ -91,8 +91,8 @@
 
 - 마이크로파의 응용 -> 전자레인지, **Bluetooth**, ...  
 
-![마이크로파 응용](http://farm.resources.ebs.co.kr/edrb/thumb/201103/VOD_20110309_C0321_THM.jpg)   
-(source: http://farm.resources.ebs.co.kr/edrb/thumb/201103/VOD_20110309_C0321_THM.jpg)
+![마이크로파 응용](https://image.chosun.com/sitedata/image/201608/18/2016081801203_3.jpg)   
+(source: https://image.chosun.com/sitedata/image/201608/18/2016081801203_3.jpg)
 
 
 > ### 자외선 복사
