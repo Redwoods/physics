@@ -58,25 +58,32 @@
 
 
 > ### 가시광선
+
 ![가시광선](https://t1.daumcdn.net/cfile/tistory/256D154B572EEE8232)   
 (source: https://t1.daumcdn.net/cfile/tistory/256D154B572EEE8232)  
 
 > ### 적외 복사 (적외선)
+
 ![적외선](http://cfile205.uf.daum.net/image/2501EF3D56286BBF17C3BE)   
 (source: http://cfile205.uf.daum.net/image/2501EF3D56286BBF17C3BE)  
+
 - 적외선 촬영  
+
 ![적외선-인체 촬영](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Z6KsVkSl4NkMU1TFQse-4cXjLBo3AfMwNMVl_nheiJ6EtvAVXw)  
 (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Z6KsVkSl4NkMU1TFQse-4cXjLBo3AfMwNMVl_nheiJ6EtvAVXw)
 
 > ### 전파 (Radio 파)
+
 - 전파와 실용 사례
 ![전파](https://emf.kca.kr/publish/Images/elec_business/img_elec_business_business04_1.gif)   
 (source: https://emf.kca.kr/publish/Images/elec_business/img_elec_business_business04_1.gif)  
 
 > ### 마이크로파
+
 - 마이크로파의 법위  
 ![마이크로파](http://www.seehint.com/catalog/2015/2015_12/microwave.jpg)   
 (source: http://www.seehint.com/catalog/2015/2015_12/microwave.jpg)  
+
 - 마이크로파의 응용 -> 전자레인지, Bluetooth, ...  
 ![마이크로파 응용](http://farm.resources.ebs.co.kr/edrb/thumb/201103/VOD_20110309_C0321_THM.jpg)   
 (source: http://farm.resources.ebs.co.kr/edrb/thumb/201103/VOD_20110309_C0321_THM.jpg)
@@ -102,6 +109,7 @@
     - 파동
 ![파동-전자기파](http://www.lg-sl.net/sl_image/IQEX/IQEX2007/IQEX200704/IQEX200704001883.jpg)  
 (source: http://www.lg-sl.net/sl_image/IQEX/IQEX2007/IQEX200704/IQEX200704001883.jpg)  
+
     - 입자
 ![입자-광자](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Photoelectric_effect.svg/1200px-Photoelectric_effect.svg.png)  
 (source: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Photoelectric_effect.svg/1200px-Photoelectric_effect.svg.png) 
@@ -109,14 +117,18 @@
 ---
 
 > ### `레이저` 
+
 - 단일 파장의 간섭성 빛을 발생시키는 장치  
+
 ![wiki: 레이저](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy37urGN5biwh6TxmbHJVDHLFuzu9h9_-FF6luNTIUnHc9XgdL)  
 (SOURCE: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy37urGN5biwh6TxmbHJVDHLFuzu9h9_-FF6luNTIUnHc9XgdL)  
 
 ---
 
 > ### `홀로그래피` 
+
 - 원래 물체에 의해 여러 방향으로 흩어진 빛의 간섭을 기록  
+
 ![홀로그래피](http://contents.dt.co.kr/images/201401/2014011302011860718002.jpg)  
 (source: http://contents.dt.co.kr/images/201401/2014011302011860718002.jpg)  
 ![홀로그래피의 원리](https://image.slidesharecdn.com/random-101031190804-phpapp01/95/-4-638.jpg?cb=1422584158)  
@@ -125,10 +137,14 @@
 ---
 
 > ### `흑체복사` 
+
 - 열을 가하면 전자기파를 방출하는 현상  
+
 ![흑체복사](http://t1.daumcdn.net/encyclop/m24/AignIB1MFZgDapcjZ3mSBSBbfOT99SyYR4FF6DMO)  
 (source: http://t1.daumcdn.net/encyclop/m24/AignIB1MFZgDapcjZ3mSBSBbfOT99SyYR4FF6DMO)  
+
 - 연탄불(숯불) 복사
+
 ![숯불 복사](https://t1.daumcdn.net/cfile/tistory/9904A7425AD20E9717) 
 (source: https://t1.daumcdn.net/cfile/tistory/9904A7425AD20E9717)
 ![연탄불](https://img.sbs.co.kr/newimg/news/20190123/201274771_1280.jpg)  
