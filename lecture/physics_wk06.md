@@ -46,13 +46,16 @@
 ***
 
 ## 전자기파 스펙트럼  
+
 - ## 가시광선 / 적외 복사 / 전파 / 마이크로파 / 자외선 복사 / 엑스선 / (감마선) / (분광학)
 
 - 전자기파의 발생과 진행
+
 ![전자기파](http://www.lg-sl.net/sl_image/IQEX/IQEX2007/IQEX200704/IQEX200704001883.jpg)   
 (source: http://www.lg-sl.net/sl_image/IQEX/IQEX2007/IQEX200704/IQEX200704001883.jpg)  
 
 - 전자기파 스펙트럼
+
 ![전자기파 스펙트럼](https://www.scienceall.com/nas/image/201304/AI403_43.jpg)   
 (source: https://www.scienceall.com/nas/image/201304/AI403_43.jpg)
 
