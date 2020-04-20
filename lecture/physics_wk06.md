@@ -84,21 +84,21 @@
 
 > ### 마이크로파
 
-- 마이크로파의 법위  
+- 마이크로파의 범위  
 
 ![마이크로파](http://www.seehint.com/catalog/2015/2015_12/microwave.jpg)   
 (source: http://www.seehint.com/catalog/2015/2015_12/microwave.jpg)  
 
 - 마이크로파의 응용 -> 전자레인지, **Bluetooth**, ...  
 
-> 전자레인지의 원리
+  - 전자레인지의 원리
   
-![마이크로파 응용](https://image.chosun.com/sitedata/image/201608/18/2016081801203_3.jpg)   
+  ![마이크로파 응용](https://image.chosun.com/sitedata/image/201608/18/2016081801203_3.jpg)   
 (source: https://image.chosun.com/sitedata/image/201608/18/2016081801203_3.jpg)   
 
-> 블루투스 통신
+  - 블루투스 통신
   
-![블루투스 통신](https://post-phinf.pstatic.net/MjAxNzA0MjVfMTc1/MDAxNDkzMDk5MzEzMDI2.-wy29Tn83kvM7w5ECdpnKQIZJ27vumseBeYoxcgiiYog.AVCkdF0BWFq9gm6Rx2YWX3PSzq--aPVX7VlZJxG36fEg.PNG/%EB%B8%94%EB%A3%A8%ED%88%AC%EC%8A%A4.png?type=w1200)   
+  ![블루투스 통신](https://post-phinf.pstatic.net/MjAxNzA0MjVfMTc1/MDAxNDkzMDk5MzEzMDI2.-wy29Tn83kvM7w5ECdpnKQIZJ27vumseBeYoxcgiiYog.AVCkdF0BWFq9gm6Rx2YWX3PSzq--aPVX7VlZJxG36fEg.PNG/%EB%B8%94%EB%A3%A8%ED%88%AC%EC%8A%A4.png?type=w1200)   
 (source: https://post-phinf.pstatic.net/MjAxNzA0MjVfMTc1/MDAxNDkzMDk5MzEzMDI2.-wy29Tn83kvM7w5ECdpnKQIZJ27vumseBeYoxcgiiYog.AVCkdF0BWFq9gm6Rx2YWX3PSzq--aPVX7VlZJxG36fEg.PNG/%EB%B8%94%EB%A3%A8%ED%88%AC%EC%8A%A4.png?type=w1200)
 
 ---
