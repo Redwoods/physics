@@ -112,13 +112,16 @@
 - 광자 / 레이저 / 홀로그래피 / 흑체복사 / (체렌코프복사)
 
 > ### `광자` 
+
 - 빛은 입자(광자)인가 파동인가?  
 
     - 파동
+    
 ![파동-전자기파](http://www.lg-sl.net/sl_image/IQEX/IQEX2007/IQEX200704/IQEX200704001883.jpg)  
 (source: http://www.lg-sl.net/sl_image/IQEX/IQEX2007/IQEX200704/IQEX200704001883.jpg)  
 
     - 입자
+    
 ![입자-광자](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Photoelectric_effect.svg/1200px-Photoelectric_effect.svg.png)  
 (source: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Photoelectric_effect.svg/1200px-Photoelectric_effect.svg.png) 
 
