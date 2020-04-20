@@ -94,7 +94,7 @@
   - 전자레인지의 원리
   
 ![마이크로파 응용](https://image.chosun.com/sitedata/image/201608/18/2016081801203_3.jpg)   
-(source: https://image.chosun.com/sitedata/image/201608/18/2016081801203_3.jpg)  
+(source: https://image.chosun.com/sitedata/image/201608/18/2016081801203_3.jpg)   
 
   - 블루투스 통신
   
