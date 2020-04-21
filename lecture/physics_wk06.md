@@ -115,6 +115,10 @@
 
 ***
 
+> [Youtube: 전자기파 스펙트럼-  NASA](https://www.youtube.com/watch?v=cfXzwh3KadE) 
+
+***
+
 > # 광자와 레이저 
 
 - 광자 / 레이저 / 홀로그래피 / 흑체복사 / (체렌코프복사)
@@ -156,6 +160,10 @@
 
 ---
 
+> [Youtube: 홀로그래피 원리](https://www.youtube.com/watch?v=uCx1ntBsJqE)  
+
+---
+
 > ### `흑체복사` 
 
 - 열을 가하면 전자기파를 방출하는 현상  
@@ -171,6 +179,8 @@
 ![연탄불](https://img.sbs.co.kr/newimg/news/20190123/201274771_1280.jpg)  
 (source: https://img.sbs.co.kr/newimg/news/20190123/201274771_1280.jpg)
 
+***
+> [Youtube: 흑체복사](https://www.youtube.com/watch?v=qY4UICrx_SY) 
 ***
 
 ## keywords
