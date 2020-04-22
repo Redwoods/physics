@@ -152,9 +152,6 @@
 
 - 원래 물체에 의해 여러 방향으로 흩어진 빛의 간섭을 기록  
 
-![홀로그래피](http://contents.dt.co.kr/images/201401/2014011302011860718002.jpg)  
-(source: http://contents.dt.co.kr/images/201401/2014011302011860718002.jpg)  
-
 ![홀로그래피의 원리](https://image.slidesharecdn.com/random-101031190804-phpapp01/95/-4-638.jpg?cb=1422584158)  
 (source: https://image.slidesharecdn.com/random-101031190804-phpapp01/95/-4-638.jpg?cb=1422584158)
 
