@@ -58,8 +58,7 @@
 
 - 열적평형
 
-![열적평형](http://study.zumst.com/upload/00-D22-81-11-
-02/2_1_1_b_%EC%97%B4%EC%9D%98%20%EC%9D%B4%EB%8F%99%EA%B3%BC%20%EC%97%B4%ED%8F%89%ED%98%95%20%EA%B7%B8%EB%9E%98%ED%94%84.jpg)   
+![열적평형](http://study.zumst.com/upload/00-D22-81-11-02/2_1_1_b_%EC%97%B4%EC%9D%98%20%EC%9D%B4%EB%8F%99%EA%B3%BC%20%EC%97%B4%ED%8F%89%ED%98%95%20%EA%B7%B8%EB%9E%98%ED%94%84.jpg)   
 (source: http://study.zumst.com/upload/00-D22-81-11-02/2_1_1_b_%EC%97%B4%EC%9D%98%20%EC%9D%B4%EB%8F%99%EA%B3%BC%20%EC%97%B4%ED%8F%89%ED%98%95%20%EA%B7%B8%EB%9E%98%ED%94%84.jpg)
 
 
