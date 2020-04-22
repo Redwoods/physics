@@ -53,26 +53,36 @@
 ---
 
 > ### 온도와 온도의 측정
+
 - 온도측정: 수은/알코올 온도계, 적외선온도계, 열전대(thermo couple)
+
 - 열적평형
-![열적평형](http://study.zumst.com/upload/00-D22-81-11-02/2_1_1_b_%EC%97%B4%EC%9D%98%20%EC%9D%B4%EB%8F%99%EA%B3%BC%20%EC%97%B4%ED%8F%89%ED%98%95%20%EA%B7%B8%EB%9E%98%ED%94%84.jpg)   
+
+![열적평형](http://study.zumst.com/upload/00-D22-81-11-
+02/2_1_1_b_%EC%97%B4%EC%9D%98%20%EC%9D%B4%EB%8F%99%EA%B3%BC%20%EC%97%B4%ED%8F%89%ED%98%95%20%EA%B7%B8%EB%9E%98%ED%94%84.jpg)   
 (source: http://study.zumst.com/upload/00-D22-81-11-02/2_1_1_b_%EC%97%B4%EC%9D%98%20%EC%9D%B4%EB%8F%99%EA%B3%BC%20%EC%97%B4%ED%8F%89%ED%98%95%20%EA%B7%B8%EB%9E%98%ED%94%84.jpg)
 
 
 > ### 절대영도
+
 ![절대영도](https://t1.daumcdn.net/cfile/tistory/23313E3C550BFA4925) (source: https://t1.daumcdn.net/cfile/tistory/23313E3C550BFA4925)  
 
 > ### 열전달
+
 - ### 전도, 대류, 복사
+
 ![열전달](http://admin.midasuser.com/UploadFiles2/297/%EC%97%B4%EC%A0%84%EB%8B%AC1-3.jpg)   
 (source: http://admin.midasuser.com/UploadFiles2/297/%EC%97%B4%EC%A0%84%EB%8B%AC1-3.jpg)  
 
 > ### 엔탈피와 엔트로피  
+
 - ## 엔탈피 : 계의 에너지 총량
+
 ![엔탈피](http://study.zumst.com/upload/00-d33-00-21-04/%ED%9D%A1%EC%97%B4%20%EB%B0%98%EC%9D%91%EC%9D%98%20%EC%97%94%ED%83%88%ED%94%BC%20%EB%B3%80%ED%99%94.png)  
 (source: http://study.zumst.com/upload/00-d33-00-21-04/%ED%9D%A1%EC%97%B4%20%EB%B0%98%EC%9D%91%EC%9D%98%20%EC%97%94%ED%83%88%ED%94%BC%20%EB%B3%80%ED%99%94.pngw)
 
 - ## 엔트로피: 계의 무질서한 정도
+
 ![엔트로피](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmeuwxn_QufkIvrVHsMlmQryUeOrXdz0OZ5cTknMm4KsKxM4oVHw)  
 (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmeuwxn_QufkIvrVHsMlmQryUeOrXdz0OZ5cTknMm4KsKxM4oVHw)
 
@@ -82,13 +92,19 @@
 --- 
 
 > ### 열역학 법칙
+
 - ## 제0법칙:열적평형   
+
 ![제0법칙:열적평형](https://www.scienceall.com/nas/image/201304/AI330_75.jpg)  
 (source: https://www.scienceall.com/nas/image/201304/AI330_75.jpg)  
+
 - ## 제1법칙:열에너지보존   
+
 ![제1법칙:열에너지보존](https://i.ytimg.com/vi/hFEA06XnAUg/maxresdefault.jpg)  
 (source: https://i.ytimg.com/vi/hFEA06XnAUg/maxresdefault.jpg)  
+
 - ## 제2법칙:엔트로피 증가, 열은 고온부에서 저온부로 이동
+
 ![제2법칙:엔트로피 증가](http://study.zumst.com/upload/01-d33-00-22-07/01.png)  
 (source: http://study.zumst.com/upload/01-d33-00-22-07/01.png)  
 
@@ -96,8 +112,15 @@
 (source: https://t1.daumcdn.net/cfile/tistory/234C6C4758E3584719)  
 
 - ## 제3법칙:최소엔트로피(절대영도)   
+
 ![제3법칙:최소엔트로피(절대영도)](http://misocafe.com/work_html/science/images/contents/learnText_img12_2.jpg)  
 (source: http://misocafe.com/work_html/science/images/contents/learnText_img12_2.jpg)
+
+---
+
+> [Youtube: 열적평형](https://www.youtube.com/watch?v=Hl_rpdOowRg) 
+
+> [Youtube: 엔트로피란](https://www.youtube.com/watch?v=WTtxlaeC9PY) 
 
 ---
 
@@ -108,13 +131,16 @@
 - [link: 시뮬레이션](https://javalab.org/heat_capacity/)
 
 > ### 잠열
+
 ![잠열](http://study.zumst.com/upload/00-K33-00-42-16/K33-00-42-16-%EB%AC%BC%EC%83%81%ED%83%9C%EB%B3%80%ED%99%94%EC%99%80%EC%9E%A0%EC%97%B4.png)   
-(source: http://study.zumst.com/upload/00-K33-00-42-16/K33-00-42-16-%EB%AC%BC%EC%83%81%ED%83%9C%EB%B3%80%ED%99%94%EC%99%80%EC%9E%A0%EC%97%B4.png)..
+(source: http://study.zumst.com/upload/00-K33-00-42-16/K33-00-42-16-%EB%AC%BC%EC%83%81%ED%83%9C%EB%B3%80%ED%99%94%EC%99%80%EC%9E%A0%EC%97%B4.png)  
+
 ![잠열](http://study.zumst.com/upload/02-K33-00-42-16/K33-00-42-16-%EB%AC%B8%EC%A0%9C.png)  
 (source: http://study.zumst.com/upload/02-K33-00-42-16/K33-00-42-16-%EB%AC%B8%EC%A0%9C.png)
 
 
-> ### 열기관 (Heat engine)과 열펌프 (Heat pump)  
+> ### 열기관 (Heat engine)과 열펌프 (Heat pump)   
+
 ![열기관](http://cfile219.uf.daum.net/R400x0/12170F0C49CC1D5E150B50)  (source: http://cfile219.uf.daum.net/R400x0/12170F0C49CC1D5E150B50)  
 - 카르노 기관: 이상적인 열기관
 
@@ -126,18 +152,23 @@
     - 엔트로피란?
     - 영구기관은 가능한가?
 
+---
+> [Youtube: 열역학 법칙과 열기관](https://www.youtube.com/watch?v=fDHkDj3nLuA) 
 ***
 
 
 ### ● 열과 열적현상에 대한 토론 
  
 - ## 주제 1. 열적평형과 온도 측정
+
 > [Youtube: 열적평형](https://www.youtube.com/watch?v=Hl_rpdOowRg) 
 
-- ## 주제 2. 엔트로피란 
+- ## 주제 2. 엔트로피란  
+
 > [Youtube: 엔트로피란](https://www.youtube.com/watch?v=WTtxlaeC9PY) 
 
 - ## 주제 3. 무한 동력(영구 기관)은 가능한가?
+
 > [Youtube: 열역학 법칙과 열기관](https://www.youtube.com/watch?v=fDHkDj3nLuA) 
 
 ---
