@@ -47,6 +47,7 @@
 ***
 
 > ## 열역학과 통계역학  
+
 - 열역학: 온도와 열의 개념, 열의 이동과 열기관의 동작
 - 통계역학: 물질 내의 입자들의 평균적 열적 행동과 상태 변화를 설명
 
@@ -61,10 +62,11 @@
 ![열적평형](http://study.zumst.com/upload/00-D22-81-11-02/2_1_1_b_%EC%97%B4%EC%9D%98%20%EC%9D%B4%EB%8F%99%EA%B3%BC%20%EC%97%B4%ED%8F%89%ED%98%95%20%EA%B7%B8%EB%9E%98%ED%94%84.jpg)   
 (source: http://study.zumst.com/upload/00-D22-81-11-02/2_1_1_b_%EC%97%B4%EC%9D%98%20%EC%9D%B4%EB%8F%99%EA%B3%BC%20%EC%97%B4%ED%8F%89%ED%98%95%20%EA%B7%B8%EB%9E%98%ED%94%84.jpg)
 
-
+---
 > ### 절대영도
 
 ![절대영도](https://t1.daumcdn.net/cfile/tistory/23313E3C550BFA4925) (source: https://t1.daumcdn.net/cfile/tistory/23313E3C550BFA4925)  
+---
 
 > ### 열전달
 
