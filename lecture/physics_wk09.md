@@ -48,30 +48,38 @@
 ***
 
 > ## 물질 (Matter) 
+
 - 물질의 상태와 내부 구조 
 - 물질 내 결합 구조 
 - 물질의 미시 구조와 구성 요소  
-![양성자2](https://ipfs.busy.org/ipfs/QmYygLHRH3YVpzDfijiwtYVcGnSfqAVyJQXPk3LkX9qWHa)  
-(source: https://ipfs.busy.org/ipfs/QmYygLHRH3YVpzDfijiwtYVcGnSfqAVyJQXPk3LkX9qWHa) 
+
+![양성자2](https://lh3.googleusercontent.com/proxy/_jrpM0c-Qq2E-9RiYpteWPLG_3DuK994u-Ez63pnEnN0R_DWx5JE4t0_vAhuG6vQDYr4eEfTEuOiz-KBd6bXBmKcBNHFq6L1vXAvCfAh6TIbuVx1YWgIn9EHgNf4FkH0zacT1nNdMPOhEisRox29z9xuaC_WFg)  
+(source: https://lh3.googleusercontent.com/proxy/_jrpM0c-Qq2E-9RiYpteWPLG_3DuK994u-Ez63pnEnN0R_DWx5JE4t0_vAhuG6vQDYr4eEfTEuOiz-KBd6bXBmKcBNHFq6L1vXAvCfAh6TIbuVx1YWgIn9EHgNf4FkH0zacT1nNdMPOhEisRox29z9xuaC_WFg) 
 
 ---
 
 > ### 브라운 운동
+
 - 꽃가루가 미세 원자들에 의한 충돌로 무작위로 운동
+
 ![*브라운 운동*](https://thumbs.gfycat.com/MeaslyBlondGrizzlybear-size_restricted.gif)   
 (source: https://thumbs.gfycat.com/MeaslyBlondGrizzlybear-size_restricted.gif)
+
 - [link: Brownian](https://gfycat.com/ko/gifs/search/brownian)
 
 > ### 원소
+
 ![원소](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Periodic_table.svg/450px-Periodic_table.svg.png) (source: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Periodic_table.svg/450px-Periodic_table.svg.png)  
 - [link: 화학원소 주기율표](https://m.blog.naver.com/PostView.nhn?blogId=jirisan888&logNo=220535529452&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 
 > ### 원자구조
+
 - 원자핵(양성자 + 중성자) + 전자 
 ![원자구조](https://media.istockphoto.com/vectors/atom-structure-diagram-vector-id545120814)   
 (source: https://media.istockphoto.com/vectors/atom-structure-diagram-vector-id545120814)  
 
 > ### 전자  
+
 - ## 전자, 전자 구름  
 ![전자 구름](http://mblogthumb1.phinf.naver.net/20140808_132/orbital___1407425365884kVGUz_JPEG/U235_NOW_WITH_ELECTRON_CLOUD_by_plunderer01.jpg?type=w2)  
 (source: http://mblogthumb1.phinf.naver.net/20140808_132/orbital___1407425365884kVGUz_JPEG/U235_NOW_WITH_ELECTRON_CLOUD_by_plunderer01.jpg?type=w2)
@@ -80,13 +88,14 @@
 
 > ### 양성자
 - ## 원자핵 내부에서 + 전하를 띤 무거운 입자   
-![양성자1](https://ipfs.busy.org/ipfs/QmXCWmPe9SMW1tm28AupJpZQv7HBWJ18S7iJM17iE9PdVJ)  
-(source: https://ipfs.busy.org/ipfs/QmXCWmPe9SMW1tm28AupJpZQv7HBWJ18S7iJM17iE9PdVJ)  
+![양성자1](https://lh3.googleusercontent.com/proxy/0hBThHDlwaGi2AzXf-bQPRu9NTx0m9RXmdR2SlLMNJlnwuJbPzcEJaSXBQqN7YB1x-mE6-ZMm95BeIaTQ0OAPj-3sIo)  
+(source: https://lh3.googleusercontent.com/proxy/0hBThHDlwaGi2AzXf-bQPRu9NTx0m9RXmdR2SlLMNJlnwuJbPzcEJaSXBQqN7YB1x-mE6-ZMm95BeIaTQ0OAPj-3sIo)  
 
  
 ---
 
 > ### 반물질
+
 - ## 물질의 반대 성질로 구성된 입자   
 ![반물질](https://t1.daumcdn.net/cfile/tistory/9970A3335A10405E27)  
 (source: https://t1.daumcdn.net/cfile/tistory/9970A3335A10405E27)  
@@ -94,16 +103,22 @@
 ---
 
 > ### 동위원소
+
 - ## 양성자의 수는 같고 중성자의 수가 다른 원소  
 ![동위원소](https://previews.123rf.com/images/designua/designua1611/designua161100010/68349855-%ED%83%84%EC%86%8C-%EB%8F%99%EC%9C%84-%EC%9B%90%EC%86%8C-%ED%83%84%EC%86%8C-%EC%9B%90%EC%9E%90%EB%A5%BC-%EB%B9%84%EA%B5%90-%ED%95%9C-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.jpg)  
 (source: https://previews.123rf.com/images/designua/designua1611/designua161100010/68349855-%ED%83%84%EC%86%8C-%EB%8F%99%EC%9C%84-%EC%9B%90%EC%86%8C-%ED%83%84%EC%86%8C-%EC%9B%90%EC%9E%90%EB%A5%BC-%EB%B9%84%EA%B5%90-%ED%95%9C-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.jpg)  
+
 - 가장 작은 동위 원소는?  
 [link:수소의 동위원소](https://w.namu.la/s/890db0c4f21d882273de403853560654099c23c75860d10dd8641cf665200fa089952a157b38580736d6d9e82250a14413bb6e6e0d6e327ff0c1423daed36ea309403ebb1e5136532e0ca0e765cb2447b8d461a62eb03e2054f685e165baf6fc)
 ---
+
 > ### 방출스펙트럼과 흡수스펙트럼
+
 - ## 특정 파정의 빛이 흡수 또는 방출되는 스펙트럼  
 ![방출스펙트럼과 흡수스펙트럼](https://t1.daumcdn.net/cfile/tistory/99A4603A5CB9276610)  
 (source: https://t1.daumcdn.net/cfile/tistory/99A4603A5CB9276610)  
+
+[Youtube: 보어의 원자 구조와 흡수/방출 스펙트럼 ](https://www.youtube.com/watch?v=u9zQJ8hNnwI)  
 
 ---
 
@@ -112,14 +127,15 @@
 
 ---
 > ### 보어의 원자모형
+
 - ## 원자를 구성하는 전자 구름의 분포(오비탈) 변화로 흡수/방출 스펙트럼을 설명하는 모형
 ![보어의 원자모형](http://t1.daumcdn.net/thumb/R659x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fencyclop%2Fm24%2FuWz8TIeJo8XgLoofY5cjjF8hFkUBgdFF1HyWk5LD%3Ft%3D1441105821000)  
 (source: http://t1.daumcdn.net/thumb/R659x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fencyclop%2Fm24%2FuWz8TIeJo8XgLoofY5cjjF8hFkUBgdFF1HyWk5LD%3Ft%3D1441105821000)  
  
 ---
 > ### 원자 간 힘 현미경
-- ## AFM (Atomic Force Microscope)
-- ## 원자 사이에 작용하는 힘을 이용해서 물질의 표면 구조를 원자 크기에서 관찰하는 현미경
+- ## AFM (Atomic Force Microscope)  
+- ## 원자 사이에 작용하는 힘을 이용해서 물질의 표면 구조를 원자 크기에서 관찰하는 현미경  
 ![AFM](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDT_gsRz1WVJMr6_9EqNphT6EQW6OSnUIcPou7BGOpI2m8E-o1)  
 (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDT_gsRz1WVJMr6_9EqNphT6EQW6OSnUIcPou7BGOpI2m8E-o1)  
  
