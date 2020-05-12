@@ -110,7 +110,8 @@
 (source: https://previews.123rf.com/images/designua/designua1611/designua161100010/68349855-%ED%83%84%EC%86%8C-%EB%8F%99%EC%9C%84-%EC%9B%90%EC%86%8C-%ED%83%84%EC%86%8C-%EC%9B%90%EC%9E%90%EB%A5%BC-%EB%B9%84%EA%B5%90-%ED%95%9C-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.jpg)  
 
 - 가장 작은 동위 원소는?  
-[link:수소의 동위원소](https://w.namu.la/s/890db0c4f21d882273de403853560654099c23c75860d10dd8641cf665200fa089952a157b38580736d6d9e82250a14413bb6e6e0d6e327ff0c1423daed36ea309403ebb1e5136532e0ca0e765cb2447b8d461a62eb03e2054f685e165baf6fc)
+[link:수소의 동위원소](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Protium_deuterium_tritium.jpg/300px-Protium_deuterium_tritium.jpg)  
+
 ---
 
 > ### 방출스펙트럼과 흡수스펙트럼
