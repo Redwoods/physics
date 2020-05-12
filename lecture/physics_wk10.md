@@ -143,7 +143,8 @@
 - [link: 전자기유도 시뮬레이션](https://javalab.org/faradays_law_1/)
 
 ---
-[Youtube: 전자기유도](https://www.youtube.com/watch?v=_-VHLe3TAhc)
+[Youtube: 전자기유도](https://www.youtube.com/watch?v=_-VHLe3TAhc)  
+
 ---
 
 > ### 아날로그와 디지털 전자공학
