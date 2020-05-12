@@ -76,6 +76,8 @@
  (source: https://t1.daumcdn.net/cfile/tistory/24029D4B585083FD25)
 
 ---
+[Youtube: 정전기](https://www.youtube.com/watch?v=2MVAuROgQTM)
+---
 
 > ### 저항과 옴의 법칙
 
@@ -94,10 +96,11 @@
 > ## 자기
 
 - ## 양극, 즉 N극과 S극이 동시에 작용(자기모멘트를 가진다.)
-- ## 전자는 가장 작은 자석이다.
+- ## 전자는 가장 작은 자석이다.  
   ![자기](https://www.ibs.re.kr/dext5data/2019/04/20190403_134925041_91010.jpg)  
-  (source: https://www.ibs.re.kr/dext5data/2019/04/20190403_134925041_91010.jpg)
-  http://ncc.phinf.naver.net/20151002_81/14437768859843WpTB_JPEG/066.jpg?type=w646
+  (source: https://www.ibs.re.kr/dext5data/2019/04/20190403_134925041_91010.jpg)  
+  ![가장 작은 자석: 전자](http://ncc.phinf.naver.net/20151002_81/14437768859843WpTB_JPEG/066.jpg?type=w646)  
+  (source: http://ncc.phinf.naver.net/20151002_81/14437768859843WpTB_JPEG/066.jpg?type=w646)  
 - [link: 자석의 원리와 전자](http://blog.daum.net/_blog/BlogTypeView.do?blogid=0Kcdt&articleno=4864201&categoryId=524521&regdt=20160805101530)
 
 ---
@@ -135,6 +138,8 @@
 
 - [link: 전자기유도 시뮬레이션](https://javalab.org/faradays_law_1/)
 
+---
+[Youtube: 전자기유도](https://www.youtube.com/watch?v=_-VHLe3TAhc)
 ---
 
 > ### 아날로그와 디지털 전자공학
