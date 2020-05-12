@@ -77,6 +77,7 @@
 
 ---
 [Youtube: 정전기](https://www.youtube.com/watch?v=2MVAuROgQTM)
+
 ---
 
 > ### 저항과 옴의 법칙
@@ -86,7 +87,9 @@
 
 ---
 
-> ### 전지와 배터리
+> ### 전지와 배터리  
+- 일차 전지
+- 이차 전지  
 
 ![배터리](https://t1.daumcdn.net/cfile/tistory/22680150532673BF01)  
  (source: https://t1.daumcdn.net/cfile/tistory/22680150532673BF01)
@@ -95,10 +98,11 @@
 
 > ## 자기
 
-- ## 양극, 즉 N극과 S극이 동시에 작용(자기모멘트를 가진다.)
-- ## 전자는 가장 작은 자석이다.  
-  ![자기](https://www.ibs.re.kr/dext5data/2019/04/20190403_134925041_91010.jpg)  
+- ## 자석:양극, 즉 N극과 S극이 동시에 작용(자기모멘트를 가진다.)  
+![자기](https://www.ibs.re.kr/dext5data/2019/04/20190403_134925041_91010.jpg)  
   (source: https://www.ibs.re.kr/dext5data/2019/04/20190403_134925041_91010.jpg)  
+  
+- ## 전자는 가장 작은 자석이다.  
   ![가장 작은 자석: 전자](http://ncc.phinf.naver.net/20151002_81/14437768859843WpTB_JPEG/066.jpg?type=w646)  
   (source: http://ncc.phinf.naver.net/20151002_81/14437768859843WpTB_JPEG/066.jpg?type=w646)  
 - [link: 자석의 원리와 전자](http://blog.daum.net/_blog/BlogTypeView.do?blogid=0Kcdt&articleno=4864201&categoryId=524521&regdt=20160805101530)
