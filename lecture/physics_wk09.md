@@ -61,6 +61,7 @@
 > ### 브라운 운동
 
 - 꽃가루가 미세 원자들에 의한 충돌로 무작위로 운동
+  - 아주 작은 구조인 무엇이 존재? 바로 원자!  
 
 ![*브라운 운동*](https://thumbs.gfycat.com/MeaslyBlondGrizzlybear-size_restricted.gif)   
 (source: https://thumbs.gfycat.com/MeaslyBlondGrizzlybear-size_restricted.gif)
