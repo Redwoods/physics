@@ -53,8 +53,8 @@
 - 물질 내 결합 구조 
 - 물질의 미시 구조와 구성 요소  
 
-![양성자2](https://lh3.googleusercontent.com/proxy/_jrpM0c-Qq2E-9RiYpteWPLG_3DuK994u-Ez63pnEnN0R_DWx5JE4t0_vAhuG6vQDYr4eEfTEuOiz-KBd6bXBmKcBNHFq6L1vXAvCfAh6TIbuVx1YWgIn9EHgNf4FkH0zacT1nNdMPOhEisRox29z9xuaC_WFg)  
-(source: https://lh3.googleusercontent.com/proxy/_jrpM0c-Qq2E-9RiYpteWPLG_3DuK994u-Ez63pnEnN0R_DWx5JE4t0_vAhuG6vQDYr4eEfTEuOiz-KBd6bXBmKcBNHFq6L1vXAvCfAh6TIbuVx1YWgIn9EHgNf4FkH0zacT1nNdMPOhEisRox29z9xuaC_WFg) 
+![양성자2](https://lh3.googleusercontent.com/proxy/Il0gTH7HFXHnYbggM9YF28rxaaDBfojLlZT3VO1N6xtpoJt_vtTRmsxcBJ88Ux1P8cMOD18rMk40Z6lx2N69vphyAL84HgnXdewBgCAxefJv-_pkW45oDtE75G-vAhKFxsx9wC3R9meo)  
+(source: https://lh3.googleusercontent.com/proxy/Il0gTH7HFXHnYbggM9YF28rxaaDBfojLlZT3VO1N6xtpoJt_vtTRmsxcBJ88Ux1P8cMOD18rMk40Z6lx2N69vphyAL84HgnXdewBgCAxefJv-_pkW45oDtE75G-vAhKFxsx9wC3R9meo) 
 
 ---
 
@@ -89,8 +89,8 @@
 
 > ### 양성자
 - ## 원자핵 내부에서 + 전하를 띤 무거운 입자   
-![양성자1](https://lh3.googleusercontent.com/proxy/0hBThHDlwaGi2AzXf-bQPRu9NTx0m9RXmdR2SlLMNJlnwuJbPzcEJaSXBQqN7YB1x-mE6-ZMm95BeIaTQ0OAPj-3sIo)  
-(source: https://lh3.googleusercontent.com/proxy/0hBThHDlwaGi2AzXf-bQPRu9NTx0m9RXmdR2SlLMNJlnwuJbPzcEJaSXBQqN7YB1x-mE6-ZMm95BeIaTQ0OAPj-3sIo)  
+![양성자1](https://lh3.googleusercontent.com/proxy/Il0gTH7HFXHnYbggM9YF28rxaaDBfojLlZT3VO1N6xtpoJt_vtTRmsxcBJ88Ux1P8cMOD18rMk40Z6lx2N69vphyAL84HgnXdewBgCAxefJv-_pkW45oDtE75G-vAhKFxsx9wC3R9meo)  
+(source: https://lh3.googleusercontent.com/proxy/Il0gTH7HFXHnYbggM9YF28rxaaDBfojLlZT3VO1N6xtpoJt_vtTRmsxcBJ88Ux1P8cMOD18rMk40Z6lx2N69vphyAL84HgnXdewBgCAxefJv-_pkW45oDtE75G-vAhKFxsx9wC3R9meo)  
 
  
 ---
