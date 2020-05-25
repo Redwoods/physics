@@ -75,7 +75,8 @@
 (source: https://www.kaeri.re.kr/resources/images/kaeri/contents/sub04/sub04_0503_img01_2.jpg)
 
 ---
-[Youtube: 방사능 붕괴](https://www.youtube.com/watch?v=0AKmZ-acxUg)
+[Youtube: 방사능 붕괴](https://www.youtube.com/watch?v=0AKmZ-acxUg)  
+
 ---
 
 > ### 중성미자 (Neutrino)
