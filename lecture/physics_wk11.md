@@ -35,7 +35,7 @@
 
 ### 핵물리학
 
-> 알파붕괴 / (베타붕괴) / 감마선 방출 / 중성미자 / 반감기 / 결합에너지 / (붕괴계열) / (동위원소를 이용한 연대측정법) / 가이거계수기 / 핵분열 에너지 / 핵융합 에너지 / 핵무기
+> 알파붕괴 / 베타붕괴 / 감마선 방출 / 중성미자 / 반감기 / 결합에너지 / (붕괴계열) / (동위원소를 이용한 연대측정법) / 가이거계수기 / 핵분열 에너지 / 핵융합 에너지 / 핵무기
 
 ## keywords
 
@@ -58,8 +58,14 @@
 > ### 알파붕괴
 
 - 불안정한 원소가 헬륨의 원자핵과 안정된 원소로 붕괴.
-  ![알파붕괴](https://i0.wp.com/fibo.kr/wp-content/uploads/2015/02/180802_2.png?w=1200)  
-  (source: https://i0.wp.com/fibo.kr/wp-content/uploads/2015/02/180802_2.png?w=1200)
+  ![알파붕괴](https://lh3.googleusercontent.com/proxy/oXsF_888NMoN83GCmqsrbYef4JnXORkbBuTpWRPZAkIEeI_oVeQLGPUO145-V75rQcye4emZTNQJxLouQTdffpBm6ko33qUr7yyulxI3SD8OWV5v2Jv_hWXWuTuIWP9225f6w0BxlOkAn1YbP4GEw1aCDm9i3ZkSVAH1jKn2Ruu26mbMgvWvWycuHPdpvkTltM7ACYWx29lGCgdiS64TxFTlQ4V11GcNl7vrLcwA8UDjTA_Ly_iGNqKO1jE2igl6aLTtoUo0BM5D)  
+  (source: https://lh3.googleusercontent.com/proxy/oXsF_888NMoN83GCmqsrbYef4JnXORkbBuTpWRPZAkIEeI_oVeQLGPUO145-V75rQcye4emZTNQJxLouQTdffpBm6ko33qUr7yyulxI3SD8OWV5v2Jv_hWXWuTuIWP9225f6w0BxlOkAn1YbP4GEw1aCDm9i3ZkSVAH1jKn2Ruu26mbMgvWvWycuHPdpvkTltM7ACYWx29lGCgdiS64TxFTlQ4V11GcNl7vrLcwA8UDjTA_Ly_iGNqKO1jE2igl6aLTtoUo0BM5D)
+  
+> ### 베타붕괴
+
+- 핵 내의 중성자가 양성자와 전자로 붕괴.
+  ![알파붕괴](https://school.kns.org/wp-content/uploads/2019/05/beta-decay.png)  
+  (source: https://school.kns.org/wp-content/uploads/2019/05/beta-decay.png)
 
 > ### 감마선 방출
 
@@ -67,12 +73,16 @@
 (source: https://www.kaeri.re.kr/resources/images/kaeri/contents/sub04/sub04_0503_img01_2.jpg)
 
 ---
+[Youtube: 방사능 붕괴](https://www.youtube.com/watch?v=0AKmZ-acxUg)
+---
 
 > ### 중성미자 (Neutrino)
 
 ![중성미자](https://mblogthumb-phinf.pstatic.net/20141218_139/applepop_1418908552699IM3ES_JPEG/%25EB%25B2%25A0%25ED%2583%2580%25EB%25B6%2595%25EA%25B4%25B4.jpg?type=w800)  
  (source: https://mblogthumb-phinf.pstatic.net/20141218_139/applepop_1418908552699IM3ES_JPEG/%25EB%25B2%25A0%25ED%2583%2580%25EB%25B6%2595%25EA%25B4%25B4.jpg?type=w800)
 
+---
+[Youtube: 중성미자](https://www.youtube.com/watch?v=h0Eo6mdyPak)
 ---
 
 > ### 반감기 (Half-life)
