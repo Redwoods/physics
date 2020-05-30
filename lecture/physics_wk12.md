@@ -174,7 +174,11 @@
   ![양자 계산](https://steemitimages.com/640x0/https://steemitimages.com/DQmWzPpBQF9Tj4W4fxi2YTgjt9U6G6c2qzKEDX6fLjADH9h/qubit.png)  
   (source: https://steemitimages.com/640x0/https://steemitimages.com/DQmWzPpBQF9Tj4W4fxi2YTgjt9U6G6c2qzKEDX6fLjADH9h/qubit.png)
 
-  link:큐비트 http://www.epnc.co.kr/news/photo/201903/82687_74737_2325.jpg
+  link:큐비트 http://www.epnc.co.kr/news/photo/201903/82687_74737_2325.jpg  
+
+---
+
+[Youtube: 양자 계산과 암호](https://www.youtube.com/watch?v=QlbKFqZjwEQ)   
 
 ---
 
