@@ -173,31 +173,31 @@
 
 - ### 우주의 역사: 암흑물질과 암흑에너지의 이해
 
-  - 암흑물질: 대부분 새로운 물질로 구성되며, 은하와 별이 만들 질 때 강한 중력을 발생시켜서 우주 형성에 기여.
-  - 암흑에너지: 현재 우주의 가속 팽창을 설명
+  - 암흑물질: 대부분 새로운 물질로 구성되며, 은하와 별이 만들 질 때 강한 중력을 발생시켜서 우주 형성에 기여.  
+  - 암흑에너지: 현재 우주의 가속 팽창을 설명  
     ![중력파](https://lh3.googleusercontent.com/proxy/WCtexfWNfZTomByyBR_sFdx1r428xsKbQWp_X0fQqaG0lsOiGOyESI_9eku6ryno2BgFMRxlWZY6hfOXm5ncDNoCazE1Zuipnwf7CDxVV3eJ-xCV0CTRau64Sou8_yBY1I5J10DkLknW-8D0YH3HfIMo0Lh1k-9AgyCNskRlEHN1RpDx9NLsnXLq3gSu4urw28Q=s0-d)  
-    (source: https://lh3.googleusercontent.com/proxy/WCtexfWNfZTomByyBR_sFdx1r428xsKbQWp_X0fQqaG0lsOiGOyESI_9eku6ryno2BgFMRxlWZY6hfOXm5ncDNoCazE1Zuipnwf7CDxVV3eJ-xCV0CTRau64Sou8_yBY1I5J10DkLknW-8D0YH3HfIMo0Lh1k-9AgyCNskRlEHN1RpDx9NLsnXLq3gSu4urw28Q=s0-d)
+    (source: https://lh3.googleusercontent.com/proxy/WCtexfWNfZTomByyBR_sFdx1r428xsKbQWp_X0fQqaG0lsOiGOyESI_9eku6ryno2BgFMRxlWZY6hfOXm5ncDNoCazE1Zuipnwf7CDxVV3eJ-xCV0CTRau64Sou8_yBY1I5J10DkLknW-8D0YH3HfIMo0Lh1k-9AgyCNskRlEHN1RpDx9NLsnXLq3gSu4urw28Q=s0-d)  
 
-- [link: 우주의 역사 - 정리] http://thestory.chosun.com/site/data/img_dir/2015/11/28/2015112800667_0.jpg
+- [link: 우주의 역사 - 정리] http://thestory.chosun.com/site/data/img_dir/2015/11/28/2015112800667_0.jpg  
 
 ---
 
 ### ● 상대성이론과 우주론에 대한 토론
 
-- ## 주제 1. 특수상대성이론
+- ## 주제 1. 특수상대성이론  
 
   > [Youtube: 상대성이론](https://www.youtube.com/watch?v=_OxF3ZdyZcs&t=158s)
 
   - [Youtube: 특수상대성이론](https://www.youtube.com/watch?v=Zj37s3bHpcE&t=184s)
 
-- ## 주제 2. 쌍동이 역설, 중력과 공간의 외곡
+- ## 주제 2. 쌍동이 역설, 중력과 공간의 외곡  
 
   > [Youtube: 쌍동이 역설, 시공 구조와 중력](https://www.youtube.com/watch?v=KZYfQj1pNWI)
 
   - [Youtube: 일반상대성 이론](https://www.youtube.com/watch?v=HwpRN82Cik8)
   - [Youtube: 상대성이론 Q&A](https://www.youtube.com/watch?v=9_NWx_7uFPk&t=7s)
 
-- ## 주제 3. 우주의 팽창과 암흑에너지
+- ## 주제 3. 우주의 팽창과 암흑에너지  
 
   > [Youtube: 우주의 팽창과 암흑에너지](https://www.youtube.com/watch?v=uHrSKByv104)
 
@@ -217,8 +217,6 @@
 
 - PC: kahoot.com 또는 kahoot.it (즉석 퀴즈 참여)
 - Mobile: kahoot app 설치 또는 kahoot.it (즉석 퀴즈 참여)
-
----
 
 ---
 
