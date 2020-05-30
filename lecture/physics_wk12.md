@@ -83,6 +83,10 @@
 
 ---
 
+[Youtube: 파동-입자 이중성](https://www.youtube.com/watch?v=a4LsdqwZEaU)
+
+---
+
 > ### 드브로이의 물질파 가설
 
 - 모든 움직이는 입자는 고유한 파동을 가진다. (파장 = h/p = h/mv, p는 운동량)
@@ -124,6 +128,7 @@
   ![파동함수의 붕괴](https://lh3.googleusercontent.com/proxy/p-CLFLb2PmTVsfssYtXKAeSrnIyOTArntYupXxtcKVloyg_RWo-DycWD1u9OafEN97IW4dcaSIqLmBgL3RmphASoHZejQJ5EPUdzmL4X)  
   (source: https://img1.daumcdn.net/thumb/S272x320/?scode=mtistory&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2472FA3A57F521E601)
 
+---
 
 > ## 양자역학과 불확정성원리 (dx \* dp > h)
 
@@ -136,12 +141,20 @@
 
 ---
 
+[Youtube: 불확정성원리](https://www.youtube.com/watch?v=0MT1rRvXcVU)
+
+---
+
 > ### 슈뢰딩거의 고양이
 
 - ## 고양이가 죽었나? 살았나? -> 관찰 전에는 중첩 상태로 생사를 알 수 없다.
 
   ![슈뢰딩거의 고양이](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqWuwst2R4S73thCvve5iTWbJ_4Hsi5FHxIt44XwTUKhQkzDhd)  
   (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqWuwst2R4S73thCvve5iTWbJ_4Hsi5FHxIt44XwTUKhQkzDhd)
+
+---
+
+[Youtube: 슈레딩거의 고양이](https://www.youtube.com/watch?v=39pGNND9ue4)
 
 ---
 
@@ -192,6 +205,11 @@
   > [Youtube: 양자 계산과 암호](https://www.youtube.com/watch?v=QlbKFqZjwEQ)  
   > [Youtube: 양자 우월성 (quantum supremacy, 2019)](https://www.youtube.com/watch?v=Vo6ix2FZrVE)
 
+---
+
+### ● 양자물리 한 방에 정리(???)
+
+  > [Youtube: 양자역학 한 방 정리! [안될과학-긴급과학]](https://www.youtube.com/watch?v=VYWryVDQWO0)  
 
 ---
 
