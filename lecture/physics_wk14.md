@@ -207,6 +207,12 @@
 
 ---
 
+### 특수상대성이론 한 방 정리  
+
+[Youtube: 특수상대성이론 한 방 정리 [안될과학-긴급과학]](https://www.youtube.com/watch?v=QvXX-iZnq-Q)  
+
+---
+
 ### ● 상대성이론과 우주론의 이해 및 개념 확인 퀴즈 6개 (Kahoot quiz)
 
 - PC: kahoot.com 또는 kahoot.it (즉석 퀴즈 참여)
