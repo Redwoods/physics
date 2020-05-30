@@ -117,11 +117,19 @@
 
 ---
 
+> ## 코펜하겐 해석
+
+- ### 관찰에 의한 파동함수의 붕괴로 인해 하나의 상태로 관측된다.
+
+  ![파동함수의 붕괴]https://lh3.googleusercontent.com/proxy/p-CLFLb2PmTVsfssYtXKAeSrnIyOTArntYupXxtcKVloyg_RWo-DycWD1u9OafEN97IW4dcaSIqLmBgL3RmphASoHZejQJ5EPUdzmL4X)  
+  (source: https://img1.daumcdn.net/thumb/S272x320/?scode=mtistory&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2472FA3A57F521E601)
+
+
 > ## 양자역학과 불확정성원리 (dx \* dp > h)
 
 - ### 파동성을 가진 입자의 위치와 속도(운동량, 파장)을 동시에 측정할 수 없다.
 
-  ![불확정성원리](https://img1.daumcdn.net/thumb/S272x320/?scode=mtistory&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2472FA3A57F521E601)
+  ![불확정성원리](https://img1.daumcdn.net/thumb/S272x320/?scode=mtistory&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2472FA3A57F521E601)  
   (source: https://img1.daumcdn.net/thumb/S272x320/?scode=mtistory&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2472FA3A57F521E601)
 
   - link: https://t1.daumcdn.net/cfile/tistory/990DD8345A4393861C
