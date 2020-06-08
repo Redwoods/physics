@@ -53,12 +53,10 @@
 - 끈이론 : 모든 것의 이론
 
   ![입자물리학](https://file.mk.co.kr/meet/neds/2008/09/image_readtop_2008_553785_122090070897619.jpg)  
-  (source: https://file.mk.co.kr/meet/neds/2008/09/image_readtop_2008_553785_122090070897619.jpg)
+  (source: https://file.mk.co.kr/meet/neds/2008/09/image_readtop_2008_553785_122090070897619.jpg)  
 
   ![입자물리학2](https://images.slidesplayer.org/40/11048383/slides/slide_6.jpg)  
   (source: https://images.slidesplayer.org/40/11048383/slides/slide_6.jpg)
-
-https://t1.daumcdn.net/cfile/tistory/140AA9424EF197A203
 
 ---
 
@@ -67,8 +65,11 @@ https://t1.daumcdn.net/cfile/tistory/140AA9424EF197A203
 - 반정수 스핀을 가지는 페르미 입자 (기본 입자)
 - 게이지 보즈 입자 (입자 사이에 힘을 전달)
 - 힉스 입자 (자발적 대칭성 파괴로 물질에 질량부여)  
+
   ![표준 모형](https://www.ibs.re.kr/dext5data/2017/03/20170323_100937173_66510.jpg)  
-  (source: https://www.ibs.re.kr/dext5data/2017/03/20170323_100937173_66510.jpg)
+  (source: https://www.ibs.re.kr/dext5data/2017/03/20170323_100937173_66510.jpg)  
+  
+  [link: 표준 모형] https://t1.daumcdn.net/cfile/tistory/140AA9424EF197A203  
 
 ---
  > [Youtube: 표준 모형](https://www.youtube.com/watch?v=ZCn4SQoUB3Q)  
