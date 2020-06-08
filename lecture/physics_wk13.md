@@ -72,13 +72,6 @@
   [link: 표준 모형] https://t1.daumcdn.net/cfile/tistory/140AA9424EF197A203  
 
 ---
- > [Youtube: 표준 모형](https://www.youtube.com/watch?v=ZCn4SQoUB3Q)  
-
-  - [link: 기본 상호작용-1] https://www.youtube.com/watch?v=Tn3P23jl1H4  
-
-  - [link: 기본 상호작용-2] https://www.youtube.com/watch?v=WtvGxxGh5AU  
-  
----
 
 > ### 입자가속기
 
@@ -90,6 +83,14 @@
 
 [link: LHC at CERN] http://image.chosun.com/sitedata/image/201605/27/2016052701927_0.jpg
 
+---
+
+- ## 주제 1. 표준모형
+
+  > [Youtube: 표준 모형](https://www.youtube.com/watch?v=ehHoOYqAT_U)
+
+  - [link: 과학 쿠키 - 표준 모형] https://www.youtube.com/watch?v=TSnFfy3XBRE  
+  
 ---
 
 > ### 쿼크 (Quarks)
@@ -176,15 +177,13 @@
 
 - ## 주제 1. 표준모형
 
-  > [Youtube: 표준 모형](https://www.youtube.com/watch?v=ZCn4SQoUB3Q)
+  > [Youtube: 표준 모형](https://www.youtube.com/watch?v=ehHoOYqAT_U)
 
-  - [link: 기본 상호작용-1] https://www.youtube.com/watch?v=Tn3P23jl1H4
-
-  - [link: 기본 상호작용-2] https://www.youtube.com/watch?v=WtvGxxGh5AU
+  - [link: 과학 쿠키 - 표준 모형] https://www.youtube.com/watch?v=TSnFfy3XBRE  
 
 - ## 주제 2. 대통일이론
 
-  > [Youtube: 대통일이론](https://www.youtube.com/watch?v=i7p-NjsIYlc)
+  > [Youtube: 대통일이론](https://www.youtube.com/watch?v=-w0ZtPJwb9M)
 
 - ## 주제 3. 모든 것의 이론
   > [Youtube: 모든 것의 이론](https://www.youtube.com/watch?v=qXYNUrIVeAI)
