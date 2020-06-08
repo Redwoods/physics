@@ -71,6 +71,13 @@ https://t1.daumcdn.net/cfile/tistory/140AA9424EF197A203
   (source: https://www.ibs.re.kr/dext5data/2017/03/20170323_100937173_66510.jpg)
 
 ---
+ > [Youtube: 표준 모형](https://www.youtube.com/watch?v=ZCn4SQoUB3Q)  
+
+  - [link: 기본 상호작용-1] https://www.youtube.com/watch?v=Tn3P23jl1H4  
+
+  - [link: 기본 상호작용-2] https://www.youtube.com/watch?v=WtvGxxGh5AU  
+  
+---
 
 > ### 입자가속기
 
@@ -106,7 +113,7 @@ https://t1.daumcdn.net/cfile/tistory/140AA9424EF197A203
 > ### 기본 힘 (Fundamental forces)
 
 - 중력
-- 전자기력, 약한핵력, 강한핵력
+- 전자기력, 약한핵력, 강한핵력  
 
 ![기본 힘](https://steemitimages.com/640x0/https://steemitimages.com/DQmbv87dA4XdyrK5FJ7DUrUJS4jRaCxrwauCeVnrEszj4Bv/8.jpg)  
  (source: https://steemitimages.com/640x0/https://steemitimages.com/DQmbv87dA4XdyrK5FJ7DUrUJS4jRaCxrwauCeVnrEszj4Bv/8.jpg)
@@ -115,7 +122,7 @@ https://t1.daumcdn.net/cfile/tistory/140AA9424EF197A203
 
 > ## 양자전기역학
 
-- ### 전자와 같은 기본 입자가 광자(photon)을 매개로 상호작용하는 과정을 정량적으로 기술하는 방법
+- ### 전자와 같은 기본 입자가 광자(photon)을 매개로 상호작용하는 과정을 정량적으로 기술하는 방법  
 
   ![양자전기역학](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Renormalized-vertex.png/200px-Renormalized-vertex.png)  
   (source: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Renormalized-vertex.png/200px-Renormalized-vertex.png)
@@ -128,7 +135,7 @@ https://t1.daumcdn.net/cfile/tistory/140AA9424EF197A203
 
 - ### 원자핵 내부에서 핵자 간 또는 쿼크 사이에서 작용하는 힘
 - 핵자 (양성자, 중성자) 사이에는 pi 입자가 힘을 매개
-- 쿼크 사이에는 글루온이 강한 핵력을 매개
+- 쿼크 사이에는 글루온이 강한 핵력을 매개  
 
   ![강한 핵력](https://mblogthumb-phinf.pstatic.net/MjAxNjExMTdfMjIg/MDAxNDc5MzExNTU4Mzc5.rsCg217Vlkg03Ox0XV03zL2GXM8kOjOEwRG6IW7Xrgwg.xfF6IdQI2X19v18z6LWnGm26CXsMlZlcrx6B-mczWw8g.PNG.miseos/imgres.png?type=w800)  
   (source: https://mblogthumb-phinf.pstatic.net/MjAxNjExMTdfMjIg/MDAxNDc5MzExNTU4Mzc5.rsCg217Vlkg03Ox0XV03zL2GXM8kOjOEwRG6IW7Xrgwg.xfF6IdQI2X19v18z6LWnGm26CXsMlZlcrx6B-mczWw8g.PNG.miseos/imgres.png?type=w800)
