@@ -156,9 +156,10 @@
 
 > ### 대통일이론
 
-- ### 대통일 이론: 전자기력 + 약한 핵력 + 강한 핵력
+- ### 대통일 이론: 전자기력 + 약한 핵력 + 강한 핵력  
 
-  [link: 대통일이론] http://t1.daumcdn.net/thumb/R659x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fencyclop%2Fm24%2FBQYil5oMV2wQJKz3MmhTIbhp4qHi2IZ9UkbVujab%3Ft%3D1441105808000
+  ![대통일이론](http://t1.daumcdn.net/thumb/R659x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fencyclop%2Fm24%2FBQYil5oMV2wQJKz3MmhTIbhp4qHi2IZ9UkbVujab%3Ft%3D1441105808000)  
+  (source: http://t1.daumcdn.net/thumb/R659x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fencyclop%2Fm24%2FBQYil5oMV2wQJKz3MmhTIbhp4qHi2IZ9UkbVujab%3Ft%3D1441105808000)  
 
 ---
 
