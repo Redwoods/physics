@@ -113,6 +113,14 @@
 
 ---
 
+## 주제 1. 특수상대성이론  
+
+  - [Youtube: 상대성이론](https://www.youtube.com/watch?v=_OxF3ZdyZcs&t=158s)  
+
+  - [Youtube: 특수상대성이론](https://www.youtube.com/watch?v=Zj37s3bHpcE&t=184s)  
+  
+---
+
 > ### 질량-에너지 등가
 
 - 물체의 속력이 커지면 질량이 증가
@@ -132,6 +140,8 @@
   ![쌍둥이 역설](https://ipfs.busy.org/ipfs/QmdzZx5W3mwF744J6BrxMiegUHU7Y8f28MCd6MyrGBTuXx)  
   (source: https://ipfs.busy.org/ipfs/QmdzZx5W3mwF744J6BrxMiegUHU7Y8f28MCd6MyrGBTuXx)
 
+---
+> [Youtube: 쌍동이 역설, 시공 구조와 중력](https://www.youtube.com/watch?v=KZYfQj1pNWI)  
 ---
 
 > ## 시공
@@ -167,6 +177,9 @@
   ![중력파](https://steemitimages.com/DQmZSTbUfRoXBAU7U5gV5TqLCxL1wbuvZB6Zxed4TxCiqb4/image.png)  
   (source: https://steemitimages.com/DQmZSTbUfRoXBAU7U5gV5TqLCxL1wbuvZB6Zxed4TxCiqb4/image.png)
 
+---
+- [Youtube: 일반상대성 이론](https://www.youtube.com/watch?v=HwpRN82Cik8)
+- [Youtube: 상대성이론 Q&A](https://www.youtube.com/watch?v=9_NWx_7uFPk&t=7s)
 ---
 
 > ### 암흑물질과 암흑에너지
