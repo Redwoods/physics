@@ -137,8 +137,8 @@
 - 우주선의 감속/가속운동을 고려하면 지구에 있던 동생이 더 늙는다.
 - 가속을 받는 상태에서는 시간이 느리게 변한다 (일반상대론).
 
-  ![쌍둥이 역설](https://ipfs.busy.org/ipfs/QmdzZx5W3mwF744J6BrxMiegUHU7Y8f28MCd6MyrGBTuXx)  
-  (source: https://ipfs.busy.org/ipfs/QmdzZx5W3mwF744J6BrxMiegUHU7Y8f28MCd6MyrGBTuXx)
+  ![쌍둥이 역설](https://post-phinf.pstatic.net/MjAxNzA1MTdfMjMy/MDAxNDk1MDA1MjEyMDQz.71v5lBJAnzf_GuxTVBMKVhl9aPh1BOIypf0vnklMZ_Qg.-zkj_lts62hsbBMqTq8UHgYKRzRPh-S6QaKZIP1oSHog.JPEG/image_1250250891495004336566.jpg?type=w1200)  
+  (source: https://post-phinf.pstatic.net/MjAxNzA1MTdfMjMy/MDAxNDk1MDA1MjEyMDQz.71v5lBJAnzf_GuxTVBMKVhl9aPh1BOIypf0vnklMZ_Qg.-zkj_lts62hsbBMqTq8UHgYKRzRPh-S6QaKZIP1oSHog.JPEG/image_1250250891495004336566.jpg?type=w1200)  
 
 ---
 > [Youtube: 쌍동이 역설, 시공 구조와 중력](https://www.youtube.com/watch?v=KZYfQj1pNWI)  
