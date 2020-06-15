@@ -190,6 +190,8 @@
   - 암흑에너지: 현재 우주의 가속 팽창을 설명  
     ![중력파](https://lh3.googleusercontent.com/proxy/WCtexfWNfZTomByyBR_sFdx1r428xsKbQWp_X0fQqaG0lsOiGOyESI_9eku6ryno2BgFMRxlWZY6hfOXm5ncDNoCazE1Zuipnwf7CDxVV3eJ-xCV0CTRau64Sou8_yBY1I5J10DkLknW-8D0YH3HfIMo0Lh1k-9AgyCNskRlEHN1RpDx9NLsnXLq3gSu4urw28Q=s0-d)  
     (source: https://lh3.googleusercontent.com/proxy/WCtexfWNfZTomByyBR_sFdx1r428xsKbQWp_X0fQqaG0lsOiGOyESI_9eku6ryno2BgFMRxlWZY6hfOXm5ncDNoCazE1Zuipnwf7CDxVV3eJ-xCV0CTRau64Sou8_yBY1I5J10DkLknW-8D0YH3HfIMo0Lh1k-9AgyCNskRlEHN1RpDx9NLsnXLq3gSu4urw28Q=s0-d)  
+    
+- [Youtube: 우주의 팽창과 암흑에너지](https://www.youtube.com/watch?v=uHrSKByv104)
 
 - [link: 우주의 역사 - 정리] http://thestory.chosun.com/site/data/img_dir/2015/11/28/2015112800667_0.jpg  
 
@@ -213,8 +215,6 @@
 - ## 주제 3. 우주의 팽창과 암흑에너지  
 
   > [Youtube: 우주의 팽창과 암흑에너지](https://www.youtube.com/watch?v=uHrSKByv104)
-
-  - https://www.youtube.com/watch?v=xmSEQ3_Evvg
 
 - [Youtube: 눈에 보이지 않는 우주의 비밀](https://post.naver.com/viewer/postView.nhn?volumeNo=20571539&memberNo=37571784)
 
