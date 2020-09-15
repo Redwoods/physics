@@ -156,25 +156,29 @@
 
 > ### `카오스 이론`
 
-- #### 초기조건 민감성: 초기 조건의 조그마한 차이가 시간이 지나면서 어머 어마한 결과로 커지는 현상.
-- #### 삼체문제 : 3개의 천체가 서로 영향을 주면서 움직일 때 궤도의 안정성을 예측할 수 없다.
+- #### 초기조건 민감성: 초기 조건의 조그마한 차이가 시간이 지나면서 어머 어마한 결과로 커지는 현상.  
+- #### 삼체문제 : 3개의 천체가 서로 영향을 주면서 움직일 때 궤도의 안정성을 예측할 수 없다.  
   ![삼체 운동](http://www.seoulkaas.org/xe/files/attach/images/58213/971/085/faa74c7425a32b6013b7c424c169bf63.png)  
   (SOURCE: http://www.seoulkaas.org/xe/files/attach/images/58213/971/085/faa74c7425a32b6013b7c424c169bf63.png)
+  
 - ## 나비효과
-  ![나비효과](http://scent.ndsl.kr/site/main/file/thumbfly/215.jpg?w=220&h=220)  
-  (SOURCE: http://scent.ndsl.kr/site/main/file/thumbfly/215.jpg?w=220&h=220)
-- ### 나비 날개와 로렌츠 끌개(attracter)
+  ![나비효과](https://i0.wp.com/thesciencelife.com/wp-content/uploads/2019/03/tmg-facebook_social.jpg?fit=980%2C551&resize=1280%2C720)  
+  (SOURCE: https://i0.wp.com/thesciencelife.com/wp-content/uploads/2019/03/tmg-facebook_social.jpg?fit=980%2C551&resize=1280%2C720)
+  
+- ### 나비 날개와 로렌츠 끌개(attracter)  
   ![나비와 로렌츠 끌개](http://3.bp.blogspot.com/-ZakW7dQL0Os/VMD102wq1tI/AAAAAAABnQs/BpdapL8BRyc/s1600/ButterflyEffect-CreativeCommons-Hellisp.jpg)  
   (SOURCE: http://3.bp.blogspot.com/-ZakW7dQL0Os/VMD102wq1tI/AAAAAAABnQs/BpdapL8BRyc/s1600/ButterflyEffect-CreativeCommons-Hellisp.jpg)
-- ### 로렌츠 끌개
+  
+- ### 로렌츠 끌개  
   ![로렌츠 끌개](https://upload.wikimedia.org/wikipedia/commons/2/20/Intermittent_Lorenz_Attractor_-_Chaoscope.jpg)  
   (SOURCE: https://upload.wikimedia.org/wikipedia/commons/2/20/Intermittent_Lorenz_Attractor_-_Chaoscope.jpg)
 
 > ### `카오스의 패턴 -> 프랙털`
 
-- #### 프랙털이란 무엇인가? 그리고 카오스와의 관계는?
+- #### 프랙털이란 무엇인가? 그리고 카오스와의 관계는?  
   ![프랙털](http://mathworld.wolfram.com/images/eps-gif/Fractal1_1000.gif)  
   (SOURCE: http://mathworld.wolfram.com/images/eps-gif/Fractal1_1000.gif)
+  
 - #### 만데브로트세트
   ![프랙털-만데브로트세트](https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/73/b6/45/73b645d9-0019-37da-cc96-3bbba023af56/pr_source.png/643x0w.jpg)  
   (SOURCE: https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/73/b6/45/73b645d9-0019-37da-cc96-3bbba023af56/pr_source.png/643x0w.jpg)
