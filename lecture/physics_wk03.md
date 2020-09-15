@@ -153,7 +153,10 @@
   (SOURCE: http://study.zumst.com/upload/00-K33-00-42-13/K33-00-42-13-%EC%96%91%EB%A0%A5.png)
 - ### 커브볼: 마그누스 효과
   ![커브볼](http://tinyfactory21.cafe24.com/wp/wp-content/uploads/2016/03/Image1.png)  
-  (SOURCE: http://tinyfactory21.cafe24.com/wp/wp-content/uploads/2016/03/Image1.png)
+  (SOURCE: http://tinyfactory21.cafe24.com/wp/wp-content/uploads/2016/03/Image1.png)  
+  
+- 주제 2 야구에서 공의 회전에 따른 구종과 유체역학  
+> [Youtube: 마그누스 효과 = 공의 회전에 따른 구종과 유체역학](https://www.youtube.com/watch?v=0rUvdUXunNo)  
 
 ---
 
