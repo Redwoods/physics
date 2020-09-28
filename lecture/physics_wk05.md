@@ -80,9 +80,9 @@
 - ### 전반사와 광섬유
 
 ![전반사와 광섬유 ](https://www.scienceall.com/nas/image/201304/AI403_36.jpg)   
-(source: https://www.scienceall.com/nas/image/201304/AI403_36.jpg)
+(source: https://www.scienceall.com/nas/image/201304/AI403_36.jpg)  
 
-> ## [Youtube: 굴절, 전반사, 광섬유, 그리고 광통신](https://www.youtube.com/watch?v=FbphrqB9Nwo)
+> ## [Youtube: 굴절, 전반사, 광섬유, 그리고 광통신](https://www.youtube.com/watch?v=FbphrqB9Nwo)  
 
 ---
 
@@ -93,10 +93,10 @@
 
 ---
 
-## 산란과 편광
+## 산란과 편광  
 - 산란과 흡수 / 편광
 
-> `산란과 흡수`
+> `산란과 흡수`  
 
 - 산란  
 - 하늘이 파란 이유
