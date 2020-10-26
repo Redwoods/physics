@@ -54,6 +54,7 @@
 - 물질의 미시 구조와 구성 요소  
 
 ![물질의 구조](https://www.kunews.ac.kr/news/photo/200705/9963_5843_480.gif)  
+(source: https://www.kunews.ac.kr/news/photo/200705/9963_5843_480.gif)  
 
 ---
 
@@ -88,11 +89,10 @@
 
 > ### 양성자
 - ## 원자핵 내부에서 + 전하를 띤 무거운 입자   
-![양성자1](https://lh3.googleusercontent.com/proxy/Il0gTH7HFXHnYbggM9YF28rxaaDBfojLlZT3VO1N6xtpoJt_vtTRmsxcBJ88Ux1P8cMOD18rMk40Z6lx2N69vphyAL84HgnXdewBgCAxefJv-_pkW45oDtE75G-vAhKFxsx9wC3R9meo)  
-(source: https://lh3.googleusercontent.com/proxy/Il0gTH7HFXHnYbggM9YF28rxaaDBfojLlZT3VO1N6xtpoJt_vtTRmsxcBJ88Ux1P8cMOD18rMk40Z6lx2N69vphyAL84HgnXdewBgCAxefJv-_pkW45oDtE75G-vAhKFxsx9wC3R9meo)  
+![양성자](https://www.kunews.ac.kr/news/photo/200705/9963_5843_480.gif)  
+(source: https://www.kunews.ac.kr/news/photo/200705/9963_5843_480.gif)  
 
- 
----
+ ---
 
 > ### 반물질
 
