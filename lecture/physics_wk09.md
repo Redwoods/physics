@@ -53,9 +53,6 @@
 - 물질 내 결합 구조 
 - 물질의 미시 구조와 구성 요소  
 
-![양성자2](https://lh3.googleusercontent.com/proxy/Il0gTH7HFXHnYbggM9YF28rxaaDBfojLlZT3VO1N6xtpoJt_vtTRmsxcBJ88Ux1P8cMOD18rMk40Z6lx2N69vphyAL84HgnXdewBgCAxefJv-_pkW45oDtE75G-vAhKFxsx9wC3R9meo)  
-(source: https://lh3.googleusercontent.com/proxy/Il0gTH7HFXHnYbggM9YF28rxaaDBfojLlZT3VO1N6xtpoJt_vtTRmsxcBJ88Ux1P8cMOD18rMk40Z6lx2N69vphyAL84HgnXdewBgCAxefJv-_pkW45oDtE75G-vAhKFxsx9wC3R9meo) 
-
 ---
 
 > ### 브라운 운동
