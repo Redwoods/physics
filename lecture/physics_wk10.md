@@ -73,11 +73,10 @@
 > ### 전위차
 
 ![전위차](https://t1.daumcdn.net/cfile/tistory/24029D4B585083FD25)  
- (source: https://t1.daumcdn.net/cfile/tistory/24029D4B585083FD25)
+ (source: https://t1.daumcdn.net/cfile/tistory/24029D4B585083FD25)  
 
 ---
 [Youtube: 정전기](https://www.youtube.com/watch?v=2MVAuROgQTM)
-
 ---
 
 > ### 저항과 옴의 법칙
@@ -125,7 +124,7 @@
   ![쿨롱의 법칙](https://t1.daumcdn.net/cfile/tistory/2263423F55AF04F016)  
   (source: https://t1.daumcdn.net/cfile/tistory/2263423F55AF04F016)
 
-- ### 앙페르의 법칙: 전류가 흐르는 도선 주위에 자기장이 발생하며 두 도선 사이에 자기력이 작용한다.
+- ### 앙페르의 법칙: 전류가 흐르는 도선 주위에 자기장이 발생하며 두 도선 사이에 자기력이 작용한다.  
   ![앙페르의 법칙](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpiGXW_JUlOKQMfqAYrKARauL96wxNB2U0oMHNx2lJ2Kaubdn)  
   (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpiGXW_JUlOKQMfqAYrKARauL96wxNB2U0oMHNx2lJ2Kaubdn)
 
@@ -140,7 +139,7 @@
   ![전자기유도](https://javalab.org/wp-content/uploads/faradays_law_1.png)  
    (source: https://javalab.org/wp-content/uploads/faradays_law_1.png)
 
-- [link: 전자기유도 시뮬레이션](https://javalab.org/faradays_law_1/)
+- [link: 전자기유도 시뮬레이션](https://javalab.org/faradays_law_1/)  
 
 ---
 [Youtube: 전자기유도](https://www.youtube.com/watch?v=_-VHLe3TAhc)  
