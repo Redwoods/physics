@@ -59,12 +59,12 @@
 
 - 불안정한 원소가 헬륨의 원자핵과 안정된 원소로 붕괴.
 
-  ![알파붕괴](https://lh3.googleusercontent.com/proxy/oXsF_888NMoN83GCmqsrbYef4JnXORkbBuTpWRPZAkIEeI_oVeQLGPUO145-V75rQcye4emZTNQJxLouQTdffpBm6ko33qUr7yyulxI3SD8OWV5v2Jv_hWXWuTuIWP9225f6w0BxlOkAn1YbP4GEw1aCDm9i3ZkSVAH1jKn2Ruu26mbMgvWvWycuHPdpvkTltM7ACYWx29lGCgdiS64TxFTlQ4V11GcNl7vrLcwA8UDjTA_Ly_iGNqKO1jE2igl6aLTtoUo0BM5D)  
-  (source: https://lh3.googleusercontent.com/proxy/oXsF_888NMoN83GCmqsrbYef4JnXORkbBuTpWRPZAkIEeI_oVeQLGPUO145-V75rQcye4emZTNQJxLouQTdffpBm6ko33qUr7yyulxI3SD8OWV5v2Jv_hWXWuTuIWP9225f6w0BxlOkAn1YbP4GEw1aCDm9i3ZkSVAH1jKn2Ruu26mbMgvWvWycuHPdpvkTltM7ACYWx29lGCgdiS64TxFTlQ4V11GcNl7vrLcwA8UDjTA_Ly_iGNqKO1jE2igl6aLTtoUo0BM5D)
+  ![알파붕괴](https://lh3.googleusercontent.com/proxy/uChNnTvbWFXlDSgFdZ0jlkLdzmeaTWQmHhd8-RWy-xKYSxLK13uImOdEWmLDKcJ9nt_xky_PgcPvosEWJ8lDOE76eavsKxcNcBuzQOG2HUS7NdICFivR1DUBs85P_w7Rmfm99dTRd2b9hNg-ZZ6Cn7bqiO7tWAP3hg)  
+  (source: https://lh3.googleusercontent.com/proxy/uChNnTvbWFXlDSgFdZ0jlkLdzmeaTWQmHhd8-RWy-xKYSxLK13uImOdEWmLDKcJ9nt_xky_PgcPvosEWJ8lDOE76eavsKxcNcBuzQOG2HUS7NdICFivR1DUBs85P_w7Rmfm99dTRd2b9hNg-ZZ6Cn7bqiO7tWAP3hg)  
   
 > ### 베타붕괴
 
-- 핵 내의 중성자가 양성자와 전자로 붕괴.
+- 핵 내의 중성자가 양성자와 전자로 붕괴.  
 
   ![알파붕괴](https://school.kns.org/wp-content/uploads/2019/05/beta-decay.png)  
   (source: https://school.kns.org/wp-content/uploads/2019/05/beta-decay.png)
