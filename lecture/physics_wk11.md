@@ -158,6 +158,7 @@ link: https://m.blog.naver.com/PostView.nhn?blogId=winzone&logNo=220531162710&pr
   > [Youtube: 중성미자와 우주 생성 비밀](https://www.youtube.com/watch?v=9VmXXQidyb8&list=PLEHmneyNetQN5F9AHVJclgJyATqMr5Mr4)
 
 * ## 주제 3. 핵에너지의 명과 암
+  > [Youtube: 핵에너지의 장/단점](https://www.youtube.com/watch?v=ywGLBeaUReM&t=5s)  
   > [Youtube: 핵에너지의 명암](https://www.youtube.com/watch?v=yxokUtr717Q)
 
 ---
