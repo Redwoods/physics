@@ -59,8 +59,8 @@
 
 - 불안정한 원소가 헬륨의 원자핵과 안정된 원소로 붕괴.
 
-  ![알파붕괴](https://lh3.googleusercontent.com/proxy/uChNnTvbWFXlDSgFdZ0jlkLdzmeaTWQmHhd8-RWy-xKYSxLK13uImOdEWmLDKcJ9nt_xky_PgcPvosEWJ8lDOE76eavsKxcNcBuzQOG2HUS7NdICFivR1DUBs85P_w7Rmfm99dTRd2b9hNg-ZZ6Cn7bqiO7tWAP3hg)  
-  (source: https://lh3.googleusercontent.com/proxy/uChNnTvbWFXlDSgFdZ0jlkLdzmeaTWQmHhd8-RWy-xKYSxLK13uImOdEWmLDKcJ9nt_xky_PgcPvosEWJ8lDOE76eavsKxcNcBuzQOG2HUS7NdICFivR1DUBs85P_w7Rmfm99dTRd2b9hNg-ZZ6Cn7bqiO7tWAP3hg)  
+  ![알파붕괴](https://lh3.googleusercontent.com/proxy/OZyeJGP9cJNdm9FGxKuQlhuhaBVEmNxBMErM8JLeTK96TeGOrq2-8zGkHyuvIZUof6HAOwW957n9gLf8BuSVdQVPPML8iLP73BLVnSGN_vQMC7oi-0uRCgP7jBFXWpRdJ6Rj1K5fCKPziH2Q4gW_HmrcOh08MWCW6xYzok2uFloe_biU1k-C-PN0HCOv2x9sRwCJAGsNuZ9qEMiVf0nbu5n-DBrJ3J4aAubuEUlxCCVKiUdFJmUqGAJutaivPMc-stRbfAIWYXoH)  
+  (source: https://lh3.googleusercontent.com/proxy/OZyeJGP9cJNdm9FGxKuQlhuhaBVEmNxBMErM8JLeTK96TeGOrq2-8zGkHyuvIZUof6HAOwW957n9gLf8BuSVdQVPPML8iLP73BLVnSGN_vQMC7oi-0uRCgP7jBFXWpRdJ6Rj1K5fCKPziH2Q4gW_HmrcOh08MWCW6xYzok2uFloe_biU1k-C-PN0HCOv2x9sRwCJAGsNuZ9qEMiVf0nbu5n-DBrJ3J4aAubuEUlxCCVKiUdFJmUqGAJutaivPMc-stRbfAIWYXoH)  
   
 > ### 베타붕괴
 
