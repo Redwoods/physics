@@ -125,8 +125,8 @@
 
 - ### 관찰에 의한 파동함수의 붕괴로 인해 하나의 상태로 관측된다.
 
-  ![파동함수의 붕괴](https://lh3.googleusercontent.com/proxy/u8yNm4hcd7MtcL_vqI1UtIACyWvxje8ARqYYWJ9x-TogegvXxhSkn3o9a31fM-FXCRYDXZzZJgRH56T2aHSKqq4SScj8W-VRjfwT89lQ)  
-  (source: https://lh3.googleusercontent.com/proxy/u8yNm4hcd7MtcL_vqI1UtIACyWvxje8ARqYYWJ9x-TogegvXxhSkn3o9a31fM-FXCRYDXZzZJgRH56T2aHSKqq4SScj8W-VRjfwT89lQ)
+  ![파동함수의 붕괴](https://lh3.googleusercontent.com/proxy/Rx321-5BrIob0kdX453IH7dScl09w8tGW_hpcB4tdb7c1YYKzkQxtYmYX_15C-ZimpNdgtArm-FWzxoLl3nD5fM)    
+  (source: https://lh3.googleusercontent.com/proxy/Rx321-5BrIob0kdX453IH7dScl09w8tGW_hpcB4tdb7c1YYKzkQxtYmYX_15C-ZimpNdgtArm-FWzxoLl3nD5fM)
 
 ---
 
