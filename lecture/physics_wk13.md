@@ -75,8 +75,8 @@
 
 > ### 입자가속기
 
-- 선형 또는 원형의 입자 가속 장치
-- 새로운 물질 또는 기본 입자 간 힘을 매개하는 입자 연구
+- 선형 또는 원형의 입자 가속 장치  
+- 새로운 물질 또는 기본 입자 간 힘을 매개하는 입자 연구  
 
 ![입자가속기](https://pds.joins.com/news/component/htmlphoto_mmdata/201310/28/htm_20131028117573007310.jpg)  
 (source: https://pds.joins.com/news/component/htmlphoto_mmdata/201310/28/htm_20131028117573007310.jpg)
@@ -95,9 +95,9 @@
 
 > ### 쿼크 (Quarks)
 
-- 핵자인 양성자와 중성자를 구성하는 더 작은 기본 입자
-- 6종 (u,d,c,s,b,t)
-- 쿼크 사이에는 글루온이 힘을 전달.  
+- 핵자인 양성자와 중성자를 구성하는 더 작은 기본 입자  
+- 6종 (u,d,c,s,b,t)  
+- 쿼크 사이에는 글루온이 힘을 전달.   
   ![쿼크](https://mblogthumb-phinf.pstatic.net/20120916_196/elf_sa_1347774801510ugCC7_JPEG/%25EC%2582%25AC%25EC%259A%25A9%25EC%259E%2590_%25EC%25A7%2580%25EC%25A0%2595_1.jpg?type=w800)  
    (source: https://mblogthumb-phinf.pstatic.net/20120916_196/elf_sa_1347774801510ugCC7_JPEG/%25EC%2582%25AC%25EC%259A%25A9%25EC%259E%2590_%25EC%25A7%2580%25EC%25A0%2595_1.jpg?type=w800)
 
@@ -105,7 +105,7 @@
 
 > ### 경입자 (Leptons)
 
-- 강한 핵력의 영향을 받지 않는 가벼운 입자 (spin=1/2)
+- 강한 핵력의 영향을 받지 않는 가벼운 입자 (spin=1/2)  
 - 1,2,3 세대로 구성 : electron, muon, tau  
   ![경입자](https://www.scienceall.com/nas/image/201302/AP206_11.jpg)  
    (source: https://www.scienceall.com/nas/image/201302/AP206_11.jpg)
@@ -114,7 +114,7 @@
 
 > ### 기본 힘 (Fundamental forces)
 
-- 중력
+- 중력  
 - 전자기력, 약한핵력, 강한핵력  
 
 ![기본 힘](https://steemitimages.com/640x0/https://steemitimages.com/DQmbv87dA4XdyrK5FJ7DUrUJS4jRaCxrwauCeVnrEszj4Bv/8.jpg)  
@@ -135,8 +135,8 @@
 
 > ## 강한 핵력
 
-- ### 원자핵 내부에서 핵자 간 또는 쿼크 사이에서 작용하는 힘
-- 핵자 (양성자, 중성자) 사이에는 pi 입자가 힘을 매개
+- ### 원자핵 내부에서 핵자 간 또는 쿼크 사이에서 작용하는 힘  
+- 핵자 (양성자, 중성자) 사이에는 pi 입자가 힘을 매개  
 - 쿼크 사이에는 글루온이 강한 핵력을 매개  
 
   ![강한 핵력](https://mblogthumb-phinf.pstatic.net/MjAxNjExMTdfMjIg/MDAxNDc5MzExNTU4Mzc5.rsCg217Vlkg03Ox0XV03zL2GXM8kOjOEwRG6IW7Xrgwg.xfF6IdQI2X19v18z6LWnGm26CXsMlZlcrx6B-mczWw8g.PNG.miseos/imgres.png?type=w800)  
@@ -146,7 +146,7 @@
 
 > ### 약한 핵력
 
-- ### 핵자를 구성하는 쿼크가 붕괴하는 힘 (중성자 -> 양성자)
+- ### 핵자를 구성하는 쿼크가 붕괴하는 힘 (중성자 -> 양성자)  
 - 고에너지 전자가 W(-)입자를 매개해서 중성미자로 변화 또는 반대 과정.
 
   ![약한 핵력](https://previews.123rf.com/images/generalfmv/generalfmv1510/generalfmv151000076/46964861-%EC%95%BD%ED%95%9C-%ED%9E%98-%EB%98%90%EB%8A%94-%EC%95%BD%ED%95%9C-%ED%95%B5%EB%A0%A5.jpg)  
@@ -193,9 +193,8 @@
 
 ### ● 입자물리학의 이해 및 개념 확인 퀴즈 6개 (Kahoot quiz)
 
-- PC: kahoot.com 또는 kahoot.it (즉석 퀴즈 참여)
+- PC: kahoot.com 또는 kahoot.it (즉석 퀴즈 참여)  
 - Mobile: kahoot app 설치 또는 kahoot.it (즉석 퀴즈 참여)
-
 ---
 
 ## Prestudy: wk14
