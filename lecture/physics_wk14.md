@@ -73,7 +73,7 @@
 - 빛의 속도는 운동상태와 무관하게 일정 (v = c)
 - 마이켈슨 간섭계로 빛의 속도 측정  
   ![빛의 속도](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Michelson-Morley_experiment_%28en%29.svg/350px-Michelson-Morley_experiment_%28en%29.svg.png)  
-  (source: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Michelson-Morley_experiment_%28en%29.svg/350px-Michelson-Morley_experiment_%28en%29.svg.png)
+  (source: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Michelson-Morley_experiment_%28en%29.svg/350px-Michelson-Morley_experiment_%28en%29.svg.png)  
 
 ---
 
