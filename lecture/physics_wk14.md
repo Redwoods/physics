@@ -70,7 +70,11 @@
 
 > ### 빛의 속도
 
-- 빛의 속도는 운동상태와 무관하게 일정 (v = c)
+- 빛의 속도는 운동상태와 무관하게 일정 (v = c)  
+
+  ![빛의 속도](https://lh3.googleusercontent.com/proxy/aDscYisdBBBsxYQotKHRIofaWW5-nR0Xd2cg-F7EXfaimhnoSIRSprPgXCgZ9zTxJ4227o2GkXiARd8fojlzn8WFEh1EHu5brwNECB3LhNf_MZMbqXFfn95nfV0IGVFADNxhAMpBJjFSyC32CbUkR0lGprQnao56XfzbutQen-kvDJax)  
+  (source: https://lh3.googleusercontent.com/proxy/aDscYisdBBBsxYQotKHRIofaWW5-nR0Xd2cg-F7EXfaimhnoSIRSprPgXCgZ9zTxJ4227o2GkXiARd8fojlzn8WFEh1EHu5brwNECB3LhNf_MZMbqXFfn95nfV0IGVFADNxhAMpBJjFSyC32CbUkR0lGprQnao56XfzbutQen-kvDJax)  
+  
 - 마이켈슨 간섭계로 빛의 속도 측정  
   ![빛의 속도](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Michelson-Morley_experiment_%28en%29.svg/350px-Michelson-Morley_experiment_%28en%29.svg.png)  
   (source: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Michelson-Morley_experiment_%28en%29.svg/350px-Michelson-Morley_experiment_%28en%29.svg.png)  
