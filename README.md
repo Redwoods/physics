@@ -9,5 +9,5 @@
   * ![표지](https://misc.ridibooks.com/cover/222001825/large)
 
 ---
-#### 연구실: E319, email: chaos21c@gmail.com
+#### 연구실: E319 (장영실관 319호), email: chaos21c@gmail.com
 
