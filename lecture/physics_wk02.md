@@ -66,8 +66,8 @@
 
 > 일, 에너지와 일률
 
-![일과 일률](http://study.zumst.com/upload/00-K33-00-11-08/K33-00-11-08-%EC%9D%BC01.png)  
-(source: http://study.zumst.com/upload/00-K33-00-11-08/K33-00-11-08-%EC%9D%BC01.png)
+![일과 일률](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcvSM0D%2FbtqGcgJ9S2j%2F4eFC7FEGj51jN432AhR4Uk%2Fimg.png)  
+(source: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcvSM0D%2FbtqGcgJ9S2j%2F4eFC7FEGj51jN432AhR4Uk%2Fimg.png)
 
 > 운동에너지와 위치에너지
 
