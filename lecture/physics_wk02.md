@@ -47,7 +47,8 @@
 
 > 속력, 속도와 가속도
 
-- [속도와 가속도, 움직인 거리 시뮬레이션](https://yjh-phys.tistory.com/185)
+- [교재-구글이북](https://play.google.com/books/reader?id=fVgzDwAAQBAJ&pg=GBS.PT8_45&hl=ko&printsec=frontcover)
+- [속도와 가속도, 움직인 거리 시뮬레이션: flash 문제로 지원 중단](https://yjh-phys.tistory.com/185)
 
 > 질량, 관성, 무게
 
