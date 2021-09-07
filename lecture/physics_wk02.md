@@ -127,8 +127,8 @@ https://m.blog.naver.com/PostView.nhn?blogId=qjqh159&logNo=220642115511&proxyRef
 > 각운동량
 
 - 회전하는 물체의 운동량 (물체의 모양과 속도에 의해 결정)  
-  ![](http://study.zumst.com/upload/00-T33-00-21-06/20130802_165822.png)
-  (source: http://study.zumst.com/upload/00-T33-00-21-06/20130802_165822.png)
+  ![](https://post-phinf.pstatic.net/MjAxODAzMjdfMTA1/MDAxNTIyMTE2ODE0Nzky.EmNh9R50c85Fv4q8oKz_dtfag0oU3My9dymBSue8Hxcg.gqQ7TSHJXV8unMBw8qN41CGx-6ONXKCF1aHdic1UOh4g.PNG/%EA%B3%A0%EC%86%8D%EC%8A%A4%ED%95%80.PNG?type=w1200)
+  (source: https://post-phinf.pstatic.net/MjAxODAzMjdfMTA1/MDAxNTIyMTE2ODE0Nzky.EmNh9R50c85Fv4q8oKz_dtfag0oU3My9dymBSue8Hxcg.gqQ7TSHJXV8unMBw8qN41CGx-6ONXKCF1aHdic1UOh4g.PNG/%EA%B3%A0%EC%86%8D%EC%8A%A4%ED%95%80.PNG?type=w1200)
 
 > 구심력과 원심력
 
