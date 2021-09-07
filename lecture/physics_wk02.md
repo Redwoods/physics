@@ -105,8 +105,8 @@ https://m.blog.naver.com/PostView.nhn?blogId=qjqh159&logNo=220642115511&proxyRef
 
 > 궤도
 
-- ![원운동의 궤도](http://study.zumst.com/upload/00-D22-71-3A-13/3_10_c_%EB%93%B1%EC%86%8D%20%EC%9B%90%EC%9A%B4%EB%8F%99.jpg)
-  (source: http://study.zumst.com/upload/00-D22-71-3A-13/3_10_c_%EB%93%B1%EC%86%8D%20%EC%9B%90%EC%9A%B4%EB%8F%99.jpg)
+- ![원운동의 궤도](https://blog.kakaocdn.net/dn/cks4js/btqu1CJcxsW/b3KTdkgvM0yHKjHCJCbvF0/img.jpg)
+  (source: https://blog.kakaocdn.net/dn/cks4js/btqu1CJcxsW/b3KTdkgvM0yHKjHCJCbvF0/img.jpg)
 
 > 케플러의 행성 운동 법칙
 
