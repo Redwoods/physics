@@ -109,7 +109,7 @@ https://m.blog.naver.com/PostView.nhn?blogId=qjqh159&logNo=220642115511&proxyRef
 
 > 케플러의 행성 운동 법칙
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kepler-first-law.svg/330px-Kepler-first-law.svg.png)
+![](https://github.com/Redwoods/physics/blob/master/media/orbit.png)
 
 - [위키백과: 케플러의 행성 운동 법칙](https://ko.wikipedia.org/wiki/%EC%BC%80%ED%94%8C%EB%9F%AC%EC%9D%98_%ED%96%89%EC%84%B1%EC%9A%B4%EB%8F%99%EB%B2%95%EC%B9%99)
 
