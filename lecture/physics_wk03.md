@@ -59,9 +59,9 @@
 > `단순 기계`  
 > ![시소의 균형](http://ncc.phinf.naver.net/ncc02/2012/7/16/173/4.jpg?type=w646)  
 > (source: http://ncc.phinf.naver.net/ncc02/2012/7/16/173/4.jpg?type=w646)  
-> [- 아르키메데스의 지렛대](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%25A7%2580%25EB%25A0%2588%3Ffrom%3D%25EC%25A7%2580%25EB%25A0%259B%25EB%258C%2580&psig=AOvVaw0zwkvYQjQbU7a_ejwhguDG&ust=1631617648268000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiukMrn-_ICFQAAAAAdAAAAABAD)  
-> ![지구 들어 올리기](https://cba.snu.ac.kr/webdata/sbl-column/img/142_01.gif)  
-> (source: https://www.scienceall.com/%EC%95%84%EB%A5%B4%ED%82%A4%EB%A9%94%EB%8D%B0%EC%8A%A4%EC%9D%98-%EC%A7%80%EB%A0%9B%EB%8C%80%EC%9D%98-%EC%9B%90%EB%A6%AC%EC%99%80-%EC%9B%90%EC%A3%BC%EC%9C%A8/)    
+> - 아르키메데스의 지렛대
+> ![지구 들어 올리기]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%25A7%2580%25EB%25A0%2588%3Ffrom%3D%25EC%25A7%2580%25EB%25A0%259B%25EB%258C%2580&psig=AOvVaw0zwkvYQjQbU7a_ejwhguDG&ust=1631617648268000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiukMrn-_ICFQAAAAAdAAAAABAD))  
+> (source:(https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%25A7%2580%25EB%25A0%2588%3Ffrom%3D%25EC%25A7%2580%25EB%25A0%259B%25EB%258C%2580&psig=AOvVaw0zwkvYQjQbU7a_ejwhguDG&ust=1631617648268000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiukMrn-_ICFQAAAAAdAAAAABAD))    
 > https://cba.snu.ac.kr/webdata/sbl-column/img/142_01.gif)  
 > ![워라벨](https://previews.123rf.com/images/cbies/cbies1603/cbies160300003/54712452-%EC%9D%BC%EA%B3%BC-%EC%82%B6%EC%9D%98-%EA%B7%A0%ED%98%95-%EB%82%98%EB%AC%B4-%EC%8B%9C%EC%86%8C%EC%97%90-%EB%8B%A8%EC%96%B4.jpg)  
 > (source: https://previews.123rf.com/images/cbies/cbies1603/cbies160300003/54712452-%EC%9D%BC%EA%B3%BC-%EC%82%B6%EC%9D%98-%EA%B7%A0%ED%98%95-%EB%82%98%EB%AC%B4-%EC%8B%9C%EC%86%8C%EC%97%90-%EB%8B%A8%EC%96%B4.jpg)
