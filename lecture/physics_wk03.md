@@ -149,8 +149,8 @@ $PV =  n N_A k_B T = n R T,  (N = n N_A, R = N_A k_B)$
   ![관을 흐르는 유체의 속도 변화](http://4.bp.blogspot.com/-mLfEnWcNdNs/VHU4DiknekI/AAAAAAAAAKg/9Vt-cFD6dpo/s1600/1.jpg)  
   (SOURCE: http://4.bp.blogspot.com/-mLfEnWcNdNs/VHU4DiknekI/AAAAAAAAAKg/9Vt-cFD6dpo/s1600/1.jpg)
 - ### 비행기의 양력
-  ![비행기의 양력](http://study.zumst.com/upload/00-K33-00-42-13/K33-00-42-13-%EC%96%91%EB%A0%A5.png)  
-  (SOURCE: http://study.zumst.com/upload/00-K33-00-42-13/K33-00-42-13-%EC%96%91%EB%A0%A5.png)
+  ![비행기의 양력](https://file.mk.co.kr/mkde_7/N0/2020/09/20200929_4375167_1601365020.jpg)  
+  (source: https://file.mk.co.kr/mkde_7/N0/2020/09/20200929_4375167_1601365020.jpg)
 - ### 커브볼: 마그누스 효과
   ![커브볼](http://tinyfactory21.cafe24.com/wp/wp-content/uploads/2016/03/Image1.png)  
   (SOURCE: http://tinyfactory21.cafe24.com/wp/wp-content/uploads/2016/03/Image1.png)  
