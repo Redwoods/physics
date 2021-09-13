@@ -94,8 +94,8 @@
 (source: http://postfiles7.naver.net/MjAxNjEyMjlfMjU3/MDAxNDgyOTk5NDY0ODA1.cUdqDKLFOoTqiKm4TtzRuZ-C2LlMAtksJkMiCRcwm8Ig.I98EvD06grqwgpdo68pu-bVKHHxnE4n3oRvJM8TO1qIg.JPEG.applepop/87675.jpg?type=w3)
 
 - 온도가 일정할 때 부피와 압력의 변화  
-  ![온도가 일정할 때 부피와 압력의 변화](http://study.zumst.com/upload/00-d33-00-11-12/%EB%B3%B4%EC%9D%BC%20%EB%B2%95%EC%B9%99%EA%B3%BC%20%EA%B8%B0%EC%B2%B4%20%EB%B6%84%EC%9E%90%20%EC%9A%B4%EB%8F%99%EB%A1%A0.png)  
-  (source: http://study.zumst.com/upload/00-d33-00-11-12/%EB%B3%B4%EC%9D%BC%20%EB%B2%95%EC%B9%99%EA%B3%BC%20%EA%B8%B0%EC%B2%B4%20%EB%B6%84%EC%9E%90%20%EC%9A%B4%EB%8F%99%EB%A1%A0.png)
+  ![온도가 일정할 때 부피와 압력의 변화](https://lh3.googleusercontent.com/proxy/rU9lViOVNaG7aJ2Hjffxg_vchpZbt4DFPEA5lqQbBzAcEfTk1NHxH-c4bOpf6MHfU3PtrN8LJmmtZtGRX-o9vjVxO2THN_0AhPZE_ec)  
+  (source: https://lh3.googleusercontent.com/proxy/rU9lViOVNaG7aJ2Hjffxg_vchpZbt4DFPEA5lqQbBzAcEfTk1NHxH-c4bOpf6MHfU3PtrN8LJmmtZtGRX-o9vjVxO2THN_0AhPZE_ec)
 
 - [link: 이상기체의 상태방정식](http://blog.naver.com/PostView.nhn?blogId=applepop&logNo=220898731819)
 
