@@ -182,7 +182,7 @@
 > ### `카오스의 패턴 -> 프랙털`
 
 - #### 프랙털이란 무엇인가? 그리고 카오스와의 관계는?  
-  ![프랙털](http://mathworld.wolfram.com/images/eps-gif/Fractal1_1000.gif)  
+  ![프랙털](https://github.com/Redwoods/physics/blob/master/media/fractal01.png)  
   (SOURCE: http://mathworld.wolfram.com/images/eps-gif/Fractal1_1000.gif)
   
 - #### 만데브로트세트
