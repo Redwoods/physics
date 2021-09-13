@@ -106,7 +106,7 @@
 ![저온, 고온에서의 기체분자의 운동](http://image.surae.com/library/img/carsense/heatenergy.jpg)  
 (source: http://image.surae.com/library/img/carsense/heatenergy.jpg)
 
-- $PV =  n N_A k_B T = n R T,  (N = n N_A, R = N_A k_B)$
+- $$PV =  n N_A k_B T = n R T,  (N = n N_A, R = N_A k_B)$$
 
 ---
 
