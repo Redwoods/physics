@@ -125,8 +125,8 @@
 - 뉴턴유체와 비뉴턴유체
 - 층류와 난류
 - 비행기의 양력  
-  ![비행기의 양력](https://file.mk.co.kr/mkde/N0/2020/09/20200929_4375167_1601365020.jpg)  
-  (source: https://file.mk.co.kr/mkde/N0/2020/09/20200929_4375167_1601365020.jpg)
+  ![비행기의 양력](https://file.mk.co.kr/mkde_7/N0/2020/09/20200929_4375167_1601365020.jpg)  
+  (source: https://file.mk.co.kr/mkde_7/N0/2020/09/20200929_4375167_1601365020.jpg)
 - 담배연기  
   ![담배연기](https://t1.daumcdn.net/cfile/tistory/995D74415AC4E93D18)  
   (source: http://www.skkuw.com/news/photo/201809/20429_9442_327.jpg)
