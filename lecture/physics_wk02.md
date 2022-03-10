@@ -106,7 +106,7 @@ https://m.blog.naver.com/PostView.nhn?blogId=qjqh159&logNo=220642115511&proxyRef
 
 ---
 
-> 궤도
+> 궤도 (Orbit)
 
 - ![원운동의 궤도](https://github.com/Redwoods/physics/blob/master/media/apple_earth.png)
 
