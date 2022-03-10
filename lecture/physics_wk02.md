@@ -73,7 +73,10 @@
 
 ![운동에너지와 위치에너지의 변화](https://i.ytimg.com/vi/C1w_-hL6mag/hqdefault.jpg)  
 (source: https://i.ytimg.com/vi/C1w_-hL6mag/hqdefault.jpg)  
+
 - [시뮬레이션: 롤러코스터](http://d3tt741pwxqwm0.cloudfront.net/WGBH/conv16/conv16-int-rollercoaster/index.html)
+
+---
 
 > 탄성충돌과 비탄성충돌
 
