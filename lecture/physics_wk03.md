@@ -77,8 +77,8 @@
 
 > ### `탄성, 응력과 변형률` : 훅의 법칙의 한계
 >
-> ![훅의 법칙의 한계](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=kks9318&logNo=220310567508)  
-> (source: https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=kks9318&logNo=220310567508)
+> ![훅의 법칙의 한계](https://mblogthumb-phinf.pstatic.net/20150525_216/junilov2_1432532609808jY2sh_PNG/%C0%C0%B7%C2%BA%AF%C7%FC%C0%B2%BC%B1%B5%B5.png?type=w2)  
+> (source: https://mblogthumb-phinf.pstatic.net/20150525_216/junilov2_1432532609808jY2sh_PNG/%C0%C0%B7%C2%BA%AF%C7%FC%C0%B2%BC%B1%B5%B5.png?type=w2)
 
 ---
 
