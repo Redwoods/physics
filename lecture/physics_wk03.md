@@ -94,7 +94,7 @@
 (source: http://postfiles7.naver.net/MjAxNjEyMjlfMjU3/MDAxNDgyOTk5NDY0ODA1.cUdqDKLFOoTqiKm4TtzRuZ-C2LlMAtksJkMiCRcwm8Ig.I98EvD06grqwgpdo68pu-bVKHHxnE4n3oRvJM8TO1qIg.JPEG.applepop/87675.jpg?type=w3)
 
 - 온도가 일정할 때 부피와 압력의 변화  
-  ![온도가 일정할 때 부피와 압력의 변화](https://lh3.googleusercontent.com/proxy/rU9lViOVNaG7aJ2Hjffxg_vchpZbt4DFPEA5lqQbBzAcEfTk1NHxH-c4bOpf6MHfU3PtrN8LJmmtZtGRX-o9vjVxO2THN_0AhPZE_ec)  
+  ![온도가 일정할 때 부피와 압력의 변화 -> 보일의 법칙 검색](https://lh3.googleusercontent.com/proxy/rU9lViOVNaG7aJ2Hjffxg_vchpZbt4DFPEA5lqQbBzAcEfTk1NHxH-c4bOpf6MHfU3PtrN8LJmmtZtGRX-o9vjVxO2THN_0AhPZE_ec)  
   (source: https://lh3.googleusercontent.com/proxy/rU9lViOVNaG7aJ2Hjffxg_vchpZbt4DFPEA5lqQbBzAcEfTk1NHxH-c4bOpf6MHfU3PtrN8LJmmtZtGRX-o9vjVxO2THN_0AhPZE_ec)
 
 - [link: 이상기체의 상태방정식](http://blog.naver.com/PostView.nhn?blogId=applepop&logNo=220898731819)
