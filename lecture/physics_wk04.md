@@ -46,8 +46,8 @@
 ## 파동
 
 > ### 파동의 구조
-![파동의 구조](http://study.zumst.com/upload/00-K33-00-31-01/K33-00-31-01-%EB%B3%80%EC%9C%84%EC%9C%84%EC%B9%98%EA%B7%B8%EB%9E%98%ED%94%84.png)   
-(source: http://study.zumst.com/upload/00-K33-00-31-01/K33-00-31-01-%EB%B3%80%EC%9C%84%EC%9C%84%EC%B9%98%EA%B7%B8%EB%9E%98%ED%94%84.png)  
+![파동의 구조](https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99F8CB3359B4C59C12)   
+(source: https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99F8CB3359B4C59C12)  
 
 ---
 
