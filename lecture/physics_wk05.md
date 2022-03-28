@@ -52,8 +52,8 @@
 (source: https://image.freepik.com/free-vector/no-translate-detected_68708-37.jpg)  
 
 > ### 반사
-![정반사와 난반사](http://proi.edupia.com/contents/proicontents/proi/proi/middle/SchoolBook/seb/images/2term/smsc1/401663.jpg)   
-(source: http://proi.edupia.com/contents/proicontents/proi/proi/middle/SchoolBook/seb/images/2term/smsc1/401663.jpg)
+![정반사와 난반사](http://kid.chosun.com/site/data/img_dir/2015/06/29/2015062902452_1.jpg)   
+(source: http://kid.chosun.com/site/data/img_dir/2015/06/29/2015062902452_1.jpg)
 
 > ### 굴절
 
