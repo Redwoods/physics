@@ -125,6 +125,7 @@
 > ### `렌즈와 프리즘` 
 
 - 오목/볼록 렌즈
+- 
 ![오목/볼록 렌즈](https://www.scienceall.com/nas/image/201303/201303051201332_N541S7FU.jpg)  
 (SOURCE: https://www.scienceall.com/nas/image/201303/201303051201332_N541S7FU.jpg)  
 
