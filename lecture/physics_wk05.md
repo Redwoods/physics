@@ -149,8 +149,8 @@
 
 - 분리된 두 빛의 중첩과 간섭을 이용한 **정밀 거리 측정**  
 
-![두 빛의 중첩과 간섭을 이용한 정밀 거리 측정](http://physica.gsnu.ac.kr/physedu/modexp/Michelson/fig2.gif)  
-(source: http://physica.gsnu.ac.kr/physedu/modexp/Michelson/fig2.gif)  
+![두 빛의 중첩과 간섭을 이용한 정밀 거리 측정](https://www.sciencetimes.co.kr/wp-content/uploads/2020/06/H165_%EB%A7%88%EC%9D%B4%EC%BC%88%EC%8A%A8-%EA%B0%84%EC%84%AD%EA%B3%84_%EC%A0%80%EC%9E%91%EA%B6%8C%EC%9E%90_Polytec-GmbH-480x349.png)  
+(source: https://www.sciencetimes.co.kr/wp-content/uploads/2020/06/H165_%EB%A7%88%EC%9D%B4%EC%BC%88%EC%8A%A8-%EA%B0%84%EC%84%AD%EA%B3%84_%EC%A0%80%EC%9E%91%EA%B6%8C%EC%9E%90_Polytec-GmbH-480x349.png)  
 
 ***
 
