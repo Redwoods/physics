@@ -109,6 +109,13 @@
 > ![노을이 붉은 이유](http://mblogthumb4.phinf.naver.net/20140314_179/staryoorang_139476212369549xPu_JPEG/%C7%CF%B4%C3%C0%CC_%C6%C4%B6%F5_%C0%CC%C0%AF.jpg?type=w2)  
 (source: http://mblogthumb4.phinf.naver.net/20140314_179/staryoorang_139476212369549xPu_JPEG/%C7%CF%B4%C3%C0%CC_%C6%C4%B6%F5_%C0%CC%C0%AF.jpg?type=w2)
 
+- 미세 먼지 측정 원리 - 빛의 산란
+
+> ![미세 먼지 측정 원리 - 빛의 산란 ](http://postfiles10.naver.net/MjAxNzA1MTlfNTkg/MDAxNDk1MTY2ODQyMjE3.LS2NJY1Goz0SO32JUHcn2hzr5_OYNOn0I6Ke_DI_T18g.F2h7ysD2wUId1Ftsy9fwjUeCDOunFDLsq64ye80pwrcg.PNG.ryanss/image_1335912761495166773050.png?type=w773)
+(source: http://postfiles10.naver.net/MjAxNzA1MTlfNTkg/MDAxNDk1MTY2ODQyMjE3.LS2NJY1Goz0SO32JUHcn2hzr5_OYNOn0I6Ke_DI_T18g.F2h7ysD2wUId1Ftsy9fwjUeCDOunFDLsq64ye80pwrcg.PNG.ryanss/image_1335912761495166773050.png?type=w773)
+
+  - [Youtube: 미세 먼지 측정기 제작](https://www.youtube.com/watch?v=GDsED0VII_s)
+
 > `편광`  
 
 - 빛 즉 전자기파에서 전기장의 진동 방향 
@@ -174,10 +181,6 @@
 - ## 주제 3. 미세 먼지 측정 원리는?
 > [Youtube: 미세 먼지 측정기 제작](https://www.youtube.com/watch?v=GDsED0VII_s)
 
-- 미세 먼지 측정 원리 - 빛의 산란
-
-> ![미세 먼지 측정 원리 - 빛의 산란 ](http://postfiles10.naver.net/MjAxNzA1MTlfNTkg/MDAxNDk1MTY2ODQyMjE3.LS2NJY1Goz0SO32JUHcn2hzr5_OYNOn0I6Ke_DI_T18g.F2h7ysD2wUId1Ftsy9fwjUeCDOunFDLsq64ye80pwrcg.PNG.ryanss/image_1335912761495166773050.png?type=w773)
-(source: http://postfiles10.naver.net/MjAxNzA1MTlfNTkg/MDAxNDk1MTY2ODQyMjE3.LS2NJY1Goz0SO32JUHcn2hzr5_OYNOn0I6Ke_DI_T18g.F2h7ysD2wUId1Ftsy9fwjUeCDOunFDLsq64ye80pwrcg.PNG.ryanss/image_1335912761495166773050.png?type=w773)
 
 ---
 
