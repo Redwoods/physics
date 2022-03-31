@@ -114,9 +114,9 @@
 > ![미세 먼지 측정 원리 - 빛의 산란 ](http://postfiles10.naver.net/MjAxNzA1MTlfNTkg/MDAxNDk1MTY2ODQyMjE3.LS2NJY1Goz0SO32JUHcn2hzr5_OYNOn0I6Ke_DI_T18g.F2h7ysD2wUId1Ftsy9fwjUeCDOunFDLsq64ye80pwrcg.PNG.ryanss/image_1335912761495166773050.png?type=w773)
 (source: http://postfiles10.naver.net/MjAxNzA1MTlfNTkg/MDAxNDk1MTY2ODQyMjE3.LS2NJY1Goz0SO32JUHcn2hzr5_OYNOn0I6Ke_DI_T18g.F2h7ysD2wUId1Ftsy9fwjUeCDOunFDLsq64ye80pwrcg.PNG.ryanss/image_1335912761495166773050.png?type=w773)
 
-  - [Youtube: 미세 먼지 측정기 제작](https://www.youtube.com/watch?v=GDsED0VII_s)
+  - ### [Youtube: 미세 먼지 측정기 제작](https://www.youtube.com/watch?v=GDsED0VII_s)
 
-> `편광`  
+> ## `편광`  
 
 - 빛 즉 전자기파에서 전기장의 진동 방향 
 
