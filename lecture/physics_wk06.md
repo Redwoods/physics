@@ -80,8 +80,8 @@
 
 - 전파와 실용 사례
 
-![전파](https://emf.kca.kr/publish/Images/elec_business/img_elec_business_business04_1.gif)   
-(source: https://emf.kca.kr/publish/Images/elec_business/img_elec_business_business04_1.gif)  
+![전파](https://mblogthumb-phinf.pstatic.net/20151028_122/leekdh1965_1445997759393Q1Yz9_PNG/%C4%B8%C3%B34.PNG?type=w2)   
+(source: https://mblogthumb-phinf.pstatic.net/20151028_122/leekdh1965_1445997759393Q1Yz9_PNG/%C4%B8%C3%B34.PNG?type=w2)  
 
 > ### 마이크로파
 
