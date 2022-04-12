@@ -137,11 +137,11 @@
 
 > ### 잠열
 
-![잠열](https://t1.daumcdn.net/cfile/tistory/99C38F3359F0386A21)   
-(source: https://t1.daumcdn.net/cfile/tistory/99C38F3359F0386A21)  
-
-![잠열](https://mblogthumb-phinf.pstatic.net/20120307_128/dohyuni1018_1331112165348Df2zv_JPEG/%C0%E1%BF%AD.jpg?type=w2)  
+![잠열1](https://mblogthumb-phinf.pstatic.net/20120307_128/dohyuni1018_1331112165348Df2zv_JPEG/%C0%E1%BF%AD.jpg?type=w2)  
 (source: https://mblogthumb-phinf.pstatic.net/20120307_128/dohyuni1018_1331112165348Df2zv_JPEG/%C0%E1%BF%AD.jpg?type=w2)
+
+![잠열2](https://t1.daumcdn.net/cfile/tistory/99C38F3359F0386A21)   
+(source: https://t1.daumcdn.net/cfile/tistory/99C38F3359F0386A21)  
 
 
 > ### 열기관 (Heat engine)과 열펌프 (Heat pump)   
