@@ -137,16 +137,18 @@
 
 > ### 잠열
 
-![잠열](http://study.zumst.com/upload/00-K33-00-42-16/K33-00-42-16-%EB%AC%BC%EC%83%81%ED%83%9C%EB%B3%80%ED%99%94%EC%99%80%EC%9E%A0%EC%97%B4.png)   
-(source: http://study.zumst.com/upload/00-K33-00-42-16/K33-00-42-16-%EB%AC%BC%EC%83%81%ED%83%9C%EB%B3%80%ED%99%94%EC%99%80%EC%9E%A0%EC%97%B4.png)  
+![잠열](https://t1.daumcdn.net/cfile/tistory/99C38F3359F0386A21)   
+(source: https://t1.daumcdn.net/cfile/tistory/99C38F3359F0386A21)  
 
-![잠열](http://study.zumst.com/upload/02-K33-00-42-16/K33-00-42-16-%EB%AC%B8%EC%A0%9C.png)  
-(source: http://study.zumst.com/upload/02-K33-00-42-16/K33-00-42-16-%EB%AC%B8%EC%A0%9C.png)
+![잠열](https://mblogthumb-phinf.pstatic.net/20120307_128/dohyuni1018_1331112165348Df2zv_JPEG/%C0%E1%BF%AD.jpg?type=w2)  
+(source: https://mblogthumb-phinf.pstatic.net/20120307_128/dohyuni1018_1331112165348Df2zv_JPEG/%C0%E1%BF%AD.jpg?type=w2)
 
 
 > ### 열기관 (Heat engine)과 열펌프 (Heat pump)   
 
-![열기관](http://cfile219.uf.daum.net/R400x0/12170F0C49CC1D5E150B50)  (source: http://cfile219.uf.daum.net/R400x0/12170F0C49CC1D5E150B50)  
+![열기관](http://cfile219.uf.daum.net/R400x0/12170F0C49CC1D5E150B50)  
+(source: http://cfile219.uf.daum.net/R400x0/12170F0C49CC1D5E150B50)  
+
 - 카르노 기관: 이상적인 열기관
 
 ***
