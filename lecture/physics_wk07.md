@@ -76,8 +76,8 @@
 
 - ### 전도, 대류, 복사
 
-![열전달](https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.blog.naver.com%2Ftoshizo%2F220761146348&psig=AOvVaw11XNDvW-QM9MVBZHWOiO5X&ust=1649813728464000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKitqJ-xjfcCFQAAAAAdAAAAABAJ)   
-(source: https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.blog.naver.com%2Ftoshizo%2F220761146348&psig=AOvVaw11XNDvW-QM9MVBZHWOiO5X&ust=1649813728464000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKitqJ-xjfcCFQAAAAAdAAAAABAJ)  
+![열전달: 교재 그림](https://github.com/Redwoods/physics/raw/master/media/Heat_transfer.png)   
+(source: https://github.com/Redwoods/physics/raw/master/media/Heat_transfer.png)  
 
 > ### 엔탈피와 엔트로피  
 
