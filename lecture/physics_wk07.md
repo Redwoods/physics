@@ -83,8 +83,9 @@
 
 - ## 엔탈피 : 계의 에너지 총량
 
-![엔탈피](http://study.zumst.com/upload/00-d33-00-21-04/%ED%9D%A1%EC%97%B4%20%EB%B0%98%EC%9D%91%EC%9D%98%20%EC%97%94%ED%83%88%ED%94%BC%20%EB%B3%80%ED%99%94.png)  
-(source: http://study.zumst.com/upload/00-d33-00-21-04/%ED%9D%A1%EC%97%B4%20%EB%B0%98%EC%9D%91%EC%9D%98%20%EC%97%94%ED%83%88%ED%94%BC%20%EB%B3%80%ED%99%94.pngw)
+![엔탈피](https://mblogthumb-phinf.pstatic.net/MjAxNzA3MDFfMjI5/MDAxNDk4ODM2Nzg1NTI1.Z6pnYWzXAnj7yaGCXiOwYVWjwk5reFeh94XKpSDd5-0g.yhKjyqinYPBl2y1pqP8YTPXyNBDhvO8FcMl1N52KUxgg.JPEG.chemcorder/e383_i1.jpg?type=w800)  
+
+(source:https://mblogthumb-phinf.pstatic.net/MjAxNzA3MDFfMjI5/MDAxNDk4ODM2Nzg1NTI1.Z6pnYWzXAnj7yaGCXiOwYVWjwk5reFeh94XKpSDd5-0g.yhKjyqinYPBl2y1pqP8YTPXyNBDhvO8FcMl1N52KUxgg.JPEG.chemcorder/e383_i1.jpg?type=w800)
 
 - ## 엔트로피: 계의 무질서한 정도
 
