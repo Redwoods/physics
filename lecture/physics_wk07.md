@@ -76,8 +76,8 @@
 
 - ### 전도, 대류, 복사
 
-![열전달](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.kookje.co.kr%2Fnews2011%2Fasp%2Fnewsbody.asp%3Fcode%3D0800%26key%3D20050602.22020205228&psig=AOvVaw11XNDvW-QM9MVBZHWOiO5X&ust=1649813728464000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKitqJ-xjfcCFQAAAAAdAAAAABAD)   
-(source: https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.kookje.co.kr%2Fnews2011%2Fasp%2Fnewsbody.asp%3Fcode%3D0800%26key%3D20050602.22020205228&psig=AOvVaw11XNDvW-QM9MVBZHWOiO5X&ust=1649813728464000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKitqJ-xjfcCFQAAAAAdAAAAABAD)  
+![열전달](https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.blog.naver.com%2Ftoshizo%2F220761146348&psig=AOvVaw11XNDvW-QM9MVBZHWOiO5X&ust=1649813728464000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKitqJ-xjfcCFQAAAAAdAAAAABAJ)   
+(source: https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.blog.naver.com%2Ftoshizo%2F220761146348&psig=AOvVaw11XNDvW-QM9MVBZHWOiO5X&ust=1649813728464000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKitqJ-xjfcCFQAAAAAdAAAAABAJ)  
 
 > ### 엔탈피와 엔트로피  
 
