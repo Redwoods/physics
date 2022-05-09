@@ -138,8 +138,8 @@
 
   > 자석을 이용해서 전기를 유도하는 현상
 
-  ![전자기유도](https://javalab.org/wp-content/uploads/faradays_law_1.png)  
-   (source: https://javalab.org/wp-content/uploads/faradays_law_1.png)
+  ![전자기유도](https://github.com/Redwoods/physics/blob/master/media/em_induction.png)  
+   (source: https://javalab.org/faradays_law_1/)
 
 - [link: 전자기유도 시뮬레이션](https://javalab.org/faradays_law_1/)  
 
