@@ -172,7 +172,7 @@
   > [Youtube: 전자기유도](https://www.youtube.com/watch?v=_-VHLe3TAhc)
 
 - ## 주제 3. 아날로그와 디지털의 차이
-  > [Youtube: 아날로그와 디지털의 차이](https://www.youtube.com/watch?v=L8jVc2AMiow)
+  > [Youtube: 아날로그와 디지털의 차이](https://www.youtube.com/watch?v=aw5kAOURFXA)
 
 ---
 
