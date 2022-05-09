@@ -68,7 +68,7 @@
 ![전류](https://slidesplayer.org/slide/11219411/60/images/4/%EC%A0%84%EB%A5%98%EC%9D%98+%ED%9D%90%EB%A6%84%EA%B3%BC+%EC%A0%84%EC%9E%90%EC%9D%98+%EC%9D%B4%EB%8F%99.jpg)  
 (source: https://slidesplayer.org/slide/11219411/60/images/4/%EC%A0%84%EB%A5%98%EC%9D%98+%ED%9D%90%EB%A6%84%EA%B3%BC+%EC%A0%84%EC%9E%90%EC%9D%98+%EC%9D%B4%EB%8F%99.jpg)
 
-- [link: 전류 시뮬레이션](http://javalab.org/lee/2015/electric_current/)
+- [link: 전류 시뮬레이션](https://javalab.org/electric_current/)
 
 > ### 전위차
 
