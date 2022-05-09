@@ -133,7 +133,10 @@
 - ## 원자를 구성하는 전자 구름의 분포(오비탈) 변화로 흡수/방출 스펙트럼을 설명하는 모형
 ![보어의 원자모형](http://t1.daumcdn.net/thumb/R659x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fencyclop%2Fm24%2FuWz8TIeJo8XgLoofY5cjjF8hFkUBgdFF1HyWk5LD%3Ft%3D1441105821000)  
 (source: http://t1.daumcdn.net/thumb/R659x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fencyclop%2Fm24%2FuWz8TIeJo8XgLoofY5cjjF8hFkUBgdFF1HyWk5LD%3Ft%3D1441105821000)  
- 
+
+## 시뮬레이션 
+> ## [불꽃 스펙트럼](https://javalab.org/flame_test/)
+
 ---
 > ### 원자 간 힘 현미경
 - ## AFM (Atomic Force Microscope)  
