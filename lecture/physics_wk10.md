@@ -113,7 +113,9 @@
 - ## 강자성, 상자성, 반자성
 
   ![강자성, 상자성, 반자성](https://mblogthumb-phinf.pstatic.net/MjAxNzA0MjRfMjg2/MDAxNDkzMDMwNTc4NjYx.cR_bM-Tr14bWVlUbxtFugyCgrZMSEvkQXxG-BC65OHIg.JqaX-OeGlCYTFaHQPbexWY3h-0w1fVDQc0L7zduOT9Eg.PNG.ssh123451/image.png?type=w800)  
-  (source: https://mblogthumb-phinf.pstatic.net/MjAxNzA0MjRfMjg2/MDAxNDkzMDMwNTc4NjYx.cR_bM-Tr14bWVlUbxtFugyCgrZMSEvkQXxG-BC65OHIg.JqaX-OeGlCYTFaHQPbexWY3h-0w1fVDQc0L7zduOT9Eg.PNG.ssh123451/image.png?type=w800)
+  (source: https://mblogthumb-phinf.pstatic.net/MjAxNzA0MjRfMjg2/MDAxNDkzMDMwNTc4NjYx.cR_bM-Tr14bWVlUbxtFugyCgrZMSEvkQXxG-BC65OHIg.JqaX-OeGlCYTFaHQPbexWY3h-0w1fVDQc0L7zduOT9Eg.PNG.ssh123451/image.png?type=w800) 
+
+> ## [강자성체의 자화 시뮬레이션](https://javalab.org/magnetization/)
 
 ---
 
