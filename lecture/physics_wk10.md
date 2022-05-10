@@ -13,6 +13,9 @@
 "물리는 그냥 안된다.~~ 물리에서는 모든 게 된다."
 — Giles Sparrow
 
+"물리를 배우면..."
+- [want-to-be-a-billionaire-elon-musk-says-to-study-physics](https://medium.com/mind-cafe/want-to-be-a-billionaire-elon-musk-says-to-study-physics-5803872a7ed0)
+
 ## keywords
 
 ### `atom`, genome, bit
