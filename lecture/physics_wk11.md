@@ -61,8 +61,8 @@
 
 - 불안정한 원소가 헬륨의 원자핵과 안정된 원소로 붕괴.
 
-  ![알파붕괴](https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.blog.naver.com%2Fppp64512%2F220573301154&psig=AOvVaw3Mu4h5ZLektcNAmXIy1Avw&ust=1652750459836000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODB-rvt4vcCFQAAAAAdAAAAABAD)  
-  (source: https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.blog.naver.com%2Fppp64512%2F220573301154&psig=AOvVaw3Mu4h5ZLektcNAmXIy1Avw&ust=1652750459836000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODB-rvt4vcCFQAAAAAdAAAAABAD)  
+  ![알파붕괴](https://mblogthumb-phinf.pstatic.net/20151220_222/ppp64512_1450537428586wlWF8_JPEG/1429278023836.jpg?type=w2)  
+  (source: https://mblogthumb-phinf.pstatic.net/20151220_222/ppp64512_1450537428586wlWF8_JPEG/1429278023836.jpg?type=w2)  
   
 > ### 베타붕괴
 
