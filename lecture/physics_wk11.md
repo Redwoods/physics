@@ -61,8 +61,8 @@
 
 - 불안정한 원소가 헬륨의 원자핵과 안정된 원소로 붕괴.
 
-  ![알파붕괴](https://lh3.googleusercontent.com/proxy/OZyeJGP9cJNdm9FGxKuQlhuhaBVEmNxBMErM8JLeTK96TeGOrq2-8zGkHyuvIZUof6HAOwW957n9gLf8BuSVdQVPPML8iLP73BLVnSGN_vQMC7oi-0uRCgP7jBFXWpRdJ6Rj1K5fCKPziH2Q4gW_HmrcOh08MWCW6xYzok2uFloe_biU1k-C-PN0HCOv2x9sRwCJAGsNuZ9qEMiVf0nbu5n-DBrJ3J4aAubuEUlxCCVKiUdFJmUqGAJutaivPMc-stRbfAIWYXoH)  
-  (source: https://lh3.googleusercontent.com/proxy/OZyeJGP9cJNdm9FGxKuQlhuhaBVEmNxBMErM8JLeTK96TeGOrq2-8zGkHyuvIZUof6HAOwW957n9gLf8BuSVdQVPPML8iLP73BLVnSGN_vQMC7oi-0uRCgP7jBFXWpRdJ6Rj1K5fCKPziH2Q4gW_HmrcOh08MWCW6xYzok2uFloe_biU1k-C-PN0HCOv2x9sRwCJAGsNuZ9qEMiVf0nbu5n-DBrJ3J4aAubuEUlxCCVKiUdFJmUqGAJutaivPMc-stRbfAIWYXoH)  
+  ![알파붕괴](https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.blog.naver.com%2Fppp64512%2F220573301154&psig=AOvVaw3Mu4h5ZLektcNAmXIy1Avw&ust=1652750459836000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODB-rvt4vcCFQAAAAAdAAAAABAD)  
+  (source: https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.blog.naver.com%2Fppp64512%2F220573301154&psig=AOvVaw3Mu4h5ZLektcNAmXIy1Avw&ust=1652750459836000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODB-rvt4vcCFQAAAAAdAAAAABAD)  
   
 > ### 베타붕괴
 
