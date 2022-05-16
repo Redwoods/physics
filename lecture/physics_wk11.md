@@ -95,7 +95,9 @@
 ![반감기](https://t1.daumcdn.net/cfile/tistory/24068338528074693A)  
  (source: https://t1.daumcdn.net/cfile/tistory/24068338528074693A)
 
-link: http://www.seehint.com/catalog/2017/2017_10/%EB%B0%A9_%EB%B0%98%EA%B0%90%EA%B8%B0.jpg
+link: http://www.seehint.com/catalog/2017/2017_10/%EB%B0%A9_%EB%B0%98%EA%B0%90%EA%B8%B0.jpg  
+
+> [시뮬레이션: 반감기](https://javalab.org/half_life_period/)  
 
 ---
 
@@ -127,6 +129,8 @@ link: https://m.blog.naver.com/PostView.nhn?blogId=winzone&logNo=220531162710&pr
   ![핵분열 에너지](https://t1.daumcdn.net/cfile/tistory/996E373A5A5BC97C16)  
   (source: https://t1.daumcdn.net/cfile/tistory/996E373A5A5BC97C16)
 
+> ## [시뮬레이션: 핵분열](https://javalab.org/nuclear_chain_reaction/)  
+ 
 - ## 핵융합 에너지
 
 - #### 1억도 이상의 초고온 플라즈마 상태인 별들의 중심에서 수소와 같은 가벼운 원자핵들이 융합해 무거운 헬륨 원자핵으로 바뀌는 핵융합반응이 일어나면서 거대한 에너지가 만들어진다.
