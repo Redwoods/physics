@@ -70,7 +70,7 @@
   (source: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Photoelectric_effect.svg/275px-Photoelectric_effect.svg.png)
 
 - ### [시뮬레이션: 광전효과](https://javalab.org/photoelectric_effect_2/)  
-- 
+
 ---
 
 > ### 파동-입자 이중성
