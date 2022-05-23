@@ -125,10 +125,10 @@
 
 > ## 코펜하겐 해석
 
-- ### 관찰에 의한 파동함수의 붕괴로 인해 하나의 상태로 관측된다.
+- ### 관찰에 의한 **파동함수의 붕괴**로 인해 하나의 상태로 관측된다.
 
-  ![파동함수의 붕괴](https://lh3.googleusercontent.com/proxy/Rx321-5BrIob0kdX453IH7dScl09w8tGW_hpcB4tdb7c1YYKzkQxtYmYX_15C-ZimpNdgtArm-FWzxoLl3nD5fM)    
-  (source: https://lh3.googleusercontent.com/proxy/Rx321-5BrIob0kdX453IH7dScl09w8tGW_hpcB4tdb7c1YYKzkQxtYmYX_15C-ZimpNdgtArm-FWzxoLl3nD5fM)
+  ![파동함수의 붕괴](http://uguys.net/zboard/data/inside/q.jpg)  
+  (source: http://uguys.net/zboard/data/inside/q.jpg)
 
 ---
 
@@ -137,7 +137,7 @@
 - ### 파동성을 가진 입자의 위치와 속도(운동량, 파장)을 동시에 측정할 수 없다.
 
   ![불확정성원리]([https://img1.daumcdn.net/thumb/S272x320/?scode=mtistory&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2472FA3A57F521E601](http://uguys.net/zboard/data/inside/q.jpg)) 
-  (source: [https://img1.daumcdn.net/thumb/S272x320/?scode=mtistory&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2472FA3A57F521E601](http://uguys.net/zboard/data/inside/q.jpg))
+  (source: [https://img1.daumcdn.net/thumb/S272x320/?scode=mtistory&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2472FA3A57F521E601]()
 
   - link: https://t1.daumcdn.net/cfile/tistory/990DD8345A4393861C
 
