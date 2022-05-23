@@ -66,8 +66,8 @@
 
 - 특정 파장의 빛에 노출된 금속 표면에서 전자가 방출되는 현상
 - 빛의 입자성 -> 광자 (photon)  
-  ![광전효과](https://commons.wikimedia.org/wiki/File:Photoelectric_effect_in_a_solid_-_diagram.svg)  
-  (source: https://commons.wikimedia.org/wiki/File:Photoelectric_effect_in_a_solid_-_diagram.svg)
+  ![광전효과](https://upload.wikimedia.org/wikipedia/commons/a/a6/Photoelectric_effect_in_a_solid_-_diagram.svg)  
+  (source: https://upload.wikimedia.org/wikipedia/commons/a/a6/Photoelectric_effect_in_a_solid_-_diagram.svg)  
 
 - ### [시뮬레이션: 광전효과](https://javalab.org/photoelectric_effect_2/)  
 
