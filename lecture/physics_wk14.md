@@ -193,8 +193,8 @@
 
   - 암흑물질: 대부분 새로운 물질로 구성되며, 은하와 별이 만들 질 때 강한 중력을 발생시켜서 우주 형성에 기여.  
   - 암흑에너지: 현재 우주의 가속 팽창을 설명  
-    ![암흑에너지](https://www.google.com/imgres?imgurl=https%3A%2F%2Fsteemitimages.com%2F640x0%2Fhttps%3A%2F%2Fsteemitimages.com%2FDQmPMFgxnnwsPGBEuP2ndaggyanpyTAzwn6qhKxwYw5dVMW%2Fimage.png&imgrefurl=https%3A%2F%2Fsteemit.com%2Fkr-science%2F%40chosungyun%2F2l4qgi&tbnid=3K3ZqRF5WK5N0M&vet=12ahUKEwil3uHv65j4AhXNDN4KHSSMA7IQMygFegUIARDQAQ..i&docid=WZ4oKrAH-T45jM&w=553&h=255&q=%EC%95%94%ED%9D%91%EB%AC%BC%EC%A7%88&ved=2ahUKEwil3uHv65j4AhXNDN4KHSSMA7IQMygFegUIARDQAQ)  
-    (source: [https://lh3.googleusercontent.com/proxy/WCtexfWNfZTomByyBR_sFdx1r428xsKbQWp_X0fQqaG0lsOiGOyESI_9eku6ryno2BgFMRxlWZY6hfOXm5ncDNoCazE1Zuipnwf7CDxVV3eJ-xCV0CTRau64Sou8_yBY1I5J10DkLknW-8D0YH3HfIMo0Lh1k-9AgyCNskRlEHN1RpDx9NLsnXLq3gSu4urw28Q=s0-d](https://www.google.com/imgres?imgurl=https%3A%2F%2Fsteemitimages.com%2F640x0%2Fhttps%3A%2F%2Fsteemitimages.com%2FDQmPMFgxnnwsPGBEuP2ndaggyanpyTAzwn6qhKxwYw5dVMW%2Fimage.png&imgrefurl=https%3A%2F%2Fsteemit.com%2Fkr-science%2F%40chosungyun%2F2l4qgi&tbnid=3K3ZqRF5WK5N0M&vet=12ahUKEwil3uHv65j4AhXNDN4KHSSMA7IQMygFegUIARDQAQ..i&docid=WZ4oKrAH-T45jM&w=553&h=255&q=%EC%95%94%ED%9D%91%EB%AC%BC%EC%A7%88&ved=2ahUKEwil3uHv65j4AhXNDN4KHSSMA7IQMygFegUIARDQAQ))  
+    ![암흑에너지](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.seehint.com%2Fword.asp%3Fno%3D12894&psig=AOvVaw2ToZmoasexgFlw7zh1y3_7&ust=1654605478885000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJid-dPsmPgCFQAAAAAdAAAAABAD)  
+    (source: https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.seehint.com%2Fword.asp%3Fno%3D12894&psig=AOvVaw2ToZmoasexgFlw7zh1y3_7&ust=1654605478885000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJid-dPsmPgCFQAAAAAdAAAAABAD)  
     
 - [Youtube: 우주의 팽창과 암흑에너지](https://www.youtube.com/watch?v=uHrSKByv104)
 
