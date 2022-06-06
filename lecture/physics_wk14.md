@@ -63,8 +63,8 @@
 ---
 
 - 우주론 : 우주의 팽창과 미래의 모습  
-  ![우주론](https://vignette.wikia.nocookie.net/universe9380/images/5/55/57555a5077366f2665bd42fb.jpg/revision/latest?cb=20160731055143&path-prefix=ko)  
-   (source: https://vignette.wikia.nocookie.net/universe9380/images/5/55/57555a5077366f2665bd42fb.jpg/revision/latest?cb=20160731055143&path-prefix=ko)
+  ![우주론](https://mblogthumb-phinf.pstatic.net/MjAyMDAyMDVfMTI5/MDAxNTgwODc2NzcwNTAy.CoisrNDm6A8fnpulHsDTtBmvnrdKu9wFGrB0WMGkQs8g.3pCBAWGCP9pzGK3Q9RkrsOUWo2oA3bVj-xYHIS76lfgg.PNG.juan3377/%EA%B3%BC%ED%95%996.png?type=w800)  
+   (source: hhttps://mblogthumb-phinf.pstatic.net/MjAyMDAyMDVfMTI5/MDAxNTgwODc2NzcwNTAy.CoisrNDm6A8fnpulHsDTtBmvnrdKu9wFGrB0WMGkQs8g.3pCBAWGCP9pzGK3Q9RkrsOUWo2oA3bVj-xYHIS76lfgg.PNG.juan3377/%EA%B3%BC%ED%95%996.png?type=w800
 
 ---
 
