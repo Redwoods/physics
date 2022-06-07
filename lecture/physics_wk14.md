@@ -172,8 +172,9 @@
 - ### 일반상대론
 
   - 가속되는 물체 내의 가속도와 중력에 의한 가속도와 구분할 수 없다. (등가원리)  
+  
     ![등가원리](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMNoXeOC5bbsA1VLMj-9lgQewXJtOLY8BPWSoPkILeYj_7bWgK)  
-    (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMNoXeOC5bbsA1VLMj-9lgQewXJtOLY8BPWSoPkILeYj_7bWgK)
+    (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMNoXeOC5bbsA1VLMj-9lgQewXJtOLY8BPWSoPkILeYj_7bWgK)  
 
 - ### 중력파 (Gravitational wave)
 
