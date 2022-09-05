@@ -148,8 +148,9 @@ https://m.blog.naver.com/PostView.nhn?blogId=qjqh159&logNo=220642115511&proxyRef
 
 ![](https://upload.wikimedia.org/wikipedia/commons/b/b6/Corioliskraftanimation.gif)
 (source: https://upload.wikimedia.org/wikipedia/commons/b/b6/Corioliskraftanimation.gif)
-각운동량 보존법칙에 의해 회전판의 붉은 점에서 보았을 때 물체는 진행방향의 왼쪽으로 움직이는 것처럼 보인다. 북반구에서는 태풍이 반시계방향으로 회전한다.  
+각운동량 보존법칙에 의해 회전판의 붉은 점에서 보았을 때 물체는 진행방향의 왼쪽으로 움직이는 것처럼 보인다. 
 
+북반구에서는 태풍이 반시계방향으로 회전한다.  
 ![](https://github.com/Redwoods/physics/blob/master/media/hinnamno_typhoon_NASA.jpg)  
 
 - [코리올리효과 시뮬레이션: Flash 문제로 지원 중단](https://yjh-phys.tistory.com/1423?category=523725)
