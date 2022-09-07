@@ -62,7 +62,7 @@
 > 운동량
 
 - 선운동량과 각운동량의 차이는?
-- [YouTube: Amazing Demonstration Of A Giant Newton's Cradle!](https://www.youtube.com/watch?v=8dgyPRA86K0)
+> [YouTube: Amazing Demonstration Of A Giant Newton's Cradle!](https://www.youtube.com/watch?v=8dgyPRA86K0)
 
 > 일, 에너지와 일률
 
