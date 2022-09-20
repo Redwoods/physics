@@ -140,18 +140,19 @@
 
 ---
 
-> ### `조화파와 공명` 
+> ### `조화파와 공명`   
 - 조화파는 기본 진동수의 정수 배수의 진동수를 갖는 파동  
 ![정상파: 조화파-현의 진동](http://mblogthumb1.phinf.naver.net/20160419_276/toshizo_14610554801528LV5q_JPEG/w36.jpg?type=w2)  
-(SOURCE: http://mblogthumb1.phinf.naver.net/20160419_276/toshizo_14610554801528LV5q_JPEG/w36.jpg?type=w2)
-- 공명: 외부에서 발생한 기본 진동수 또는 조화 진동수의 파동에 동조하여 진동하거나 진폭이 증가하는 현상
-![공명](http://ivic.co.kr/wp/wp-content/uploads/2015/03/TURNING-FORK-%EC%86%8C%EB%A6%AC%EA%B5%BD%EC%87%A0.png)  
+(SOURCE: http://mblogthumb1.phinf.naver.net/20160419_276/toshizo_14610554801528LV5q_JPEG/w36.jpg?type=w2)  
+- 공명: 외부에서 발생한 기본 진동수 또는 조화 진동수의 파동에 동조하여 진동하거나 진폭이 증가하는 현상  
+<!-- ![공명](http://ivic.co.kr/wp/wp-content/uploads/2015/03/TURNING-FORK-%EC%86%8C%EB%A6%AC%EA%B5%BD%EC%87%A0.png)   -->
+<img src="http://ivic.co.kr/wp/wp-content/uploads/2015/03/TURNING-FORK-%EC%86%8C%EB%A6%AC%EA%B5%BD%EC%87%A0.png" width=900 height=600>공명</img>  
 (SOURCE: http://ivic.co.kr/wp/wp-content/uploads/2015/03/TURNING-FORK-%EC%86%8C%EB%A6%AC%EA%B5%BD%EC%87%A0.png)  
-- [link: 제진대의 공진주파수](http://ivic.co.kr/archives/385)
-- [link: Youtube-Braekdown of Tacoma bridge](https://www.youtube.com/watch?v=3mclp9QmCGs)
+- [link: 제진대의 공진주파수](http://ivic.co.kr/archives/385)  
+- [link: Youtube-Braekdown of Tacoma bridge](https://www.youtube.com/watch?v=3mclp9QmCGs)  
 
-- ## 동영상 토론 2. 공명으로 인한 거대한 파괴
-> [Youtube: Breakdown of Tacoma bridge](https://www.youtube.com/watch?v=3mclp9QmCGs) 
+- ## 동영상 토론 2. 공명으로 인한 거대한 파괴  
+> [Youtube: Breakdown of Tacoma bridge](https://www.youtube.com/watch?v=3mclp9QmCGs)  
 
 ***
 
