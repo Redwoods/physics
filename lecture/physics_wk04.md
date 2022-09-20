@@ -115,9 +115,11 @@
 - 음파의 도플러효과: 소리의 주파수 또는 진폭 변화  
 ![음파의 도플러효과: 소리의 주파수 또는 진폭 변화](http://t1.daumcdn.net/thumb/R659x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fencyclop%2Fm24%2FytKzIGVh0ojndeWxXeaMHjJ2yT3JZMS4zF0geD61%3Ft%3D1463562829000)  
 (source: http://t1.daumcdn.net/thumb/R659x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fencyclop%2Fm24%2FytKzIGVh0ojndeWxXeaMHjJ2yT3JZMS4zF0geD61%3Ft%3D1463562829000)  
-- 전자기파의 도플러효과: 청색이동과 적색이동  
-![전자기파의 도플러효과: 청색이동과 적색이동](http://mblogthumb3.phinf.naver.net/20160427_66/qjqh159_14616986441339fODv_PNG/2.png?type=w800)  
-(source: http://mblogthumb3.phinf.naver.net/20160427_66/qjqh159_14616986441339fODv_PNG/2.png?type=w800)  
+
+- 전자기파의 도플러효과: 청색이동과 적색이동   
+
+![전자기파의 도플러효과: 청색이동과 적색이동](http://www.bizhankook.com/upload/bk/article/202002/thumb/19389-44407-sampleM.jpg)  
+(source: http://www.bizhankook.com/upload/bk/article/202002/thumb/19389-44407-sampleM.jpg)  
 
 
 ---
