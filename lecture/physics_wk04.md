@@ -81,9 +81,11 @@
 
 > ### `간섭` 
 - 파동의 중첩 현상
-- 보강간섭과 상쇄간섭 
+- 보강간섭과 상쇄간섭  
+
 ![보강간섭과 상쇄간섭](http://sajooclinic.net/zbxe/files/attach/images/96/780/031/%EA%B0%84%EC%84%AD1.gif)  
 (SOURCE: http://sajooclinic.net/zbxe/files/attach/images/96/780/031/%EA%B0%84%EC%84%AD1.gif)  
+
 - [네이버: 파동의 간섭](https://m.blog.naver.com/PostView.nhn?blogId=toshizo&logNo=220687715945&proxyReferer=https%3A%2F%2Fwww.google.com%2F)    
 
 *** 
