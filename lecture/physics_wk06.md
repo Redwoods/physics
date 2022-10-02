@@ -130,8 +130,8 @@
 
     - 파동
     
-![파동-전자기파](http://www.lg-sl.net/sl_image/IQEX/IQEX2007/IQEX200704/IQEX200704001883.jpg)  
-(source: http://www.lg-sl.net/sl_image/IQEX/IQEX2007/IQEX200704/IQEX200704001883.jpg)  
+![파동-전자기파](https://www.scienceall.com/nas/image/201304/AI403_43.jpg)  
+(source: https://www.scienceall.com/nas/image/201304/AI403_43.jpg)    
 
     - 입자
     
