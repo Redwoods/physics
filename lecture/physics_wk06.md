@@ -52,8 +52,8 @@
 
 - 전자기파의 발생과 진행
 
-![전자기파](http://www.lg-sl.net/sl_image/IQEX/IQEX2007/IQEX200704/IQEX200704001883.jpg)   
-(source: http://www.lg-sl.net/sl_image/IQEX/IQEX2007/IQEX200704/IQEX200704001883.jpg)  
+![전자기파](https://t1.daumcdn.net/cfile/tistory/2768644A522AF3FD28)   
+(source: https://t1.daumcdn.net/cfile/tistory/2768644A522AF3FD28)  
 
 - 전자기파 스펙트럼
 
