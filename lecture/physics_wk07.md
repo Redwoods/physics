@@ -89,11 +89,11 @@
 
 - ## 엔트로피: 계의 무질서한 정도
 
-![엔트로피](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmeuwxn_QufkIvrVHsMlmQryUeOrXdz0OZ5cTknMm4KsKxM4oVHw)  
-(source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmeuwxn_QufkIvrVHsMlmQryUeOrXdz0OZ5cTknMm4KsKxM4oVHw)
+![엔트로피](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnews.samsungdisplay.com%2F20076&psig=AOvVaw3Nqtv_piCQttBdPN0HDCHM&ust=1665624406764000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNCB7MrE2foCFQAAAAAdAAAAABAE)    
+(source: [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmeuwxn_QufkIvrVHsMlmQryUeOrXdz0OZ5cTknMm4KsKxM4oVHw](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnews.samsungdisplay.com%2F20076&psig=AOvVaw3Nqtv_piCQttBdPN0HDCHM&ust=1665624406764000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNCB7MrE2foCFQAAAAAdAAAAABAE)  
 
 ![엔트로피](http://www.kierandkelly.com/wp-content/uploads/2015/04/Entropy-004-1024x417.jpg)  
-(source: http://www.kierandkelly.com/wp-content/uploads/2015/04/Entropy-004-1024x417.jpg)
+(source: http://www.kierandkelly.com/wp-content/uploads/2015/04/Entropy-004-1024x417.jpg)  
 
 --- 
 
@@ -120,7 +120,7 @@
 - ## 제3법칙:최소엔트로피(절대영도)   
 
 ![제3법칙:최소엔트로피(절대영도)](http://misocafe.com/work_html/science/images/contents/learnText_img12_2.jpg)  
-(source: http://misocafe.com/work_html/science/images/contents/learnText_img12_2.jpg)
+(source: http://misocafe.com/work_html/science/images/contents/learnText_img12_2.jpg)  
 
 ---
 
