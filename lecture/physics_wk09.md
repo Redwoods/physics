@@ -120,7 +120,7 @@
 ![방출스펙트럼과 흡수스펙트럼](https://t1.daumcdn.net/cfile/tistory/99A4603A5CB9276610)  
 (source: https://t1.daumcdn.net/cfile/tistory/99A4603A5CB9276610)  
 
-[Youtube: 보어의 원자 구조와 흡수/방출 스펙트럼 ](https://www.youtube.com/watch?v=u9zQJ8hNnwI)  
+## [Youtube: 보어의 원자 구조와 흡수/방출 스펙트럼 ](https://www.youtube.com/watch?v=u9zQJ8hNnwI)  
 
 ---
 
@@ -130,15 +130,15 @@
 ---
 > ### 보어의 원자모형
 
-- ## 원자를 구성하는 전자 구름의 분포(오비탈) 변화로 흡수/방출 스펙트럼을 설명하는 모형
+- ## 원자를 구성하는 전자 구름의 분포(오비탈) 변화로 흡수/방출 스펙트럼을 설명하는 모형  
 ![보어의 원자모형](http://t1.daumcdn.net/thumb/R659x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fencyclop%2Fm24%2FuWz8TIeJo8XgLoofY5cjjF8hFkUBgdFF1HyWk5LD%3Ft%3D1441105821000)  
-(source: http://t1.daumcdn.net/thumb/R659x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fencyclop%2Fm24%2FuWz8TIeJo8XgLoofY5cjjF8hFkUBgdFF1HyWk5LD%3Ft%3D1441105821000)  
+(source: http://t1.daumcdn.net/thumb/R659x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fencyclop%2Fm24%2FuWz8TIeJo8XgLoofY5cjjF8hFkUBgdFF1HyWk5LD%3Ft%3D1441105821000)    
 
 ## 시뮬레이션 
-> ## [불꽃 스펙트럼](https://javalab.org/flame_test/)
+> ## [불꽃 스펙트럼](https://javalab.org/flame_test/)  
 
 ---
-> ### 원자 간 힘 현미경
+> ### 원자 간 힘 현미경  
 - ## AFM (Atomic Force Microscope)  
 - ## 원자 사이에 작용하는 힘을 이용해서 물질의 표면 구조를 원자 크기에서 관찰하는 현미경  
 ![AFM](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDT_gsRz1WVJMr6_9EqNphT6EQW6OSnUIcPou7BGOpI2m8E-o1)  
@@ -149,7 +149,7 @@
 
 ### ● 물질에 대한 토론 
  
-- ## 주제 1. 보어의 원자와 방출스펙트럼과 흡수스펙트럼 [중요]
+- ## 주제 1. 보어의 원자와 방출스펙트럼과 흡수스펙트럼 [중요]  
 > [Youtube: 보어의 원자 구조와 흡수/방출 스펙트럼 ](https://www.youtube.com/watch?v=u9zQJ8hNnwI) 
 
 - ## 주제 2. 물질 vs. 반물질이란? 
