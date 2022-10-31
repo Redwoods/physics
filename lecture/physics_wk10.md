@@ -32,23 +32,23 @@
 
 ---
 
-> - [교재-구글이북](https://books.google.co.kr/books?id=fVgzDwAAQBAJ&pg=PT9&lpg=PT9&dq=%EC%A7%88%EB%9F%89+%EA%B4%80%EC%84%B1+%EB%AC%B4%EA%B2%8C&source=bl&ots=qETYTIeDQa&sig=ACfU3U03GoLroFvgyDAEoghcWkENtb3W6w&hl=ko&sa=X&ved=2ahUKEwiJ2r6e7vjgAhVdyYsBHSwRBLEQ6AEwCnoECAEQAQ#v=onepage&q=%EC%A7%88%EB%9F%89%20%EA%B4%80%EC%84%B1%20%EB%AC%B4%EA%B2%8C&f=false)
+> - [교재-구글이북](https://books.google.co.kr/books?id=fVgzDwAAQBAJ&pg=PT9&lpg=PT9&dq=%EC%A7%88%EB%9F%89+%EA%B4%80%EC%84%B1+%EB%AC%B4%EA%B2%8C&source=bl&ots=qETYTIeDQa&sig=ACfU3U03GoLroFvgyDAEoghcWkENtb3W6w&hl=ko&sa=X&ved=2ahUKEwiJ2r6e7vjgAhVdyYsBHSwRBLEQ6AEwCnoECAEQAQ#v=onepage&q=%EC%A7%88%EB%9F%89%20%EA%B4%80%EC%84%B1%20%EB%AC%B4%EA%B2%8C&f=false)  
 
 ---
 
-> ### 전기/자기
+> ### 전기/자기  
 
-> 정전기 / 전류 / 전위차 / (기전력) / 저항과 옴의 법칙 / 전지와 배터리 / (축전기) / (회로) / 자기 / 자기의 종류 / 쿨롱의 법칙과 앙페르의 법칙 / 전자기유도 / (전자석) / (교류) / (변압기) / (전기모터) / (발전기) / 아날로그와 디지털 전자공학 / (반도체) / (다이오드) / (트랜지스터) / (논리게이트) / (집적회로) / (초전도) / (광전자증배관) / (음극선관) / (전하결합소자)
+> 정전기 / 전류 / 전위차 / (기전력) / 저항과 옴의 법칙 / 전지와 배터리 / (축전기) / (회로) / 자기 / 자기의 종류 / 쿨롱의 법칙과 앙페르의 법칙 / 전자기유도 / (전자석) / (교류) / (변압기) / (전기모터) / (발전기) / 아날로그와 디지털 전자공학 / (반도체) / (다이오드) / (트랜지스터) / (논리게이트) / (집적회로) / (초전도) / (광전자증배관) / (음극선관) / (전하결합소자)  
 
-## keywords
+## keywords  
 
-- 전기 현상
-- 자기 현상
-- 아날로그와 디지털
+- 전기 현상  
+- 자기 현상  
+- 아날로그와 디지털  
 
 ---
 
-> ## 전기/자기 (Electricity & Magnetism)
+> ## 전기/자기 (Electricity & Magnetism)  
 
 - 전하를 가진 물질들의 성질과 상태를 이해
 - 양전하와 음전하
@@ -56,36 +56,36 @@
 - 전자는 자전으로 자연에서 가장 작은 자석
 - 전류의 변화는 주위에 자기장을 만든다.  
   ![전기](https://t1.daumcdn.net/cfile/tistory/24216E385893E6432F)  
-  (source: https://t1.daumcdn.net/cfile/tistory/24216E385893E6432F)
+  (source: https://t1.daumcdn.net/cfile/tistory/24216E385893E6432F)  
 
 ---
 
-> ### 정전기
+> ### 정전기  
 
-- 물질 내부의 전하 불균형으로 양 또는 음 전기를 가지는 상태 및 현상
+- 물질 내부의 전하 불균형으로 양 또는 음 전기를 가지는 상태 및 현상  
   ![정전기](https://post-phinf.pstatic.net/MjAxNzExMjlfMTkg/MDAxNTExOTY0OTYwNjIy.W2ZP_5W5wG_q2OIglNSo9HkT9hN_Kg9J3L_YQpNiXvIg.ZESoMXXBOHR6xYRXARVDfh1IGRb0mW-qw02iewMAn9Ug.JPEG/%EC%A0%95%EC%A0%84%EA%B8%B0_%282%29.jpg?type=w1200)  
-  (source: https://post-phinf.pstatic.net/MjAxNzExMjlfMTkg/MDAxNTExOTY0OTYwNjIy.W2ZP_5W5wG_q2OIglNSo9HkT9hN_Kg9J3L_YQpNiXvIg.ZESoMXXBOHR6xYRXARVDfh1IGRb0mW-qw02iewMAn9Ug.JPEG/%EC%A0%95%EC%A0%84%EA%B8%B0_%282%29.jpg?type=w1200)
+  (source: https://post-phinf.pstatic.net/MjAxNzExMjlfMTkg/MDAxNTExOTY0OTYwNjIy.W2ZP_5W5wG_q2OIglNSo9HkT9hN_Kg9J3L_YQpNiXvIg.ZESoMXXBOHR6xYRXARVDfh1IGRb0mW-qw02iewMAn9Ug.JPEG/%EC%A0%95%EC%A0%84%EA%B8%B0_%282%29.jpg?type=w1200)  
 
 > ### 전류
 
 ![전류](https://slidesplayer.org/slide/11219411/60/images/4/%EC%A0%84%EB%A5%98%EC%9D%98+%ED%9D%90%EB%A6%84%EA%B3%BC+%EC%A0%84%EC%9E%90%EC%9D%98+%EC%9D%B4%EB%8F%99.jpg)  
-(source: https://slidesplayer.org/slide/11219411/60/images/4/%EC%A0%84%EB%A5%98%EC%9D%98+%ED%9D%90%EB%A6%84%EA%B3%BC+%EC%A0%84%EC%9E%90%EC%9D%98+%EC%9D%B4%EB%8F%99.jpg)
+(source: https://slidesplayer.org/slide/11219411/60/images/4/%EC%A0%84%EB%A5%98%EC%9D%98+%ED%9D%90%EB%A6%84%EA%B3%BC+%EC%A0%84%EC%9E%90%EC%9D%98+%EC%9D%B4%EB%8F%99.jpg)  
 
-- [link: 전류 시뮬레이션](https://javalab.org/electric_current/)
+- [link: 전류 시뮬레이션](https://javalab.org/electric_current/)  
 
-> ### 전위차
+> ### 전위차  
 
 ![전위차](https://t1.daumcdn.net/cfile/tistory/24029D4B585083FD25)  
  (source: https://t1.daumcdn.net/cfile/tistory/24029D4B585083FD25)  
 
 ---
-[Youtube: 정전기](https://www.youtube.com/watch?v=2MVAuROgQTM)
+[Youtube: 정전기](https://www.youtube.com/watch?v=2MVAuROgQTM)  
 ---
 
 > ### 저항과 옴의 법칙
 
 ![저항과 옴의 법칙](https://vignette.wikia.nocookie.net/nuri/images/c/cd/%EC%98%B4%EC%9D%98%EB%B2%95%EC%B9%99.png/revision/latest?cb=20121220105710&path-prefix=ko)  
- (source: https://https://vignette.wikia.nocookie.net/nuri/images/c/cd/%EC%98%B4%EC%9D%98%EB%B2%95%EC%B9%99.png/revision/latest?cb=20121220105710&path-prefix=ko)
+ (source: https://https://vignette.wikia.nocookie.net/nuri/images/c/cd/%EC%98%B4%EC%9D%98%EB%B2%95%EC%B9%99.png/revision/latest?cb=20121220105710&path-prefix=ko)  
 
 ---
 
@@ -94,7 +94,7 @@
 - 이차 전지  
 
 ![배터리](https://t1.daumcdn.net/cfile/tistory/22680150532673BF01)  
- (source: https://t1.daumcdn.net/cfile/tistory/22680150532673BF01)
+ (source: https://t1.daumcdn.net/cfile/tistory/22680150532673BF01)  
 
 ---
 
@@ -107,7 +107,7 @@
 - ## 전자는 가장 작은 자석이다.  
   ![가장 작은 자석: 전자](http://ncc.phinf.naver.net/20151002_81/14437768859843WpTB_JPEG/066.jpg?type=w646)  
   (source: http://ncc.phinf.naver.net/20151002_81/14437768859843WpTB_JPEG/066.jpg?type=w646)  
-- [link: 자석의 원리와 전자](http://blog.daum.net/_blog/BlogTypeView.do?blogid=0Kcdt&articleno=4864201&categoryId=524521&regdt=20160805101530)
+- [link: 자석의 원리와 전자](http://blog.daum.net/_blog/BlogTypeView.do?blogid=0Kcdt&articleno=4864201&categoryId=524521&regdt=20160805101530)  
 
 ---
 
@@ -118,7 +118,7 @@
   ![강자성, 상자성, 반자성](https://mblogthumb-phinf.pstatic.net/MjAxNzA0MjRfMjg2/MDAxNDkzMDMwNTc4NjYx.cR_bM-Tr14bWVlUbxtFugyCgrZMSEvkQXxG-BC65OHIg.JqaX-OeGlCYTFaHQPbexWY3h-0w1fVDQc0L7zduOT9Eg.PNG.ssh123451/image.png?type=w800)  
   (source: https://mblogthumb-phinf.pstatic.net/MjAxNzA0MjRfMjg2/MDAxNDkzMDMwNTc4NjYx.cR_bM-Tr14bWVlUbxtFugyCgrZMSEvkQXxG-BC65OHIg.JqaX-OeGlCYTFaHQPbexWY3h-0w1fVDQc0L7zduOT9Eg.PNG.ssh123451/image.png?type=w800) 
 
-> ## [강자성체의 자화 시뮬레이션](https://javalab.org/magnetization/)
+> ## [강자성체의 자화 시뮬레이션](https://javalab.org/magnetization/)  
 
 ---
 
@@ -127,11 +127,11 @@
 - ### 쿨롱의 법칙: 두 전하 사이에 작용하는 힘
 
   ![쿨롱의 법칙](https://t1.daumcdn.net/cfile/tistory/2263423F55AF04F016)  
-  (source: https://t1.daumcdn.net/cfile/tistory/2263423F55AF04F016)
+  (source: https://t1.daumcdn.net/cfile/tistory/2263423F55AF04F016)  
 
 - ### 앙페르의 법칙: 전류가 흐르는 도선 주위에 자기장이 발생하며 두 도선 사이에 자기력이 작용한다.  
   ![앙페르의 법칙](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpiGXW_JUlOKQMfqAYrKARauL96wxNB2U0oMHNx2lJ2Kaubdn)  
-  (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpiGXW_JUlOKQMfqAYrKARauL96wxNB2U0oMHNx2lJ2Kaubdn)
+  (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpiGXW_JUlOKQMfqAYrKARauL96wxNB2U0oMHNx2lJ2Kaubdn)  
 
 ---
 
@@ -142,7 +142,7 @@
   > 자석을 이용해서 전기를 유도하는 현상
 
   ![전자기유도](https://github.com/Redwoods/physics/blob/master/media/em_induction.png)  
-   (source: https://javalab.org/faradays_law_1/)
+   (source: https://javalab.org/faradays_law_1/)  
 
 - [link: 전자기유도 시뮬레이션](https://javalab.org/faradays_law_1/)  
 
@@ -157,10 +157,10 @@
 - ### 디지털(digital) : 불연속적 (bit)
 
   ![아날로그와 디지털](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqw8wVdQKQJf1BB7Us7X8MxXwvKntJ6dSkyZIRNLWm6X89w9VMVw)  
-  (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqw8wVdQKQJf1BB7Us7X8MxXwvKntJ6dSkyZIRNLWm6X89w9VMVw)
+  (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqw8wVdQKQJf1BB7Us7X8MxXwvKntJ6dSkyZIRNLWm6X89w9VMVw)  
 
   ![아날로그와 디지털, 샘플링](https://image2.slideserve.com/5185339/slide3-n.jpg)  
-  (source: https://image2.slideserve.com/5185339/slide3-n.jpg)
+  (source: https://image2.slideserve.com/5185339/slide3-n.jpg)  
 
 ---
 
@@ -168,14 +168,14 @@
 
 - ## 주제 1. 정전기
 
-  > [Youtube: 정전기](https://www.youtube.com/watch?v=2MVAuROgQTM)
+  > [Youtube: 정전기](https://www.youtube.com/watch?v=2MVAuROgQTM)  
 
 - ## 주제 2. 전자기유도란?
 
-  > [Youtube: 전자기유도](https://www.youtube.com/watch?v=_-VHLe3TAhc)
+  > [Youtube: 전자기유도](https://www.youtube.com/watch?v=_-VHLe3TAhc)  
 
 - ## 주제 3. 아날로그와 디지털의 차이
-  > [Youtube: 아날로그와 디지털의 차이](https://www.youtube.com/watch?v=aw5kAOURFXA)
+  > [Youtube: 아날로그와 디지털의 차이](https://www.youtube.com/watch?v=aw5kAOURFXA)  
 
 ---
 
