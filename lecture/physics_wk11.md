@@ -67,6 +67,7 @@
 > ### 베타붕괴
 
 - 핵 내의 중성자가 양성자와 전자로 붕괴.  
+- 핵 내의 양성자가 중성자와 양전자로 붕괴.
 
   ![베타붕괴](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2x3Wnix4WeIEs1-fsKQlxFFhvYgCEAvwUAQ&usqp=CAU)  
   (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2x3Wnix4WeIEs1-fsKQlxFFhvYgCEAvwUAQ&usqp=CAU)  
