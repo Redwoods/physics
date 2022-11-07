@@ -68,8 +68,8 @@
 
 - 핵 내의 중성자가 양성자와 전자로 붕괴.  
 
-  ![알파붕괴](https://school.kns.org/wp-content/uploads/2019/05/beta-decay.png)  
-  (source: https://school.kns.org/wp-content/uploads/2019/05/beta-decay.png)
+  ![베타붕괴](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2x3Wnix4WeIEs1-fsKQlxFFhvYgCEAvwUAQ&usqp=CAU)  
+  (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2x3Wnix4WeIEs1-fsKQlxFFhvYgCEAvwUAQ&usqp=CAU)  
 
 > ### 감마선 방출
 
