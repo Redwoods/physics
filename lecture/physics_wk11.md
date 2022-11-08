@@ -87,8 +87,9 @@
 ![중성미자](https://mblogthumb-phinf.pstatic.net/20141218_139/applepop_1418908552699IM3ES_JPEG/%25EB%25B2%25A0%25ED%2583%2580%25EB%25B6%2595%25EA%25B4%25B4.jpg?type=w800)  
  (source: https://mblogthumb-phinf.pstatic.net/20141218_139/applepop_1418908552699IM3ES_JPEG/%25EB%25B2%25A0%25ED%2583%2580%25EB%25B6%2595%25EA%25B4%25B4.jpg?type=w800)
 
----
-[Youtube: 중성미자](https://www.youtube.com/watch?v=h0Eo6mdyPak)
+
+[Youtube: 중성미자](https://www.youtube.com/watch?v=h0Eo6mdyPak)  
+
 ---
 
 > ### 반감기 (Half-life)
