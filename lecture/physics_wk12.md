@@ -39,32 +39,32 @@
 
 ## keywords
 
-- 파동-입자 이중성
-- 양자역학과 불확정성원리
-- 양자 계산과 암호
+- 파동-입자 이중성  
+- 양자역학과 불확정성원리  
+- 양자 계산과 암호  
 
 ---
 
-> ## 양자물리학 (Quantum Physics)
+> ## 양자물리학 (Quantum Physics)  
 
-- 물질과 파동의 이중성 -> 물질파
-- 슈레딩어의 파동방정식
-- 양자현상과 양자 컴퓨팅
+- 물질과 파동의 이중성 -> 물질파  
+- 슈레딩어의 파동방정식  
+- 양자현상과 양자 컴퓨팅  
 
   ![양자물리학](https://t1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/2XtG/image/NAJTks1RHJvZ3uzh3nuMeatPrX8.jpg)  
-  (source: https://t1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/2XtG/image/NAJTks1RHJvZ3uzh3nuMeatPrX8.jpg)
+  (source: https://t1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/2XtG/image/NAJTks1RHJvZ3uzh3nuMeatPrX8.jpg)  
 
 - 양자물리의 세계관
   
   ![에너지준위와 아파트 층](https://github.com/Redwoods/physics/blob/master/media/quantized_floors.png?raw=true)  
   
-  (source: Das, Kunal K. The Quantum Rules: How the Laws of Physics Explain Love, Success, and Everyday Life . Skyhorse. 2015)
+  (source: Das, Kunal K. The Quantum Rules: How the Laws of Physics Explain Love, Success, and Everyday Life . Skyhorse. 2015)  
 
 ---
 
 > ### 광전효과
 
-- 특정 파장의 빛에 노출된 금속 표면에서 전자가 방출되는 현상
+- 특정 파장의 빛에 노출된 금속 표면에서 전자가 방출되는 현상  
 - 빛의 입자성 -> 광자 (photon)  
   ![광전효과](https://upload.wikimedia.org/wikipedia/commons/a/a6/Photoelectric_effect_in_a_solid_-_diagram.svg)  
   (source: https://upload.wikimedia.org/wikipedia/commons/a/a6/Photoelectric_effect_in_a_solid_-_diagram.svg)  
@@ -73,90 +73,90 @@
 
 ---
 
-> ### 파동-입자 이중성
+> ### 파동-입자 이중성  
 
-- 빛, 소리와 같은 파동은 이중 슬릿을 통과하면 간섭현상을 보인다.
-- 전자총에서 나온 전자들도 이중 슬릿을 통과하면 간섭현상을 보인다.
+- 빛, 소리와 같은 파동은 이중 슬릿을 통과하면 간섭현상을 보인다.  
+- 전자총에서 나온 전자들도 이중 슬릿을 통과하면 간섭현상을 보인다.  
 
 ![파동-입자 이중성](https://t1.daumcdn.net/cfile/tistory/21432B4655524D4B1D)  
-(source: https://t1.daumcdn.net/cfile/tistory/21432B4655524D4B1D)
+(source: https://t1.daumcdn.net/cfile/tistory/21432B4655524D4B1D)  
 
-- [link: 파동-입자 이중성](http://cfile218.uf.daum.net/R400x0/27038D4154AE6A9B261914)
-
----
-
-[Youtube: 파동-입자 이중성](https://www.youtube.com/watch?v=a4LsdqwZEaU)
+- [link: 파동-입자 이중성](http://cfile218.uf.daum.net/R400x0/27038D4154AE6A9B261914)  
 
 ---
 
-> ### 드브로이의 물질파 가설
+[Youtube: 파동-입자 이중성](https://www.youtube.com/watch?v=a4LsdqwZEaU)  
 
-- 모든 움직이는 입자는 고유한 파동을 가진다. (파장 = h/p = h/mv, p는 운동량)
+---
+
+> ### 드브로이의 물질파 가설  
+
+- 모든 움직이는 입자는 고유한 파동을 가진다. (파장 = h/p = h/mv, p는 운동량)  
 
 ![드브로이의 물질파 가설](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPV2ctfw64qsTJGwXjiCmiE7P2jymDfpxRJQ3CD6O7IVfPweNV)  
- (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPV2ctfw64qsTJGwXjiCmiE7P2jymDfpxRJQ3CD6O7IVfPweNV
+ (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPV2ctfw64qsTJGwXjiCmiE7P2jymDfpxRJQ3CD6O7IVfPweNV)  
 
-- [link: 물질파 전산 시늉](https://javalab.org/matter_wave/)
+- [link: 물질파 전산 시늉](https://javalab.org/matter_wave/)  
 
 ---
 
 > ### 슈뢰딩거 파동방정식과 파동함수
 
-- 물질파 현상을 설명하는 파동방정식
-- 물질파는 파동함수로 표현됨. -> 확률적 해석 (코펜하겐 해석)
+- 물질파 현상을 설명하는 파동방정식  
+- 물질파는 파동함수로 표현됨. -> 확률적 해석 (코펜하겐 해석)  
 - 파동의 에너지는 불연속적인 값으로 양자화된다.  
   ![슈뢰딩거 파동방정식](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkGvRe7vDYdUIxjZlK4K4zhUGdq7YMcaJgV2o4th898ui2mLL5g)  
-   (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkGvRe7vDYdUIxjZlK4K4zhUGdq7YMcaJgV2o4th898ui2mLL5g)
+   (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkGvRe7vDYdUIxjZlK4K4zhUGdq7YMcaJgV2o4th898ui2mLL5g)  
 
-- link:파동함수 http://cfile202.uf.daum.net/R400x0/2579524957A6C9E732EA0A
+- link:파동함수 http://cfile202.uf.daum.net/R400x0/2579524957A6C9E732EA0A  
 
 ---
 
 > ### 양자 터널효과
 
-- 파동함수가 주변으로 퍼져 나가서 발생되는 현상
+- 파동함수가 주변으로 퍼져 나가서 발생되는 현상  
 
 ![양자 터널효과](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdBPsZpebV3SmqgpRyyV_w3rnb8dQn48dXw53i-p56tm0toG6Ydg)  
- (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdBPsZpebV3SmqgpRyyV_w3rnb8dQn48dXw53i-p56tm0toG6Ydg)
+ (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdBPsZpebV3SmqgpRyyV_w3rnb8dQn48dXw53i-p56tm0toG6Ydg)  
 
-- link: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR00PaxF0XTYUGIuBZ4WZ4Ces7PzqfbiupZGcMTgzpwtoJ0dIkE
+- link: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR00PaxF0XTYUGIuBZ4WZ4Ces7PzqfbiupZGcMTgzpwtoJ0dIkE  
 
 ---
 
 > ## 코펜하겐 해석
 
-- ### 관찰에 의한 **파동함수의 붕괴**로 인해 하나의 상태로 관측된다.
+- ### 관찰에 의한 **파동함수의 붕괴**로 인해 하나의 상태로 관측된다.  
 
   ![파동함수의 붕괴](http://uguys.net/zboard/data/inside/q.jpg)  
-  (source: http://uguys.net/zboard/data/inside/q.jpg)
+  (source: http://uguys.net/zboard/data/inside/q.jpg)  
 
 ---
 
-> ## 양자역학과 불확정성원리 (dx \* dp > h)
+> ## 양자역학과 불확정성원리 (dx \* dp > h)  
 
-- ### 파동성을 가진 입자의 위치와 속도(운동량, 파장)을 동시에 측정할 수 없다.
+- ### 파동성을 가진 입자의 위치와 속도(운동량, 파장)을 동시에 측정할 수 없다.  
 
   ![불확정성원리](https://t1.daumcdn.net/cfile/tistory/2472FA3A57F521E601)  
   (source: https://t1.daumcdn.net/cfile/tistory/2472FA3A57F521E601)  
 
-  - link: https://t1.daumcdn.net/cfile/tistory/990DD8345A4393861C
+  - link: https://t1.daumcdn.net/cfile/tistory/990DD8345A4393861C  
 
 ---
 
-[Youtube: 불확정성원리](https://www.youtube.com/watch?v=0MT1rRvXcVU)
+[Youtube: 불확정성원리](https://www.youtube.com/watch?v=0MT1rRvXcVU)  
 
 ---
 
 > ### 슈뢰딩거의 고양이
 
-- ## 고양이가 죽었나? 살았나? -> 관찰 전에는 중첩 상태로 생사를 알 수 없다.
+- ## 고양이가 죽었나? 살았나? -> 관찰 전에는 중첩 상태로 생사를 알 수 없다.  
 
   ![슈뢰딩거의 고양이](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqWuwst2R4S73thCvve5iTWbJ_4Hsi5FHxIt44XwTUKhQkzDhd)  
-  (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqWuwst2R4S73thCvve5iTWbJ_4Hsi5FHxIt44XwTUKhQkzDhd)
+  (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqWuwst2R4S73thCvve5iTWbJ_4Hsi5FHxIt44XwTUKhQkzDhd)  
 
 ---
 
-[Youtube: 슈레딩거의 고양이](https://www.youtube.com/watch?v=39pGNND9ue4)
+[Youtube: 슈레딩거의 고양이](https://www.youtube.com/watch?v=39pGNND9ue4)  
 
 ---
 
@@ -165,16 +165,16 @@
 - ### 신체의 주요 구성 요소인 물에 있는 수소 원자핵인 양성자의 자기모멘트 정렬의 변화를 이용한 3차원 신체 내부 촬영 방법
 
   ![자기공명 영상](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhukgYGfoxVzH6ofxU8z0tj6VVGckD5eemWTYTuvn2oxsu7hz)  
-  (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhukgYGfoxVzH6ofxU8z0tj6VVGckD5eemWTYTuvn2oxsu7hz)
+  (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhukgYGfoxVzH6ofxU8z0tj6VVGckD5eemWTYTuvn2oxsu7hz)  
 
 ---
 
-> ### 양자 계산과 암호
+> ### 양자 계산과 암호  
 
-- ### 큐비트를 이용한 양자 계산, 양자 암호
+- ### 큐비트를 이용한 양자 계산, 양자 암호  
 
-  ![양자 계산](https://steemitimages.com/640x0/https://steemitimages.com/DQmWzPpBQF9Tj4W4fxi2YTgjt9U6G6c2qzKEDX6fLjADH9h/qubit.png)  
-  (source: https://steemitimages.com/640x0/https://steemitimages.com/DQmWzPpBQF9Tj4W4fxi2YTgjt9U6G6c2qzKEDX6fLjADH9h/qubit.png)
+  ![양자 계산](https://steemitimages.com/640x0/https://steemitimages.com/DQmWzPpBQF9Tj4W4fxi2YTgjt9U6G6c2qzKEDX6fLjADH9h/qubit.png)   
+  (source: https://steemitimages.com/640x0/https://steemitimages.com/DQmWzPpBQF9Tj4W4fxi2YTgjt9U6G6c2qzKEDX6fLjADH9h/qubit.png)  
 
   link:큐비트 http://www.epnc.co.kr/news/photo/201903/82687_74737_2325.jpg  
 
@@ -191,7 +191,7 @@
 - ### 개 또는 고양이의 특징을 확률로 계산해서 개/고양이 결정
 
   ![ML/DL](https://t1.daumcdn.net/cfile/tistory/99B9C4415B5991D516)  
-  (source: https://t1.daumcdn.net/cfile/tistory/99B9C4415B5991D516)
+  (source: https://t1.daumcdn.net/cfile/tistory/99B9C4415B5991D516)  
 
 ---
 
