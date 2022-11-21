@@ -161,6 +161,8 @@
 
   ![대통일이론](http://t1.daumcdn.net/thumb/R659x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fencyclop%2Fm24%2FBQYil5oMV2wQJKz3MmhTIbhp4qHi2IZ9UkbVujab%3Ft%3D1441105808000)  
   (source: http://t1.daumcdn.net/thumb/R659x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fencyclop%2Fm24%2FBQYil5oMV2wQJKz3MmhTIbhp4qHi2IZ9UkbVujab%3Ft%3D1441105808000)  
+  
+- ## [Youtube: 대통일이론](https://www.youtube.com/watch?v=-w0ZtPJwb9M)
 
 ---
 
@@ -173,26 +175,28 @@
 
 - [link: 모든 것의 이론 구조도] http://www.greatopen.net/magazine01/res/201601/201601_133.jpg
 
+- ## [Youtube: 모든 것의 이론](https://www.youtube.com/watch?v=qXYNUrIVeAI)
+
 ---
 
 ### ● 입자물리학에 대한 토론
 
-- ## 주제 1. 표준모형
+- ## 주제 1. 표준모형  
 
-  > [Youtube: 표준 모형](https://www.youtube.com/watch?v=ehHoOYqAT_U)
+  > [Youtube: 표준 모형](https://www.youtube.com/watch?v=ehHoOYqAT_U)  
 
   - [link: 과학 쿠키 - 표준 모형] https://www.youtube.com/watch?v=TSnFfy3XBRE  
 
-- ## 주제 2. 대통일이론
+- ## 주제 2. 대통일이론  
 
-  > [Youtube: 대통일이론](https://www.youtube.com/watch?v=-w0ZtPJwb9M)
+  > [Youtube: 대통일이론](https://www.youtube.com/watch?v=-w0ZtPJwb9M)  
 
-- ## 주제 3. 모든 것의 이론
-  > [Youtube: 모든 것의 이론](https://www.youtube.com/watch?v=qXYNUrIVeAI)
+- ## 주제 3. 모든 것의 이론  
+  > [Youtube: 모든 것의 이론](https://www.youtube.com/watch?v=qXYNUrIVeAI)  
 
 ---
 
-### ● 입자물리학의 이해 및 개념 확인 퀴즈 6개 (Kahoot quiz)
+### ● 입자물리학의 이해 및 개념 확인 퀴즈 6개 (Kahoot quiz)  
 
 - PC: kahoot.com 또는 kahoot.it (즉석 퀴즈 참여)  
 - Mobile: kahoot app 설치 또는 kahoot.it (즉석 퀴즈 참여)
