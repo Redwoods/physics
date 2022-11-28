@@ -85,36 +85,36 @@
 > ### 특수상대성
 
 - 빛의 속도는 일정하지만
-- 물체의 속도에 따라 길이와 시간은 변한다.
+- 물체의 속도에 따라 길이와 시간은 변한다.  
 
 ![특수상대성](https://mblogthumb-phinf.pstatic.net/MjAxNzA4MTVfMzIg/MDAxNTAyNzYxNzA3ODM0.gbf-mIh5yfqW-IJrzryQvd5uI441p2y1Za5uf2v6urAg.tzu7bZPCF2L1KU13H2qTLJd5X1fwyfOF9TMYUAIIKoAg.JPEG.toshizo/%EB%A1%9C%EB%A0%8C%EC%B8%A0%EC%9D%B8%EC%9E%90.jpg?type=w800)  
-(source: https://mblogthumb-phinf.pstatic.net/MjAxNzA4MTVfMzIg/MDAxNTAyNzYxNzA3ODM0.gbf-mIh5yfqW-IJrzryQvd5uI441p2y1Za5uf2v6urAg.tzu7bZPCF2L1KU13H2qTLJd5X1fwyfOF9TMYUAIIKoAg.JPEG.toshizo/%EB%A1%9C%EB%A0%8C%EC%B8%A0%EC%9D%B8%EC%9E%90.jpg?type=w800)
+(source: https://mblogthumb-phinf.pstatic.net/MjAxNzA4MTVfMzIg/MDAxNTAyNzYxNzA3ODM0.gbf-mIh5yfqW-IJrzryQvd5uI441p2y1Za5uf2v6urAg.tzu7bZPCF2L1KU13H2qTLJd5X1fwyfOF9TMYUAIIKoAg.JPEG.toshizo/%EB%A1%9C%EB%A0%8C%EC%B8%A0%EC%9D%B8%EC%9E%90.jpg?type=w800)  
 
-- 시간지연, 길이수축, 질량증가
+- 시간지연, 길이수축, 질량증가  
 
-  ![특수상대성2](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fssl.pstatic.net%2Fimages.se2%2Fsmedit%2F2016%2F8%2F11%2Firprvwag0hv9ll.jpg%22&type=w2)
+  ![특수상대성2](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fssl.pstatic.net%2Fimages.se2%2Fsmedit%2F2016%2F8%2F11%2Firprvwag0hv9ll.jpg%22&type=w2)  
 
-  (source: https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fssl.pstatic.net%2Fimages.se2%2Fsmedit%2F2016%2F8%2F11%2Firprvwag0hv9ll.jpg%22&type=w2)
+  (source: https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fssl.pstatic.net%2Fimages.se2%2Fsmedit%2F2016%2F8%2F11%2Firprvwag0hv9ll.jpg%22&type=w2)  
 
 ---
 
-> ### 시간 지연과 로런츠 인자
+> ### 시간 지연과 로런츠 인자  
 
-- 움직이는 물체 내의 시간은 길어진다.
+- 움직이는 물체 내의 시간은 길어진다.  
 - 열차 밖의 사람이 느끼는 열차 안의 시간은 길어진다.    
    ![시간 지연](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfOrEqzem4PovIqr_0nAzTDZ6ZVMPM1Gv0iPJBkVsICs-qnaMD&s)  
    (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfOrEqzem4PovIqr_0nAzTDZ6ZVMPM1Gv0iPJBkVsICs-qnaMD&s)  
 - 로렌츠 인자  
-  http://pds13.egloos.com/pds/200904/16/80/c0093580_49e7158ee8ffa.jpg
+  http://pds13.egloos.com/pds/200904/16/80/c0093580_49e7158ee8ffa.jpg  
 
 ---
 
-> ### 길이 수축
+> ### 길이 수축  
 
-- 움직이는 물체 내의 길이는 짧아진다.
+- 움직이는 물체 내의 길이는 짧아진다.  
 - 열차 밖의 사람이 측정한 열차 안 물체의 길이는 짧아진다.  
   ![거리(길이) 수축](http://pds11.egloos.com/pmf/200904/19/80/c0093580_49ea678e539ab.jpg)  
-   (source: http://pds11.egloos.com/pmf/200904/19/80/c0093580_49ea678e539ab.jpg
+   (source: http://pds11.egloos.com/pmf/200904/19/80/c0093580_49ea678e539ab.jpg  
 
 ---
 
@@ -126,21 +126,21 @@
   
 ---
 
-> ### 질량-에너지 등가
+> ### 질량-에너지 등가  
 
-- 물체의 속력이 커지면 질량이 증가
-- E = m c^2 (m: 정지질량)
+- 물체의 속력이 커지면 질량이 증가  
+- E = m c^2 (m: 정지질량)  
 
 ![질량-에너지 등가](https://rukminim1.flixcart.com/image/704/704/laptop-skin-decal/9/x/d/15-6-finearts-e-mc2-albert-einstein-original-imae489jzfrmfwep.jpeg?q=70)  
- (source: https://rukminim1.flixcart.com/image/704/704/laptop-skin-decal/9/x/d/15-6-finearts-e-mc2-albert-einstein-original-imae489jzfrmfwep.jpeg?q=70)
+ (source: https://rukminim1.flixcart.com/image/704/704/laptop-skin-decal/9/x/d/15-6-finearts-e-mc2-albert-einstein-original-imae489jzfrmfwep.jpeg?q=70)  
 
 ---
 
-> ## 쌍둥이 역설
+> ## 쌍둥이 역설  
 
-- 빠른 속도의 우주선을 타고 우주 여행을 하고 돌아온 쌍둥이 형이 지구에 나아 있던 동생에 비해 나이를 덜 먹게 된다는 역설.
-- 우주선의 감속/가속운동을 고려하면 지구에 있던 동생이 더 늙는다.
-- 가속을 받는 상태에서는 시간이 느리게 변한다 (일반상대론).
+- 빠른 속도의 우주선을 타고 우주 여행을 하고 돌아온 쌍둥이 형이 지구에 나아 있던 동생에 비해 나이를 덜 먹게 된다는 역설.  
+- 우주선의 감속/가속운동을 고려하면 지구에 있던 동생이 더 늙는다.  
+- 가속을 받는 상태에서는 시간이 느리게 변한다 (일반상대론).  
 
   ![쌍둥이 역설](https://post-phinf.pstatic.net/MjAxNzA1MTdfMjMy/MDAxNDk1MDA1MjEyMDQz.71v5lBJAnzf_GuxTVBMKVhl9aPh1BOIypf0vnklMZ_Qg.-zkj_lts62hsbBMqTq8UHgYKRzRPh-S6QaKZIP1oSHog.JPEG/image_1250250891495004336566.jpg?type=w1200)  
   (source: https://post-phinf.pstatic.net/MjAxNzA1MTdfMjMy/MDAxNDk1MDA1MjEyMDQz.71v5lBJAnzf_GuxTVBMKVhl9aPh1BOIypf0vnklMZ_Qg.-zkj_lts62hsbBMqTq8UHgYKRzRPh-S6QaKZIP1oSHog.JPEG/image_1250250891495004336566.jpg?type=w1200)  
@@ -149,11 +149,11 @@
 > [Youtube: 쌍동이 역설, 시공 구조와 중력](https://www.youtube.com/watch?v=KZYfQj1pNWI)  
 ---
 
-> ## 시공
+> ## 시공  
 
-- ### 특수상대론
+- ### 특수상대론  
 
-  - 시간과 공간이 4차원으로 통합
+  - 시간과 공간이 4차원으로 통합  
 
   ![특수상대론](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%EB%B9%9B%EC%9B%90%EB%BF%94.png/300px-%EB%B9%9B%EC%9B%90%EB%BF%94.png)  
   (source: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%EB%B9%9B%EC%9B%90%EB%BF%94.png/300px-%EB%B9%9B%EC%9B%90%EB%BF%94.png)
