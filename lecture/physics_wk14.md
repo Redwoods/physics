@@ -115,6 +115,7 @@
 - 열차 밖의 사람이 측정한 열차 안 물체의 길이는 짧아진다.  
   ![거리(길이) 수축](http://pds11.egloos.com/pmf/200904/19/80/c0093580_49ea678e539ab.jpg)  
    (source: http://pds11.egloos.com/pmf/200904/19/80/c0093580_49ea678e539ab.jpg  
+> 참고: https://the1.wiki/w/%EA%B8%B8%EC%9D%B4%20%EC%88%98%EC%B6%95
 
 ---
 
