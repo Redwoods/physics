@@ -154,7 +154,7 @@ https://m.blog.naver.com/PostView.nhn?blogId=qjqh159&logNo=220642115511&proxyRef
 - 북반구에서는 태풍이 반시계방향으로 회전한다.  
 ![](https://github.com/Redwoods/physics/blob/master/media/hinnamno_typhoon_NASA.jpg)  
 
-- [코리올리효과 시뮬레이션: Flash 문제로 지원 중단](https://yjh-phys.tistory.com/1423?category=523725)  
+- [코리올리효과 시뮬레이션: Flash 호환 플레이어로 실행](https://yjh-phys.tistory.com/1423?category=523725)  
 
 ---
 
