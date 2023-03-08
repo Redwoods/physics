@@ -107,11 +107,9 @@ https://m.blog.naver.com/PostView.nhn?blogId=qjqh159&logNo=220642115511&proxyRef
 
 > 식과 운동 그래프 (생략)
 
-- [가속되어 움직이는 물체가 이동하는 거리](https://m.blog.naver.com/PostView.nhn?blogId=toshizo&logNo=221092829018&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
-
 ---
 
-> 궤도 (Orbit)
+> ## 궤도 (Orbit)
 
 - ![원운동의 궤도](https://github.com/Redwoods/physics/blob/master/media/apple_earth.png)  
 
