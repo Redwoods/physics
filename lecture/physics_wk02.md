@@ -56,8 +56,9 @@
 
 > 마찰력
 
-- https://m.blog.naver.com/PostView.nhn?blogId=toshizo&logNo=220335130169&proxyReferer=https%3A%2F%2Fwww.google.com%2F
-- https://m.blog.naver.com/PostView.nhn?blogId=staryoorang&logNo=80212170270&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+- https://m.blog.naver.com/PostView.nhn?blogId=toshizo&logNo=220335130169&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
+- https://m.blog.naver.com/PostView.nhn?blogId=staryoorang&logNo=80212170270&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
+- ![마찰력 비교](https://mblogthumb-phinf.pstatic.net/20140501_10/staryoorang_1398931394844gEuGm_GIF/430-3.gif?type=w2)
 
 > 운동량
 
