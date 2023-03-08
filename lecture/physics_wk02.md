@@ -58,19 +58,21 @@
 
 - https://m.blog.naver.com/PostView.nhn?blogId=toshizo&logNo=220335130169&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
 - https://m.blog.naver.com/PostView.nhn?blogId=staryoorang&logNo=80212170270&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
-- ![마찰력 비교](https://mblogthumb-phinf.pstatic.net/20140501_10/staryoorang_1398931394844gEuGm_GIF/430-3.gif?type=w2)
+- 
+- ![마찰력 비교](https://mblogthumb-phinf.pstatic.net/20140501_10/staryoorang_1398931394844gEuGm_GIF/430-3.gif?type=w2)  
+(src: https://mblogthumb-phinf.pstatic.net/20140501_10/staryoorang_1398931394844gEuGm_GIF/430-3.gif?type=w2)  
 
-> 운동량
+> 운동량  
 
-- 선운동량과 각운동량의 차이는?
-> [YouTube: Amazing Demonstration Of A Giant Newton's Cradle!](https://www.youtube.com/watch?v=8dgyPRA86K0)  
+- 선운동량과 각운동량의 차이는?  
+> [YouTube: Amazing Demonstration Of A Giant Newton's Cradle!](https://www.youtube.com/watch?v=8dgyPRA86K0)   
 
 --- 
 
-> 일, 에너지와 일률
+> 일, 에너지와 일률  
 
 ![일과 일률](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcvSM0D%2FbtqGcgJ9S2j%2F4eFC7FEGj51jN432AhR4Uk%2Fimg.png)  
-(source: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcvSM0D%2FbtqGcgJ9S2j%2F4eFC7FEGj51jN432AhR4Uk%2Fimg.png)
+(source: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcvSM0D%2FbtqGcgJ9S2j%2F4eFC7FEGj51jN432AhR4Uk%2Fimg.png)  
 
 > 운동에너지와 위치에너지
 
