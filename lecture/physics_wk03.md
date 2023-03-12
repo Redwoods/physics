@@ -61,7 +61,7 @@
 > ![시소의 균형](http://ncc.phinf.naver.net/ncc02/2012/7/16/173/4.jpg?type=w646)  
 > (source: http://ncc.phinf.naver.net/ncc02/2012/7/16/173/4.jpg?type=w646)  
  
-> - 아르키메데스의 지렛대
+> - 아르키메데스의 지렛대  
 
 > ![지구 들어 올리기](https://t1.daumcdn.net/cfile/tistory/22559A4253DBBD182D)    
 > (source:https://t1.daumcdn.net/cfile/tistory/22559A4253DBBD182D)    
@@ -69,94 +69,99 @@
 > - 워라벨  
 
 > ![워라벨](https://previews.123rf.com/images/cbies/cbies1603/cbies160300003/54712452-%EC%9D%BC%EA%B3%BC-%EC%82%B6%EC%9D%98-%EA%B7%A0%ED%98%95-%EB%82%98%EB%AC%B4-%EC%8B%9C%EC%86%8C%EC%97%90-%EB%8B%A8%EC%96%B4.jpg)  
-> (source: https://previews.123rf.com/images/cbies/cbies1603/cbies160300003/54712452-%EC%9D%BC%EA%B3%BC-%EC%82%B6%EC%9D%98-%EA%B7%A0%ED%98%95-%EB%82%98%EB%AC%B4-%EC%8B%9C%EC%86%8C%EC%97%90-%EB%8B%A8%EC%96%B4.jpg)
+> (source: https://previews.123rf.com/images/cbies/cbies1603/cbies160300003/54712452-%EC%9D%BC%EA%B3%BC-%EC%82%B6%EC%9D%98-%EA%B7%A0%ED%98%95-%EB%82%98%EB%AC%B4-%EC%8B%9C%EC%86%8C%EC%97%90-%EB%8B%A8%EC%96%B4.jpg)  
 
----
+---  
 
-## 변형과 탄성
+## 변형과 탄성  
 
-> ### `변형` : 훅의 법칙
+> ### `변형` : 훅의 법칙  
 >
 > ![훅의 법칙](https://t1.daumcdn.net/cfile/tistory/2759343F55B6E67F1B)  
 > (source: https://t1.daumcdn.net/cfile/tistory/2759343F55B6E67F1B)
 
-> ### `탄성, 응력과 변형률` : 훅의 법칙의 한계
+> ### `탄성, 응력과 변형률` : 훅의 법칙의 한계  
 >
 > ![훅의 법칙의 한계](https://mblogthumb-phinf.pstatic.net/20150525_216/junilov2_1432532609808jY2sh_PNG/%C0%C0%B7%C2%BA%AF%C7%FC%C0%B2%BC%B1%B5%B5.png?type=w2)  
-> (source: https://mblogthumb-phinf.pstatic.net/20150525_216/junilov2_1432532609808jY2sh_PNG/%C0%C0%B7%C2%BA%AF%C7%FC%C0%B2%BC%B1%B5%B5.png?type=w2)
+> (source: https://mblogthumb-phinf.pstatic.net/20150525_216/junilov2_1432532609808jY2sh_PNG/%C0%C0%B7%C2%BA%AF%C7%FC%C0%B2%BC%B1%B5%B5.png?type=w2)  
 
 ---
 
-## 기체
+## 기체  
 
-> ### `기체법칙`
+> ### `기체법칙`  
 
-### $PV =  N k_B T$ , 이상기체
+### $PV =  N k_B T$ , 이상기체  
 
-- 이상기체와 (일반적인) 기체의 차이는?
+- 이상기체와 (일반적인) 기체의 차이는?  
 
 ![기체방정식](http://postfiles7.naver.net/MjAxNjEyMjlfMjU3/MDAxNDgyOTk5NDY0ODA1.cUdqDKLFOoTqiKm4TtzRuZ-C2LlMAtksJkMiCRcwm8Ig.I98EvD06grqwgpdo68pu-bVKHHxnE4n3oRvJM8TO1qIg.JPEG.applepop/87675.jpg?type=w3)  
-(source: http://postfiles7.naver.net/MjAxNjEyMjlfMjU3/MDAxNDgyOTk5NDY0ODA1.cUdqDKLFOoTqiKm4TtzRuZ-C2LlMAtksJkMiCRcwm8Ig.I98EvD06grqwgpdo68pu-bVKHHxnE4n3oRvJM8TO1qIg.JPEG.applepop/87675.jpg?type=w3)
+(source: http://postfiles7.naver.net/MjAxNjEyMjlfMjU3/MDAxNDgyOTk5NDY0ODA1.cUdqDKLFOoTqiKm4TtzRuZ-C2LlMAtksJkMiCRcwm8Ig.I98EvD06grqwgpdo68pu-bVKHHxnE4n3oRvJM8TO1qIg.JPEG.applepop/87675.jpg?type=w3)  
 
 - 온도가 일정할 때 부피와 압력의 변화  
   [온도가 일정할 때 부피와 압력의 변화 -> 보일의 법칙 검색](http://www.sciencenanum.net/chemistry/gas/gas_03_1.html)  
-  (source:http://www.sciencenanum.net/chemistry/gas/gas_03_1.html)
+  (source:http://www.sciencenanum.net/chemistry/gas/gas_03_1.html)  
 
-- [link: 이상기체의 상태방정식](http://blog.naver.com/PostView.nhn?blogId=applepop&logNo=220898731819)
+- [link: 이상기체의 상태방정식](http://blog.naver.com/PostView.nhn?blogId=applepop&logNo=220898731819)  
 
 ---
 
-> ### `기체분자운동론`
+> ### `기체분자운동론`  
 
 ![저온, 고온에서의 기체분자의 운동](http://image.surae.com/library/img/carsense/heatenergy.jpg)  
-(source: http://image.surae.com/library/img/carsense/heatenergy.jpg)
+(source: http://image.surae.com/library/img/carsense/heatenergy.jpg)  
 
-$PV =  n N_A k_B T = n R T,  (N = n N_A, R = N_A k_B)$
+$PV =  n N_A k_B T = n R T,  (N = n N_A, R = N_A k_B)$  
 
 ---
 
-> ### `아보가드로의 법칙`
+> ### `아보가드로의 법칙`  
 
-- 모든 기체는 같은 온도, 같은 압력에서 같은 부피속에 같은 개수의 입자(분자)를 포함한다.
-- #### 기체 내 입자의 수 $N = n N_A$, n은 몰의 수.
+- 모든 기체는 같은 온도, 같은 압력에서 같은 부피속에 같은 개수의 입자(분자)를 포함한다.  
+- #### 기체 내 입자의 수 $N = n N_A$, n은 몰의 수.  
 
 ![아보가드로의 법칙](http://dic.kumsung.co.kr/upfiles/editor/201310/fas3saio7svk5s7aavbqso3350.jpg)  
-(source: http://dic.kumsung.co.kr/upfiles/editor/201310/fas3saio7svk5s7aavbqso3350.jpg)
+(source: http://dic.kumsung.co.kr/upfiles/editor/201310/fas3saio7svk5s7aavbqso3350.jpg)  
 
 ---
 
 > ### `유체역학`
 
-- 뉴턴유체와 비뉴턴유체
-- 층류와 난류
+- 뉴턴유체와 비뉴턴유체  
+
+- 층류와 난류  
+
 - 비행기의 양력  
   ![비행기의 양력](https://file.mk.co.kr/mkde_7/N0/2020/09/20200929_4375167_1601365020.jpg)  
-  (source: https://file.mk.co.kr/mkde_7/N0/2020/09/20200929_4375167_1601365020.jpg)
+  (source: https://file.mk.co.kr/mkde_7/N0/2020/09/20200929_4375167_1601365020.jpg)  
+  
 - 담배연기  
   ![담배연기](https://t1.daumcdn.net/cfile/tistory/995D74415AC4E93D18)  
-  (source: http://www.skkuw.com/news/photo/201809/20429_9442_327.jpg)
+  (source: http://www.skkuw.com/news/photo/201809/20429_9442_327.jpg)  
 
 ---
 
-> ### `아르키메데스의 원리`
+> ### `아르키메데스의 원리`  
 
-- 아르키메데스의 부력 원리와 왕관의 무게 측정
+- 아르키메데스의 부력 원리와 왕관의 무게 측정  
   ![아르키메데스와 왕관](https://javalab.org/lee/contents/Archimedes_cartoon_03.jpg)  
-  (SOURCE: https://javalab.org/lee/contents/Archimedes_cartoon_03.jpg)
-- [link: 아르키메데스와 왕관 (comic)](https://javalab.org/archimedes_principle_1/)
+  (SOURCE: https://javalab.org/lee/contents/Archimedes_cartoon_03.jpg)  
+- [link: 아르키메데스와 왕관 (comic)](https://javalab.org/archimedes_principle_1/)  
 
 ---
 
-> ### `베르누이의정리`
+> ### `베르누이의정리`  
 
-- 유체에서의 에너지 보전법칙
+- 유체에서의 에너지 보전법칙  
 - 가는 관에서 유체 속도가 증가되는 현상  
   ![관을 흐르는 유체의 속도 변화](http://4.bp.blogspot.com/-mLfEnWcNdNs/VHU4DiknekI/AAAAAAAAAKg/9Vt-cFD6dpo/s1600/1.jpg)  
-  (SOURCE: http://4.bp.blogspot.com/-mLfEnWcNdNs/VHU4DiknekI/AAAAAAAAAKg/9Vt-cFD6dpo/s1600/1.jpg)
-- ### 비행기의 양력
+  (SOURCE: http://4.bp.blogspot.com/-mLfEnWcNdNs/VHU4DiknekI/AAAAAAAAAKg/9Vt-cFD6dpo/s1600/1.jpg)  
+  
+- ### 비행기의 양력  
   ![비행기의 양력](https://file.mk.co.kr/mkde_7/N0/2020/09/20200929_4375167_1601365020.jpg)  
-  (source: https://file.mk.co.kr/mkde_7/N0/2020/09/20200929_4375167_1601365020.jpg)
-- ### 커브볼: 마그누스 효과
+  (source: https://file.mk.co.kr/mkde_7/N0/2020/09/20200929_4375167_1601365020.jpg)  
+  
+- ### 커브볼: 마그누스 효과  
   ![커브볼](http://tinyfactory21.cafe24.com/wp/wp-content/uploads/2016/03/Image1.png)  
   (SOURCE: http://tinyfactory21.cafe24.com/wp/wp-content/uploads/2016/03/Image1.png)  
   
@@ -165,16 +170,16 @@ $PV =  n N_A k_B T = n R T,  (N = n N_A, R = N_A k_B)$
 
 ---
 
-> ### `카오스 이론`
+> ### `카오스 이론`  
 
 - #### 초기조건 민감성: 초기 조건의 조그마한 차이가 시간이 지나면서 어머 어마한 결과로 커지는 현상.  
 - #### 삼체문제 : 3개의 천체가 서로 영향을 주면서 움직일 때 궤도의 안정성을 예측할 수 없다.  
   ![삼체 운동](http://www.seoulkaas.org/xe/files/attach/images/58213/971/085/faa74c7425a32b6013b7c424c169bf63.png)  
-  (SOURCE: http://www.seoulkaas.org/xe/files/attach/images/58213/971/085/faa74c7425a32b6013b7c424c169bf63.png)
+  (SOURCE: http://www.seoulkaas.org/xe/files/attach/images/58213/971/085/faa74c7425a32b6013b7c424c169bf63.png)  
   
-- ## 나비효과
+- ## 나비효과  
   ![나비효과](https://i0.wp.com/thesciencelife.com/wp-content/uploads/2019/03/tmg-facebook_social.jpg?fit=980%2C551&resize=1280%2C720)  
-  (SOURCE: https://i0.wp.com/thesciencelife.com/wp-content/uploads/2019/03/tmg-facebook_social.jpg?fit=980%2C551&resize=1280%2C720)
+  (SOURCE: https://i0.wp.com/thesciencelife.com/wp-content/uploads/2019/03/tmg-facebook_social.jpg?fit=980%2C551&resize=1280%2C720)  
   
 - ### 나비 날개와 로렌츠 끌개(attracter)  
   ![나비와 로렌츠 끌개](http://3.bp.blogspot.com/-ZakW7dQL0Os/VMD102wq1tI/AAAAAAABnQs/BpdapL8BRyc/s1600/ButterflyEffect-CreativeCommons-Hellisp.jpg)  
@@ -182,15 +187,15 @@ $PV =  n N_A k_B T = n R T,  (N = n N_A, R = N_A k_B)$
   
 - ### 로렌츠 끌개  
   ![로렌츠 끌개](https://upload.wikimedia.org/wikipedia/commons/2/20/Intermittent_Lorenz_Attractor_-_Chaoscope.jpg)  
-  (SOURCE: https://upload.wikimedia.org/wikipedia/commons/2/20/Intermittent_Lorenz_Attractor_-_Chaoscope.jpg)
+  (SOURCE: https://upload.wikimedia.org/wikipedia/commons/2/20/Intermittent_Lorenz_Attractor_-_Chaoscope.jpg)  
 
-> ### `카오스의 패턴 -> 프랙털`
+> ### `카오스의 패턴 -> 프랙털`  
 
 - #### 프랙털이란 무엇인가? 그리고 카오스와의 관계는?  
   ![프랙털](https://github.com/Redwoods/physics/blob/master/media/fractal01.png)  
   (SOURCE: http://mathworld.wolfram.com/images/eps-gif/Fractal1_1000.gif)
   
-- #### 만데브로트세트
+- #### 만데브로트세트  
   ![프랙털-만데브로트세트](https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/73/b6/45/73b645d9-0019-37da-cc96-3bbba023af56/pr_source.png/643x0w.jpg)  
   (SOURCE: https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/73/b6/45/73b645d9-0019-37da-cc96-3bbba023af56/pr_source.png/643x0w.jpg)
 
