@@ -150,7 +150,7 @@
 (SOURCE: https://blog.kakaocdn.net/dn/1kS3X/btq8TvETi6F/QDlUZslkpzUctfqkyMg0N1/img.png)  
 
 
-- ## 공명: 외부에서 발생한 기본 진동수 또는 조화 진동수의 파동에 동조하여 진동하거나 진폭이 증가하는 현상  
+- ### `공명` : 외부에서 발생한 기본 진동수 또는 조화 진동수의 파동에 동조하여 진동하거나 진폭이 증가하는 현상  
 
 <!-- ![공명](http://ivic.co.kr/wp/wp-content/uploads/2015/03/TURNING-FORK-%EC%86%8C%EB%A6%AC%EA%B5%BD%EC%87%A0.png)   -->
 <img src="http://ivic.co.kr/wp/wp-content/uploads/2015/03/TURNING-FORK-%EC%86%8C%EB%A6%AC%EA%B5%BD%EC%87%A0.png" width="750" height="450">  
