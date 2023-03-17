@@ -143,7 +143,9 @@
 ---
 
 > ### `조화파와 공명`   
+> 
 - 조화파는 기본 진동수의 정수 배수의 진동수를 갖는 파동  
+
 ![정상파: 조화파-현의 진동](http://mblogthumb1.phinf.naver.net/20160419_276/toshizo_14610554801528LV5q_JPEG/w36.jpg?type=w2)  
 (SOURCE: http://mblogthumb1.phinf.naver.net/20160419_276/toshizo_14610554801528LV5q_JPEG/w36.jpg?type=w2)  
 
