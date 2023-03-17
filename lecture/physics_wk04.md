@@ -146,8 +146,9 @@
 > 
 - 조화파는 기본 진동수의 정수 배수의 진동수를 갖는 파동  
 
-![정상파: 조화파-현의 진동](http://mblogthumb1.phinf.naver.net/20160419_276/toshizo_14610554801528LV5q_JPEG/w36.jpg?type=w2)  
-(SOURCE: http://mblogthumb1.phinf.naver.net/20160419_276/toshizo_14610554801528LV5q_JPEG/w36.jpg?type=w2)  
+![정상파: 조화파-현의 진동](https://blog.kakaocdn.net/dn/1kS3X/btq8TvETi6F/QDlUZslkpzUctfqkyMg0N1/img.png)  
+(SOURCE: https://blog.kakaocdn.net/dn/1kS3X/btq8TvETi6F/QDlUZslkpzUctfqkyMg0N1/img.png)  
+
 
 - 공명: 외부에서 발생한 기본 진동수 또는 조화 진동수의 파동에 동조하여 진동하거나 진폭이 증가하는 현상  
 
