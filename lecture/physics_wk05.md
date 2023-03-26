@@ -34,50 +34,50 @@
 > - [교재-구글이북](https://books.google.co.kr/books?id=fVgzDwAAQBAJ&pg=PT9&lpg=PT9&dq=%EC%A7%88%EB%9F%89+%EA%B4%80%EC%84%B1+%EB%AC%B4%EA%B2%8C&source=bl&ots=qETYTIeDQa&sig=ACfU3U03GoLroFvgyDAEoghcWkENtb3W6w&hl=ko&sa=X&ved=2ahUKEwiJ2r6e7vjgAhVdyYsBHSwRBLEQ6AEwCnoECAEQAQ#v=onepage&q=%EC%A7%88%EB%9F%89%20%EA%B4%80%EC%84%B1%20%EB%AC%B4%EA%B2%8C&f=false)
 
 ***
-### ● 진동과 떨림의 세계에 대한 개념 형성 및 이해
-- 광학: 반사, 굴절, 회절
-- 빛의 변화: 산란과 편광
-- 광학 기구: 렌즈, 망원경, 현미경
-- 회절과 간섭을 이용한 기구: 회절 격자, 간섭계 
+### ● 진동과 떨림의 세계에 대한 개념 형성 및 이해  
+- 광학: 반사, 굴절, 회절  
+- 빛의 변화: 산란과 편광  
+- 광학 기구: 렌즈, 망원경, 현미경  
+- 회절과 간섭을 이용한 기구: 회절 격자, 간섭계  
 
-> 광학 / 반사 / 굴절 / 전반사 / 회절 / (분해능) / 산란과 흡수 / 편광 / 렌즈와 프리즘 / (망원경) / (현미경) / 회절격자 / 간섭계
+> 광학 / 반사 / 굴절 / 전반사 / 회절 / (분해능) / 산란과 흡수 / 편광 / 렌즈와 프리즘 / (망원경) / (현미경) / 회절격자 / 간섭계  
 
 ***
 
-## 광학
-- 광학 / 반사 / 굴절 / 전반사 / 회절 / (분해능)
+## 광학  
+- 광학 / 반사 / 굴절 / 전반사 / 회절 / (분해능)  
 
-> ### 광학
+> ### 광학  
 ![광학](https://image.freepik.com/free-vector/no-translate-detected_68708-37.jpg)   
 (source: https://image.freepik.com/free-vector/no-translate-detected_68708-37.jpg)  
 
-> ### 반사
+> ### 반사  
 ![정반사와 난반사](http://kid.chosun.com/site/data/img_dir/2015/06/29/2015062902452_1.jpg)   
 (source: http://kid.chosun.com/site/data/img_dir/2015/06/29/2015062902452_1.jpg)
 
-> ### 굴절
+> ### 굴절  
 
-- 장난감 자동차는 어느 방향으로 진행?
+- 장난감 자동차는 어느 방향으로 진행?  
 
 ![지동차의 굴절](https://t1.daumcdn.net/cfile/tistory/22069F40523122CD06)   
 (source: https://t1.daumcdn.net/cfile/tistory/22069F40523122CD06)  
 
 - 빛의 굴절  
 
-  - 컵에 물을 부으면 빨대는 어떻게 보이는가?
-  - 컵에 물을 부으면 동전은 어떻게 보이는가?
+  - 컵에 물을 부으면 빨대는 어떻게 보이는가?  
+  - 컵에 물을 부으면 동전은 어떻게 보이는가?  
 
 ![빛의 굴절](http://kinimage.naver.net/storage/upload/2004/11/57/pikachu0116_1101734343.jpg)   
 (source: http://kinimage.naver.net/storage/upload/2004/11/57/pikachu0116_1101734343.jpg)  
 
-> ### 전반사
+> ### 전반사  
 - ### 전반사와 임계각  
-  - 물 속에서 공기 중으로 빛이 나올 때
+  - 물 속에서 공기 중으로 빛이 나올 때  
 
 ![전반사와 임계각](http://cfs1.blog.daum.net/upload_control/download.blog?fhandle=MDhmOW5AZnMxLmJsb2cuZGF1bS5uZXQ6L0lNQUdFLzAvMC5qcGc=&filename=0.jpg)   
 (source: http://cfs1.blog.daum.net/upload_control/download.blog?fhandle=MDhmOW5AZnMxLmJsb2cuZGF1bS5uZXQ6L0lNQUdFLzAvMC5qcGc=&filename=0.jpg)  
 
-- ### 전반사와 광섬유
+- ### 전반사와 광섬유  
 
 ![전반사와 광섬유 ](https://www.scienceall.com/nas/image/201304/AI403_36.jpg)   
 (source: https://www.scienceall.com/nas/image/201304/AI403_36.jpg)  
@@ -86,7 +86,7 @@
 
 ---
 
-> ### 회절
+> ### 회절  
 ![회절의 구조](http://cfile239.uf.daum.net/image/1676F54E50C84AD129E9C9)   
 (source: http://cfile239.uf.daum.net/image/1676F54E50C84AD129E9C9)
 
@@ -94,17 +94,17 @@
 ---
 
 ## 산란과 편광  
-- 산란과 흡수 / 편광
+- 산란과 흡수 / 편광  
 
 > `산란과 흡수`  
 
 - 산란  
-- 하늘이 파란 이유
+- 하늘이 파란 이유  
 
 > ![하늘이 파란 이유](http://mblogthumb4.phinf.naver.net/MjAxNzAxMzFfMjcx/MDAxNDg1ODIwODI5MTk2.QZF28_CiYjDSW_jeGSKXW1CArwBa3RFIypPvlilbt08g.yb1x4hHjJGiKWrOk9BBvtrqeWdIVil-dm08NMZhXwvIg.GIF.youngdisplay/8.gif?type=w2)  
 (source: http://mblogthumb4.phinf.naver.net/MjAxNzAxMzFfMjcx/MDAxNDg1ODIwODI5MTk2.QZF28_CiYjDSW_jeGSKXW1CArwBa3RFIypPvlilbt08g.yb1x4hHjJGiKWrOk9BBvtrqeWdIVil-dm08NMZhXwvIg.GIF.youngdisplay/8.gif?type=w2)  
 
-- 노을이 붉은 이유
+- 노을이 붉은 이유  
 
 > ![노을이 붉은 이유](http://mblogthumb4.phinf.naver.net/20140314_179/staryoorang_139476212369549xPu_JPEG/%C7%CF%B4%C3%C0%CC_%C6%C4%B6%F5_%C0%CC%C0%AF.jpg?type=w2)  
 (source: http://mblogthumb4.phinf.naver.net/20140314_179/staryoorang_139476212369549xPu_JPEG/%C7%CF%B4%C3%C0%CC_%C6%C4%B6%F5_%C0%CC%C0%AF.jpg?type=w2)
