@@ -55,10 +55,13 @@
 ![전자기파](https://t1.daumcdn.net/cfile/tistory/2768644A522AF3FD28)   
 (source: https://t1.daumcdn.net/cfile/tistory/2768644A522AF3FD28)  
 
-- 전자기파 스펙트럼
+- 전자기파 스펙트럼  
 
 ![전자기파 스펙트럼](https://www.scienceall.com/nas/image/201304/AI403_43.jpg)   
 (source: https://www.scienceall.com/nas/image/201304/AI403_43.jpg)
+
+![전자기파 스펙트럼](https://homoscience.kr/wp-content/uploads/2019/07/fhgndfrt.png)   
+(source: https://homoscience.kr/wp-content/uploads/2019/07/fhgndfrt.png)  
 
 
 > ### 가시광선
