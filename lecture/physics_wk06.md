@@ -57,19 +57,16 @@
 
 - 전자기파 스펙트럼  
 
-![전자기파 스펙트럼](https://www.scienceall.com/nas/image/201304/AI403_43.jpg)   
-(source: https://www.scienceall.com/nas/image/201304/AI403_43.jpg)
-
 ![전자기파 스펙트럼](https://homoscience.kr/wp-content/uploads/2019/07/fhgndfrt.png)   
 (source: https://homoscience.kr/wp-content/uploads/2019/07/fhgndfrt.png)  
 
 
-> ### 가시광선
+> ### 가시광선  
 
 ![가시광선](https://t1.daumcdn.net/cfile/tistory/256D154B572EEE8232)   
 (source: https://t1.daumcdn.net/cfile/tistory/256D154B572EEE8232)  
 
-> ### 적외 복사 (적외선)
+> ### 적외 복사 (적외선)  
 
 ![적외선](http://cfile205.uf.daum.net/image/2501EF3D56286BBF17C3BE)   
 (source: http://cfile205.uf.daum.net/image/2501EF3D56286BBF17C3BE)  
@@ -78,6 +75,8 @@
 
 ![적외선-인체 촬영](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Z6KsVkSl4NkMU1TFQse-4cXjLBo3AfMwNMVl_nheiJ6EtvAVXw)  
 (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Z6KsVkSl4NkMU1TFQse-4cXjLBo3AfMwNMVl_nheiJ6EtvAVXw)
+
+---
 
 > ### 전파 (Radio 파)
 
