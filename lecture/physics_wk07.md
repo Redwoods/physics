@@ -180,7 +180,7 @@
 
 - ## 주제 3. 무한 동력(영구 기관)은 가능한가?
 
-> [Youtube: 무한동력기관??](https://www.youtube.com/watch?v=CEDq6tdH6gE)  
+> [Youtube: 무한동력기관??](https://www.youtube.com/watch?v=HszquoW9hKY)  
 
 ---
 
