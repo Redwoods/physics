@@ -111,6 +111,8 @@
 ![자외선 복사](https://mblogthumb-phinf.pstatic.net/MjAxODA3MDFfNzYg/MDAxNTMwNDMyNjg2Njcy.ksB5QVTQtWTtiLdxhh6HHdybnZiPfVw7zA3nVLRO-fog.zLsPU7eghcgc-vZIbdvfWozuyjbgbce2x6yMFfYA1Ugg.JPEG.jscho7942/%EC%9E%90%EC%99%B8%EC%84%A0.jpg?type=w2)   
 (source: https://mblogthumb-phinf.pstatic.net/MjAxODA3MDFfNzYg/MDAxNTMwNDMyNjg2Njcy.ksB5QVTQtWTtiLdxhh6HHdybnZiPfVw7zA3nVLRO-fog.zLsPU7eghcgc-vZIbdvfWozuyjbgbce2x6yMFfYA1Ugg.JPEG.jscho7942/%EC%9E%90%EC%99%B8%EC%84%A0.jpg?type=w2)
 
+- [시뮬레이션: 전자기파의 파장](https://javalab.org/electromagnetic_waves_around_of_visible_rays/)  
+
 > ### X-선
 
 ![X-선](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/X-ray_by_Wilhelm_R%C3%B6ntgen_of_Albert_von_K%C3%B6lliker%27s_hand_-_18960123-02.jpg/250px-X-ray_by_Wilhelm_R%C3%B6ntgen_of_Albert_von_K%C3%B6lliker%27s_hand_-_18960123-02.jpg)   
