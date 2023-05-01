@@ -50,10 +50,10 @@
 
 > ## 전기/자기 (Electricity & Magnetism)  
 
-- 전하를 가진 물질들의 성질과 상태를 이해
-- 양전하와 음전하
-- 전하의 이동을 전류 (실제로는 음전하를 가진 전자들의 이동)
-- 전자는 자전으로 자연에서 가장 작은 자석
+- 전하를 가진 물질들의 성질과 상태를 이해  
+- 양전하와 음전하  
+- 전하의 이동을 전류 (실제로는 음전하를 가진 전자들의 이동)  
+- 전자는 자전으로 자연에서 가장 작은 자석  
 - 전류의 변화는 주위에 자기장을 만든다.  
   ![전기](https://t1.daumcdn.net/cfile/tistory/24216E385893E6432F)  
   (source: https://t1.daumcdn.net/cfile/tistory/24216E385893E6432F)  
@@ -66,7 +66,7 @@
   ![정전기](https://post-phinf.pstatic.net/MjAxNzExMjlfMTkg/MDAxNTExOTY0OTYwNjIy.W2ZP_5W5wG_q2OIglNSo9HkT9hN_Kg9J3L_YQpNiXvIg.ZESoMXXBOHR6xYRXARVDfh1IGRb0mW-qw02iewMAn9Ug.JPEG/%EC%A0%95%EC%A0%84%EA%B8%B0_%282%29.jpg?type=w1200)  
   (source: https://post-phinf.pstatic.net/MjAxNzExMjlfMTkg/MDAxNTExOTY0OTYwNjIy.W2ZP_5W5wG_q2OIglNSo9HkT9hN_Kg9J3L_YQpNiXvIg.ZESoMXXBOHR6xYRXARVDfh1IGRb0mW-qw02iewMAn9Ug.JPEG/%EC%A0%95%EC%A0%84%EA%B8%B0_%282%29.jpg?type=w1200)  
 
-> ### 전류
+> ### 전류  
 
 ![전류](https://slidesplayer.org/slide/11219411/60/images/4/%EC%A0%84%EB%A5%98%EC%9D%98+%ED%9D%90%EB%A6%84%EA%B3%BC+%EC%A0%84%EC%9E%90%EC%9D%98+%EC%9D%B4%EB%8F%99.jpg)  
 (source: https://slidesplayer.org/slide/11219411/60/images/4/%EC%A0%84%EB%A5%98%EC%9D%98+%ED%9D%90%EB%A6%84%EA%B3%BC+%EC%A0%84%EC%9E%90%EC%9D%98+%EC%9D%B4%EB%8F%99.jpg)  
