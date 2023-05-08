@@ -128,8 +128,8 @@ link: https://m.blog.naver.com/PostView.nhn?blogId=winzone&logNo=220531162710&pr
 
 - ## 핵분열 에너지
 
-  ![핵분열 에너지](https://t1.daumcdn.net/cfile/tistory/996E373A5A5BC97C16)  
-  (source: https://t1.daumcdn.net/cfile/tistory/996E373A5A5BC97C16)
+  ![핵분열 에너지](https://farm9.staticflickr.com/8854/17399977021_ffff23d7d5.jpg)  
+  (source: https://farm9.staticflickr.com/8854/17399977021_ffff23d7d5.jpg)  
 
 > ## [시뮬레이션: 핵분열](https://javalab.org/nuclear_chain_reaction/)  
  
