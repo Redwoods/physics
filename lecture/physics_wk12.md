@@ -24,8 +24,8 @@
 - 광학
 - 현대물리학
 - 양자물리학
-- 우주론
-- 상대성이론
+- 우주론  
+- 상대성이론  
 
 ---
 
@@ -33,11 +33,11 @@
 
 ---
 
-### 양자물리학 (Quantum Physics)
+### 양자물리학 (Quantum Physics)  
 
-> 광전효과 / 파동-입자 이중성 / 드브로이의 가설 / (전자현미경) / 슈뢰딩거 파동방정식 / 양자 터널효과 / 코펜하겐 해석 / 양자역학과 불확정성원리 / 슈뢰딩거의 고양이 / (그 외의 양자 해석) / (양자수) / (스핀) / (보스입자와 페르미입자, 그리고 파울리의배타원리) / 자기공명 영상 / (축퇴) / (양자 얽힘) / 양자 계산과 암호 / (초유동체)
+> 광전효과 / 파동-입자 이중성 / 드브로이의 가설 / (전자현미경) / 슈뢰딩거 파동방정식 / 양자 터널효과 / 코펜하겐 해석 / 양자역학과 불확정성원리 / 슈뢰딩거의 고양이 / (그 외의 양자 해석) / (양자수) / (스핀) / (보스입자와 페르미입자, 그리고 파울리의배타원리) / 자기공명 영상 / (축퇴) / (양자 얽힘) / 양자 계산과 암호 / (초유동체)  
 
-## keywords
+## keywords  
 
 - 파동-입자 이중성  
 - 양자역학과 불확정성원리  
@@ -54,7 +54,7 @@
   ![양자물리학](https://t1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/2XtG/image/NAJTks1RHJvZ3uzh3nuMeatPrX8.jpg)  
   (source: https://t1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/2XtG/image/NAJTks1RHJvZ3uzh3nuMeatPrX8.jpg)  
 
-- 양자물리의 세계관
+- 양자물리의 세계관  
   
   ![에너지준위와 아파트 층](https://github.com/Redwoods/physics/blob/master/media/quantized_floors.png?raw=true)  
   
@@ -62,7 +62,7 @@
 
 ---
 
-> ### 광전효과
+> ### 광전효과  
 
 - 특정 파장의 빛에 노출된 금속 표면에서 전자가 방출되는 현상  
 - 빛의 입자성 -> 광자 (photon)  
