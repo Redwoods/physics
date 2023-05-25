@@ -87,9 +87,7 @@
 
 - ## 주제 1. 표준모형
 
-  > [Youtube: 표준 모형](https://www.youtube.com/watch?v=ehHoOYqAT_U)
-
-  - [link: 과학 쿠키 - 표준 모형] https://www.youtube.com/watch?v=TSnFfy3XBRE  
+  > [Youtube: 표준 모형](https://www.youtube.com/watch?v=ehHoOYqAT_U)  
   
 ---
 
@@ -110,6 +108,8 @@
   
   ![경입자](https://www.scienceall.com/nas/image/201302/AP206_11.jpg)  
    (source: https://www.scienceall.com/nas/image/201302/AP206_11.jpg)
+
+- ## [link: 과학 쿠키 - 표준 모형] https://www.youtube.com/watch?v=TSnFfy3XBRE  
 
 ---
 
