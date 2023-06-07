@@ -1,8 +1,8 @@
-# 물리학의 세계 - wk14
+# 물리학의 세계 - wk14  
 
 ---
 
-# Physics world
+# Physics world  
 
 “What I cannot create, I do not understand.”
 — Richard Feynman
@@ -30,11 +30,11 @@
 
 ---
 
-> - [교재-구글이북](https://books.google.co.kr/books?id=fVgzDwAAQBAJ&pg=PT9&lpg=PT9&dq=%EC%A7%88%EB%9F%89+%EA%B4%80%EC%84%B1+%EB%AC%B4%EA%B2%8C&source=bl&ots=qETYTIeDQa&sig=ACfU3U03GoLroFvgyDAEoghcWkENtb3W6w&hl=ko&sa=X&ved=2ahUKEwiJ2r6e7vjgAhVdyYsBHSwRBLEQ6AEwCnoECAEQAQ#v=onepage&q=%EC%A7%88%EB%9F%89%20%EA%B4%80%EC%84%B1%20%EB%AC%B4%EA%B2%8C&f=false)
+> - [교재-구글이북](https://books.google.co.kr/books?id=fVgzDwAAQBAJ&pg=PT9&lpg=PT9&dq=%EC%A7%88%EB%9F%89+%EA%B4%80%EC%84%B1+%EB%AC%B4%EA%B2%8C&source=bl&ots=qETYTIeDQa&sig=ACfU3U03GoLroFvgyDAEoghcWkENtb3W6w&hl=ko&sa=X&ved=2ahUKEwiJ2r6e7vjgAhVdyYsBHSwRBLEQ6AEwCnoECAEQAQ#v=onepage&q=%EC%A7%88%EB%9F%89%20%EA%B4%80%EC%84%B1%20%EB%AC%B4%EA%B2%8C&f=false)  
 
 ---
 
-### 상대성이론과 우주론
+### 상대성이론과 우주론  
 
 > 빛의 속도 / 특수상대성 / 시간 지연과 로런츠 인자 / 로런츠 수축 / 질량-에너지 등가 / 쌍둥이 역설 / 시공 / 일반상대성 / (중력렌즈 / [중력파] / 특이점과 블랙홀 / 웜홀 / 타임머신 / 할아버지 역설 / 호킹 복사) / (허블의법칙 / 빅뱅 / 우주배경복사 / 암흑 물질 / [암흑 에너지] / 인류 원리)
 
