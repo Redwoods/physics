@@ -30,7 +30,7 @@
   - 상대성이론
 
 ---
-> - [교재-구글이북](https://play.google.com/books/reader?id=fVgzDwAAQBAJ&pg=GBS.PT1)
+> - [교재-구글이북](https://play.google.com/books/reader?id=fVgzDwAAQBAJ&pg=GBS.PP1)  
 ---
 
 ## 고전물리학: 역학
