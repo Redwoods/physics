@@ -4,20 +4,20 @@
 
 # Physics world
 
-“What I cannot create, I do not understand.”
+“What I cannot create, I do not understand.”  
 — Richard Feynman
 
-“What I cannot understand, I do not utilize.”
+“What I cannot understand, I do not utilize.”  
 — Redwoods
 
-"물리는 그냥 안된다.~~ 물리에서는 모든 게 된다."
+"물리는 그냥 안된다.~~ 물리에서는 모든 게 된다."  
 — Giles Sparrow
 
-## keywords
-### **atom**, genome, bit
+## keywords  
+### **atom**, genome, bit  
 ---
 
-- 물리, 물리학 , physics
+- 물리, 물리학 , physics  
   - 고전물리학: 역학
   - 파동, 광학
   - 전자기학
@@ -33,7 +33,7 @@
 > - [교재-구글이북](https://play.google.com/books/reader?id=fVgzDwAAQBAJ&pg=GBS.PP1)  
 ---
 
-## 고전물리학: 역학
+## 고전물리학: 역학  
 
 - 운동의 정의
 - 뉴턴의 운동 법칙 I, II, III
@@ -45,16 +45,16 @@
 
 ---
 
-> 속력, 속도와 가속도
+> 속력, 속도와 가속도  
 
 - [교재-구글이북](https://play.google.com/books/reader?id=fVgzDwAAQBAJ&pg=GBS.PT8_45&hl=ko&printsec=frontcover)
 - [속도와 가속도, 움직인 거리 시뮬레이션: Flash 호환 플레이어로 실행](https://yjh-phys.tistory.com/185)
 
-> 질량, 관성, 무게
+> 질량, 관성, 무게  
 
 - [교재-구글이북](https://play.google.com/books/reader?id=fVgzDwAAQBAJ&pg=GBS.PT10_45&hl=ko&printsec=frontcover)
 
-> 마찰력
+> 마찰력  
 
 - https://m.blog.naver.com/PostView.nhn?blogId=toshizo&logNo=220335130169&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
 - https://m.blog.naver.com/PostView.nhn?blogId=staryoorang&logNo=80212170270&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
