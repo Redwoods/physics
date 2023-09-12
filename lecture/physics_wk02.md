@@ -170,6 +170,7 @@ https://m.blog.naver.com/PostView.nhn?blogId=qjqh159&logNo=220642115511&proxyRef
 ### ● 운동에 대한 토론
 - 주제 1 사과의 떨어짐과 달의 공전
 > [Youtube: 사과의 떨어짐과 달의 공전](https://www.youtube.com/watch?v=Tkb2OMgim14)
+
 > [Youtube: 뉴턴과 만유인력](https://www.youtube.com/watch?v=ozaK5PbqDBk)  
 
 ---
