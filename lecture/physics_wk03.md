@@ -174,7 +174,7 @@ $PV =  n N_A k_B T = n R T,  (N = n N_A, R = N_A k_B)$
 
 - #### 초기조건 민감성: 초기 조건의 조그마한 차이가 시간이 지나면서 어머 어마한 결과로 커지는 현상.  
 - #### 삼체문제 : 3개의 천체가 서로 영향을 주면서 움직일 때 궤도의 안정성을 예측할 수 없다.  
-  ![삼체 운동](http://www.seoulkaas.org/xe/files/attach/images/58213/971/085/faa74c7425a32b6013b7c424c169bf63.png)  
+  ![삼체 운동](http://www.seoulkaas.org/xe/files/attach/images/58213/971/085/faa74c7425a32b6013b7c424c169bf63.png)   
   (SOURCE: http://www.seoulkaas.org/xe/files/attach/images/58213/971/085/faa74c7425a32b6013b7c424c169bf63.png)  
   
 - ## 나비효과  
@@ -187,7 +187,11 @@ $PV =  n N_A k_B T = n R T,  (N = n N_A, R = N_A k_B)$
   
 - ### 로렌츠 끌개  
   ![로렌츠 끌개](https://upload.wikimedia.org/wikipedia/commons/2/20/Intermittent_Lorenz_Attractor_-_Chaoscope.jpg)  
-  (SOURCE: https://upload.wikimedia.org/wikipedia/commons/2/20/Intermittent_Lorenz_Attractor_-_Chaoscope.jpg)  
+  (SOURCE: https://upload.wikimedia.org/wikipedia/commons/2/20/Intermittent_Lorenz_Attractor_-_Chaoscope.jpg)
+
+> [Youtube: 카오스 이론: 나비효과](https://www.youtube.com/watch?v=ee_DFV49VHQ)  
+
+---
 
 > ### `카오스의 패턴 -> 프랙털`  
 
