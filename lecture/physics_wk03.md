@@ -46,6 +46,8 @@
 - 주제  1 사과의 떨어짐과 달의 공전
 > [Youtube: 사과의 떨어짐과 달의 공전](https://www.youtube.com/watch?v=Tkb2OMgim14)
 
+> [Youtube: 뉴턴과 만유인력](https://www.youtube.com/watch?v=ozaK5PbqDBk)  
+
 ---
 ### 오늘의 물리
 - 변형과 탄성
@@ -216,8 +218,11 @@ $PV =  n N_A k_B T = n R T,  (N = n N_A, R = N_A k_B)$
 ## ● 운동에 대한 토론, 그리고 1차 Quiz
 
 ### ● 운동에 대한 토론 
-- 주제 1 사과의 떨어짐과 달의 공전
+- 주제 1 사과의 떨어짐과 달의 공전  
 > [Youtube: 사과의 떨어짐과 달의 공전](https://www.youtube.com/watch?v=Tkb2OMgim14)
+
+> [Youtube: 뉴턴과 만유인력](https://www.youtube.com/watch?v=ozaK5PbqDBk)
+
 - 주제 2 야구에서 공의 회전에 따른 구종과 유체역학
 > [Youtube: 마그누스 효과 = 공의 회전에 따른 구종과 유체역학](https://www.youtube.com/watch?v=0rUvdUXunNo)
 - 주제 3 카오스 이론의 한계
