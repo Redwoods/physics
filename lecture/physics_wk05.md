@@ -5,17 +5,17 @@
 
 # Physics world
 
-“What I cannot create, I do not understand.”
+“What I cannot create, I do not understand.”  
 — Richard Feynman
 
-“What I cannot understand, I do not utilize.”
+“What I cannot understand, I do not utilize.”  
 — Redwoods
 
-"물리는 그냥 안된다.~~ 물리에서는 모든 게 된다."
+"물리는 그냥 안된다.~~ 물리에서는 모든 게 된다."  
 — Giles Sparrow
 
-## keywords
-### **atom**, genome, bit
+## keywords  
+### **atom**, genome, bit  
 ---
 
 - 물리, 물리학 , physics
