@@ -89,7 +89,7 @@
 
 - 마이크로파의 범위  
 
-![마이크로파](http://www.seehint.com/catalog/2015/2015_12/microwave.jpg)   
+![마이크로파](https://mblogthumb-phinf.pstatic.net/MjAxODEwMTNfMTc2/MDAxNTM5NDIyOTU3NTg2.RJXIsyiH9kHHmq_FCk_VEAoJY6zLH6V4pj14PcwxOOQg._KEnxbJMrgVrY0kes0OM4YGnyWyDHDtDkkhfdMEqPoYg.JPEG.yk60park/IMG_8441.jpg?type=w800)   
 (source: http://www.seehint.com/catalog/2015/2015_12/microwave.jpg)  
 
 - 마이크로파의 응용 -> 전자레인지, **Bluetooth**, ...  
