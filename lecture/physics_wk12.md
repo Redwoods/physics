@@ -121,6 +121,9 @@
 
 - link: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR00PaxF0XTYUGIuBZ4WZ4Ces7PzqfbiupZGcMTgzpwtoJ0dIkE  
 
+> ### [양자터널링 시뮬레이션](https://miro.medium.com/v2/resize:fit:828/1*OcxPTnllORL56kGHY9CUzg.gif)
+  (source: https://miro.medium.com/v2/resize:fit:828/1*OcxPTnllORL56kGHY9CUzg.gif)
+> 
 ---
 
 > ## 코펜하겐 해석
