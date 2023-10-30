@@ -68,7 +68,7 @@
 ![*브라운 운동*](https://water.lsbu.ac.uk/water/images/Brownianmotion.gif)   
 (source: https://water.lsbu.ac.uk/water/images/Brownianmotion.gif)  
 
-- [link: Brownian](https://gfycat.com/ko/gifs/search/brownian)
+- ### [link-Wikipedia: Brownian Motion](https://en.wikipedia.org/wiki/Brownian_motion)  
 
 > ### 원소
 
