@@ -68,9 +68,11 @@
 ![*브라운 운동*](https://water.lsbu.ac.uk/water/images/Brownianmotion.gif)   
 (source: https://water.lsbu.ac.uk/water/images/Brownianmotion.gif)  
 
-- ### [link-Wikipedia: Brownian Motion](https://en.wikipedia.org/wiki/Brownian_motion)  
+- ### [link-Wikipedia: Brownian Motion](https://en.wikipedia.org/wiki/Brownian_motion)
 
-> ### 원소
+---
+
+> ### 원소  
 
 ![원소](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Periodic_table.svg/450px-Periodic_table.svg.png) (source: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Periodic_table.svg/450px-Periodic_table.svg.png)  
 - [link: 화학원소 주기율표](https://m.blog.naver.com/PostView.nhn?blogId=jirisan888&logNo=220535529452&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
