@@ -78,7 +78,7 @@
 (source: https://www.kaeri.re.kr/resources/images/kaeri/contents/sub04/sub04_0503_img01_2.jpg)
 
 ---
-[Youtube: 방사능 붕괴](https://www.youtube.com/watch?v=0AKmZ-acxUg)  
+- ## [Youtube: 방사능 붕괴](https://www.youtube.com/watch?v=0AKmZ-acxUg)  
 
 ---
 
@@ -88,7 +88,7 @@
  (source: https://mblogthumb-phinf.pstatic.net/20141218_139/applepop_1418908552699IM3ES_JPEG/%25EB%25B2%25A0%25ED%2583%2580%25EB%25B6%2595%25EA%25B4%25B4.jpg?type=w800)
 
 
-[Youtube: 중성미자](https://www.youtube.com/watch?v=h0Eo6mdyPak)  
+- ## [Youtube: 중성미자](https://www.youtube.com/watch?v=h0Eo6mdyPak)  
 
 ---
 
