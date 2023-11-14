@@ -91,7 +91,7 @@
 
 > ### 전지와 배터리  
 - 일차 전지
-- 이차 전지  
+- 이차 전지 : [이차전지 동작 원리](https://blog.naver.com/mougli10/223260530970)  
 
 ![배터리](https://t1.daumcdn.net/cfile/tistory/22680150532673BF01)  
  (source: https://t1.daumcdn.net/cfile/tistory/22680150532673BF01)  
