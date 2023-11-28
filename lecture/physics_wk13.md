@@ -181,12 +181,13 @@
 
 ### ● 입자물리학에 대한 토론  
 
+- ![표준모형과 중력의 통합](https://i.pinimg.com/originals/2b/7a/24/2b7a24f192757ff17e1ff76e6d2af23f.png)  
+(source: https://i.pinimg.com/originals/2b/7a/24/2b7a24f192757ff17e1ff76e6d2af23f.png)
+
 - ![표준모형 정리](https://www.youtube.com/watch?v=590X8T0xhdg)  
 (source: https://www.youtube.com/watch?v=590X8T0xhdg)  
 
-- ![표준모형과 중력의 통합](https://i.pinimg.com/originals/2b/7a/24/2b7a24f192757ff17e1ff76e6d2af23f.png)  
-(source: https://i.pinimg.com/originals/2b/7a/24/2b7a24f192757ff17e1ff76e6d2af23f.png)  
-
+---
 
 - ## 주제 1. 표준모형  
 
