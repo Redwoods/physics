@@ -218,7 +218,9 @@
 
 ### ● 양자물리 한 방에 정리(???)
 
-  > [Youtube: 양자역학 한 방 정리! [안될과학-긴급과학]](https://www.youtube.com/watch?v=VYWryVDQWO0)  
+  > [Youtube: 양자역학 한 방 정리! [안될과학-긴급과학]](https://www.youtube.com/watch?v=VYWryVDQWO0)
+
+  > [Youtube: 양자역학, 양자 얽힘, 시간](https://www.youtube.com/watch?v=BCj_uRWUc6g0)   
 
 ---
 
