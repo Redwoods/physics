@@ -227,7 +227,9 @@
 
 ### 특수상대성이론 한 방 정리  
 
-[Youtube: 특수상대성이론 한 방 정리 [안될과학-긴급과학]](https://www.youtube.com/watch?v=QvXX-iZnq-Q)  
+- [Youtube: 특수상대성이론 한 방 정리 [안될과학-긴급과학]](https://www.youtube.com/watch?v=QvXX-iZnq-Q)  
+
+- [Youtube: 시간이란???](https://www.youtube.com/watch?v=R2U-9QFmiP8)  
 
 ---
 
