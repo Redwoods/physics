@@ -79,3 +79,8 @@
 # > [Redwood's GitHub](https://github.com/redwoods/physics)
 
 > https://github.com/redwoods/physics
+
+---
+---
+- > [Youtube: 양자역학, 양자 얽힘, 시간](https://www.youtube.com/watch?v=BCj_uRWUc6g0)
+- > 
