@@ -110,8 +110,8 @@
 
 > ### `기체분자운동론`  
 
-![저온, 고온에서의 기체분자의 운동](http://image.surae.com/library/img/carsense/heatenergy.jpg)  
-(source: http://image.surae.com/library/img/carsense/heatenergy.jpg)  
+![저온, 고온에서의 기체분자의 운동](https://simagebank.net/wp/wp-content/uploads/2023/05/20230515_231647.png)  
+(source: https://simagebank.net/wp/wp-content/uploads/2023/05/20230515_231647.png)  
 
 $PV =  n N_A k_B T = n R T,  (N = n N_A, R = N_A k_B)$  
 
