@@ -110,8 +110,8 @@
 
 - 음파와 스피커
 
-![음파와 스피커](https://t1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/3QTe/image/fTmUseYW9w1deGpU3QcTbbGuXNg.png)  
-(source: https://t1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/3QTe/image/fTmUseYW9w1deGpU3QcTbbGuXNg.png)
+![음파와 스피커](https://postfiles.pstatic.net/MjAyMjAzMzFfMTk4/MDAxNjQ4NzM3MzkwNzE1.LoAyeL_YjVRSJp_IvfQT9-yY7d-7s7-vt18ijSl7uN8g.PyKtOVXtXa_HPVyOj84v43V3qE4zur4UrGZj3OFvfdsg.JPEG.kiekill/KakaoTalk_20220331_204759241.jpg?type=w773)   
+(source: https://postfiles.pstatic.net/MjAyMjAzMzFfMTk4/MDAxNjQ4NzM3MzkwNzE1.LoAyeL_YjVRSJp_IvfQT9-yY7d-7s7-vt18ijSl7uN8g.PyKtOVXtXa_HPVyOj84v43V3qE4zur4UrGZj3OFvfdsg.JPEG.kiekill/KakaoTalk_20220331_204759241.jpg?type=w773)  
 
 ---
 
