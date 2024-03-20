@@ -72,8 +72,8 @@
 ---
 
 > ### `하위헌스의원리` : 파동 전파 
-![하위헌스의원리](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTc6EIwRgs6onnP8H27i_thS-qXM62E815ySlW7C_IHzOYtaj1)   
-(source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTc6EIwRgs6onnP8H27i_thS-qXM62E815ySlW7C_IHzOYtaj1)  
+![하위헌스의원리](https://postfiles.pstatic.net/20160327_37/kokospice_1459030659037hSL3L_JPEG/cb1_475_i1.jpg?type=w2)   
+(source: https://postfiles.pstatic.net/20160327_37/kokospice_1459030659037hSL3L_JPEG/cb1_475_i1.jpg?type=w2)  
 ![하위헌스의원리2](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Refraction_-_Huygens-Fresnel_principle.svg/405px-Refraction_-_Huygens-Fresnel_principle.svg.png)     
 (source: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Refraction_-_Huygens-Fresnel_principle.svg/405px-Refraction_-_Huygens-Fresnel_principle.svg.png)
 
