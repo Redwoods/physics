@@ -91,10 +91,12 @@
 *** 
 
 > ### `변조` 
-- 신호를 전송하기 위해 반송파를 변조하는 두 가지 방법
-- 진폭변조(AM)돠 주파수변조(FM) 
+- 신호를 전송하기 위해 반송파를 변조하는 두 가지 방법  
+- 진폭변조(AM)돠 주파수변조(FM)
+
 ![AM & FM 변조](https://upload.wikimedia.org/wikipedia/commons/a/a4/Amfm3-en-de.gif)  
-(SOURCE: https://upload.wikimedia.org/wikipedia/commons/a/a4/Amfm3-en-de.gif)  
+(SOURCE: https://upload.wikimedia.org/wikipedia/commons/a/a4/Amfm3-en-de.gif)
+
 - [참고:wikipedia](https://en.wikipedia.org/wiki/FM_broadcasting)
 
 ---
