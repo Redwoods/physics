@@ -93,9 +93,9 @@
 > ### `변조` 
 - 신호를 전송하기 위해 반송파를 변조하는 두 가지 방법
 - 진폭변조(AM)돠 주파수변조(FM) 
-![AM & FM 변조](https://www.scienceall.com/nas/image/201303/201303051106431_PPE0ZR45.jpg)  
-(SOURCE: https://www.scienceall.com/nas/image/201303/201303051106431_PPE0ZR45.jpg)  
-- [참고:사이언스올](https://www.scienceall.com/%EC%A7%84%ED%8F%AD-%EB%B3%80%EC%A1%B0amamplitude-modulation/)
+![AM & FM 변조](https://upload.wikimedia.org/wikipedia/commons/a/a4/Amfm3-en-de.gif)  
+(SOURCE: https://upload.wikimedia.org/wikipedia/commons/a/a4/Amfm3-en-de.gif)  
+- [참고:wikipedia](https://en.wikipedia.org/wiki/FM_broadcasting)
 
 ---
 
