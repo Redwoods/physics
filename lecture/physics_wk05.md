@@ -79,8 +79,8 @@
 
 - ### 전반사와 광섬유  
 
-![전반사와 광섬유 ](https://www.scienceall.com/nas/image/201304/AI403_36.jpg)   
-(source: https://www.scienceall.com/nas/image/201304/AI403_36.jpg)  
+![전반사와 광섬유 ](https://mblogthumb-phinf.pstatic.net/MjAyMDA5MjVfMjgw/MDAxNjAwOTkwODYxMjY1.gk8vty6ZjHani20vT4HvZ9aEkpF2PZU0CU_oq3rMSgUg.3tgyj2KUjp7fjp0xXxxRuFuW1Z78mY-XjZCOptawzL8g.PNG.ktojja/6.png?type=w800)   
+(source: https://mblogthumb-phinf.pstatic.net/MjAyMDA5MjVfMjgw/MDAxNjAwOTkwODYxMjY1.gk8vty6ZjHani20vT4HvZ9aEkpF2PZU0CU_oq3rMSgUg.3tgyj2KUjp7fjp0xXxxRuFuW1Z78mY-XjZCOptawzL8g.PNG.ktojja/6.png?type=w800)  
 
 > ## [Youtube: 굴절, 전반사, 광섬유, 그리고 광통신](https://www.youtube.com/watch?v=FbphrqB9Nwo)  
 
