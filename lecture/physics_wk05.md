@@ -137,8 +137,8 @@
 
 - 오목/볼록 렌즈
 - 
-![오목/볼록 렌즈](https://www.scienceall.com/nas/image/201303/201303051201332_N541S7FU.jpg)  
-(SOURCE: https://www.scienceall.com/nas/image/201303/201303051201332_N541S7FU.jpg)  
+![오목/볼록 렌즈](https://mblogthumb-phinf.pstatic.net/20160505_27/kdj9502_1462379085029qnAtu_PNG/PICB675.PNG?type=w420)  
+(SOURCE: https://mblogthumb-phinf.pstatic.net/20160505_27/kdj9502_1462379085029qnAtu_PNG/PICB675.PNG?type=w420)  
 
 - 프리즘과 파장에 따라 변하는 빛의 분산  
 
