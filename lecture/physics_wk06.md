@@ -134,8 +134,8 @@
 
     - 파동
     
-![파동-전자기파](https://www.scienceall.com/nas/image/201304/AI403_43.jpg)  
-(source: https://www.scienceall.com/nas/image/201304/AI403_43.jpg)    
+![파동-전자기파](https://t1.daumcdn.net/cfile/tistory/2768644A522AF3FD28)  
+(source: https://t1.daumcdn.net/cfile/tistory/2768644A522AF3FD28)    
 
     - 입자
     
