@@ -101,8 +101,8 @@
 
 - ## 제0법칙:열적평형   
 
-![제0법칙:열적평형](https://www.scienceall.com/nas/image/201304/AI330_75.jpg)  
-(source: https://www.scienceall.com/nas/image/201304/AI330_75.jpg)  
+![제0법칙:열적평형](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFFbXMG3_dNd_eUG3iMiQNavk3J3IMlMdvVzeAM494kg&s)  
+(source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFFbXMG3_dNd_eUG3iMiQNavk3J3IMlMdvVzeAM494kg&s)  
 
 - ## 제1법칙:열에너지보존   
 
