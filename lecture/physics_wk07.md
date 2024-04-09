@@ -104,6 +104,10 @@
 ![제0법칙:열적평형](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFFbXMG3_dNd_eUG3iMiQNavk3J3IMlMdvVzeAM494kg&s)  
 (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFFbXMG3_dNd_eUG3iMiQNavk3J3IMlMdvVzeAM494kg&s)  
 
+---
+> ## [Youtube: 열적평형](https://www.youtube.com/watch?v=Hl_rpdOowRg)
+---  
+
 - ## 제1법칙:열에너지보존   
 
 ![제1법칙:열에너지보존](https://i.ytimg.com/vi/hFEA06XnAUg/maxresdefault.jpg)  
@@ -124,9 +128,7 @@
 
 ---
 
-> [Youtube: 열적평형](https://www.youtube.com/watch?v=Hl_rpdOowRg) 
-
-> [Youtube: 엔트로피란](https://www.youtube.com/watch?v=WTtxlaeC9PY) 
+> [Youtube: 엔트로피란](https://www.youtube.com/watch?v=WTtxlaeC9PY)  
 
 ---
 
