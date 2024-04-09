@@ -111,8 +111,8 @@
 
 - ## 제2법칙:엔트로피 증가, 열은 고온부에서 저온부로 이동
 
-![제2법칙:엔트로피 증가](http://study.zumst.com/upload/01-d33-00-22-07/01.png)  
-(source: http://study.zumst.com/upload/01-d33-00-22-07/01.png)  
+![제2법칙:엔트로피 증가](https://hvackkw.com/wp-content/uploads/2023/05/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C6.png)  
+(source: https://hvackkw.com/wp-content/uploads/2023/05/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C6.png)  
 
 ![제2법칙:엔트로피 증가](https://t1.daumcdn.net/cfile/tistory/234C6C4758E3584719)  
 (source: https://t1.daumcdn.net/cfile/tistory/234C6C4758E3584719)  
