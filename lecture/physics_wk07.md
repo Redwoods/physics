@@ -62,8 +62,8 @@
 
 - 열적평형
 
-![열적평형](https://www.scienceall.com/nas/image/201302/AI211_44.jpg)   
-(source: https://www.scienceall.com/nas/image/201302/AI211_44.jpg)  
+![열적평형](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFFbXMG3_dNd_eUG3iMiQNavk3J3IMlMdvVzeAM494kg&s)   
+(source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFFbXMG3_dNd_eUG3iMiQNavk3J3IMlMdvVzeAM494kg&s)  
 
 ---
 > ### 절대영도
