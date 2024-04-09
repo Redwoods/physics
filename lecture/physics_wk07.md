@@ -128,7 +128,7 @@
 
 ---
 
-> [Youtube: 엔트로피란](https://www.youtube.com/watch?v=WTtxlaeC9PY)  
+> ## [Youtube: 엔트로피란](https://www.youtube.com/watch?v=WTtxlaeC9PY)  
 
 ---
 
