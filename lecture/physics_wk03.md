@@ -226,7 +226,8 @@ $PV =  n N_A k_B T = n R T,  (N = n N_A, R = N_A k_B)$
 - 주제 2 야구에서 공의 회전에 따른 구종과 유체역학
 > [Youtube: 마그누스 효과 = 공의 회전에 따른 구종과 유체역학](https://www.youtube.com/watch?v=0rUvdUXunNo)
 - 주제 3 카오스 이론의 한계
-> [Youtube: 카오스 이론: 나비효과](https://www.youtube.com/watch?v=ee_DFV49VHQ)  
+> [Youtube: 카오스 이론: 나비효과](https://www.youtube.com/watch?v=ee_DFV49VHQ)
+> [Youtibe: 나비효과(새 버전)](https://www.youtube.com/watch?v=FEmfihIjZ94)  
 > - [Youtube: 프랙탈(Fractal) 이해하기!](https://www.youtube.com/watch?v=ziJrrbI2tis)
 
 ---
