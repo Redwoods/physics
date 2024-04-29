@@ -80,8 +80,8 @@
 > ### 원자구조
 
 - 원자핵(양성자 + 중성자) + 전자 
-![원자구조](https://media.istockphoto.com/vectors/atom-structure-diagram-vector-id545120814)   
-(source: https://media.istockphoto.com/vectors/atom-structure-diagram-vector-id545120814)  
+![원자구조](https://www.kaeri.re.kr/AtomicNews/202001/images/sub06_img1.jpg)   
+(source: https://www.kaeri.re.kr/AtomicNews/202001/images/sub06_img1.jpg)  
 
 > ### 전자  
 
