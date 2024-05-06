@@ -94,12 +94,10 @@
 
 > ### 반감기 (Half-life)
 
-![반감기](https://t1.daumcdn.net/cfile/tistory/24068338528074693A)  
- (source: https://t1.daumcdn.net/cfile/tistory/24068338528074693A)
+![반감기](http://www.seehint.com/catalog/2017/2017_10/%EB%B0%A9_%EB%B0%98%EA%B0%90%EA%B8%B0.jpg)  
+ (source: http://www.seehint.com/catalog/2017/2017_10/%EB%B0%A9_%EB%B0%98%EA%B0%90%EA%B8%B0.jpg)  
 
-link: http://www.seehint.com/catalog/2017/2017_10/%EB%B0%A9_%EB%B0%98%EA%B0%90%EA%B8%B0.jpg  
-
-> [시뮬레이션: 반감기](https://javalab.org/half_life_period/)  
+> ### [시뮬레이션: 반감기](https://javalab.org/half_life_period/)  
 
 ---
 
