@@ -156,6 +156,8 @@ link: https://m.blog.naver.com/PostView.nhn?blogId=winzone&logNo=220531162710&pr
 - ## 주제 1. 방사능 붕괴
 
   > [Youtube: 방사능 붕괴](https://www.youtube.com/watch?v=0AKmZ-acxUg)
+  
+  > [Youtube: 방사선은 얼마나 위험할까?](https://www.youtube.com/watch?v=doF8bgw89Lg)  
 
 - ## 주제 2. 중성미자란?
 
