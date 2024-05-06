@@ -167,7 +167,7 @@ link: https://m.blog.naver.com/PostView.nhn?blogId=winzone&logNo=220531162710&pr
 
 * ## 주제 3. 핵에너지의 명과 암
   
-  > ### [Youtube: 핵무기의 원리](https://www.youtube.com/watch?v=gU4xSoGBmWI&t=32s)   
+  > [Youtube: 핵무기의 원리](https://www.youtube.com/watch?v=gU4xSoGBmWI&t=32s)   
   
   > [Youtube: 핵에너지의 장/단점](https://www.youtube.com/watch?v=ywGLBeaUReM&t=5s)   
 
