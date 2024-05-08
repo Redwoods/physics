@@ -1,6 +1,6 @@
 # 물리학의 세계 (The World of Physics)
 
-> Introduction to the world of Physics for the undergraduate students, Inje University, GimHae.
+> Introduction to the world of Physics for the undergraduate students, Inje University, GimHae, Korea.
 
 ## 교재
 - 한장의지식 물리학 (자일스 스패로 저, 한시아 역)
