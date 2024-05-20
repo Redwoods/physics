@@ -78,8 +78,8 @@
 - 빛, 소리와 같은 파동은 이중 슬릿을 통과하면 간섭현상을 보인다.  
 - 전자총에서 나온 전자들도 이중 슬릿을 통과하면 간섭현상을 보인다.  
 
-![파동-입자 이중성](https://t1.daumcdn.net/cfile/tistory/21432B4655524D4B1D)  
-(source: https://t1.daumcdn.net/cfile/tistory/21432B4655524D4B1D)  
+![파동-입자 이중성](https://lh7-us.googleusercontent.com/O0XjtRc3BE3X_D8OFZ9mzXV9SDJxSlgR2VtDqaYkYfLmt_xaCi3SCSh2o7ufemfrPb5uZ_14HWe7sTTOz_b8MWVC5AksLZQgjm3Y7zqRteeEFpJe3yQfU2mo-LlJARZ8htX6eLIUKats50ZQfRrBvow)  
+(source: https://lh7-us.googleusercontent.com/O0XjtRc3BE3X_D8OFZ9mzXV9SDJxSlgR2VtDqaYkYfLmt_xaCi3SCSh2o7ufemfrPb5uZ_14HWe7sTTOz_b8MWVC5AksLZQgjm3Y7zqRteeEFpJe3yQfU2mo-LlJARZ8htX6eLIUKats50ZQfRrBvow)  
 
 - [link: 파동-입자 이중성](http://cfile218.uf.daum.net/R400x0/27038D4154AE6A9B261914)  
 
