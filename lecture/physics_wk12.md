@@ -130,8 +130,8 @@
 
 - ### 관찰에 의한 **파동함수의 붕괴**로 인해 하나의 상태로 관측된다.  
 
-  ![파동함수의 붕괴](http://uguys.net/zboard/data/inside/q.jpg)  
-  (source: http://uguys.net/zboard/data/inside/q.jpg)  
+  ![파동함수의 붕괴](http://news.samsungdisplay.com/wp-content/uploads/2019/11/1.jpg)  
+  (source: http://news.samsungdisplay.com/wp-content/uploads/2019/11/1.jpg)  
 
 ---
 
