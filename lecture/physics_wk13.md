@@ -106,8 +106,8 @@
 - 강한 핵력의 영향을 받지 않는 가벼운 입자 (spin=1/2)  
 - 1,2,3 세대로 구성 : electron, muon, tau  
   
-  ![경입자](https://www.scienceall.com/nas/image/201302/AP206_11.jpg)  
-   (source: https://www.scienceall.com/nas/image/201302/AP206_11.jpg)
+  ![경입자](https://qph.cf2.quoracdn.net/main-qimg-6c645e7579abed1a242d0dc6c88999a9)  
+   (source: https://qph.cf2.quoracdn.net/main-qimg-6c645e7579abed1a242d0dc6c88999a9)
 
 - ## [link: 과학 쿠키 - 표준 모형] https://www.youtube.com/watch?v=TSnFfy3XBRE  
 
