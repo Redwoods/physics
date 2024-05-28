@@ -113,9 +113,10 @@
 
 - 움직이는 물체 내의 길이는 짧아진다.  
 - 열차 밖의 사람이 측정한 열차 안 물체의 길이는 짧아진다.  
-  ![거리(길이) 수축](http://pds11.egloos.com/pmf/200904/19/80/c0093580_49ea678e539ab.jpg)  
-   (source: http://pds11.egloos.com/pmf/200904/19/80/c0093580_49ea678e539ab.jpg  
-> 참고: https://the1.wiki/w/%EA%B8%B8%EC%9D%B4%20%EC%88%98%EC%B6%95
+  ![거리(길이) 수축](https://i.namu.wiki/i/GL4i2pl88IBo0ZebmYFvKj9y_UMlCwe-PM6AVXf5tM_SoU7m4cUjCjC7ru4lpMUGkJSUtZdwtQvXliI2_atKalHz1IwdHSDKA-FHR9UR3QmBfy-lLyy3WMKtVmR1ZByoPL59gXQCTRB4K0bx3YbnkA.png)  
+   (source: https://i.namu.wiki/i/GL4i2pl88IBo0ZebmYFvKj9y_UMlCwe-PM6AVXf5tM_SoU7m4cUjCjC7ru4lpMUGkJSUtZdwtQvXliI2_atKalHz1IwdHSDKA-FHR9UR3QmBfy-lLyy3WMKtVmR1ZByoPL59gXQCTRB4K0bx3YbnkA.png)
+  
+> 참고: https://the1.wiki/w/%EA%B8%B8%EC%9D%B4%20%EC%88%98%EC%B6%95  
 
 ---
 
