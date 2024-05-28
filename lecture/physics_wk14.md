@@ -113,8 +113,9 @@
 
 - 움직이는 물체 내의 길이는 짧아진다.  
 - 열차 밖의 사람이 측정한 열차 안 물체의 길이는 짧아진다.  
-  ![거리(길이) 수축](https://i.namu.wiki/i/GL4i2pl88IBo0ZebmYFvKj9y_UMlCwe-PM6AVXf5tM_SoU7m4cUjCjC7ru4lpMUGkJSUtZdwtQvXliI2_atKalHz1IwdHSDKA-FHR9UR3QmBfy-lLyy3WMKtVmR1ZByoPL59gXQCTRB4K0bx3YbnkA.png)  
-   (source: https://i.namu.wiki/i/GL4i2pl88IBo0ZebmYFvKj9y_UMlCwe-PM6AVXf5tM_SoU7m4cUjCjC7ru4lpMUGkJSUtZdwtQvXliI2_atKalHz1IwdHSDKA-FHR9UR3QmBfy-lLyy3WMKtVmR1ZByoPL59gXQCTRB4K0bx3YbnkA.png)  
+  ![거리(길이) 수축](https://mblogthumb-phinf.pstatic.net/MjAyMDA3MDdfMjAy/MDAxNTk0MTA4OTgyMjE1.8X5mtMQT63wLAr0DWKkrx4GylVwkynqVKQxpRcGRdSQg.HqJe_qWz_hxqg-AcqkbD3m2JZikY-CKHQdkAK-tdkM8g.JPEG.flipstar/11_%C6%AFBCF6_BBF3B4%EB%BC%BA_C0%CC%B7D0-_BD%C3%B0A3_C6D8%C3%A2B0FA_B1E6C0CC_BCF6C3E0_(B0ED3-B0F8C5EB)_B.jpg?type=w800) 
+   
+   (source: https://mblogthumb-phinf.pstatic.net/MjAyMDA3MDdfMjAy/MDAxNTk0MTA4OTgyMjE1.8X5mtMQT63wLAr0DWKkrx4GylVwkynqVKQxpRcGRdSQg.HqJe_qWz_hxqg-AcqkbD3m2JZikY-CKHQdkAK-tdkM8g.JPEG.flipstar/11_%C6%AFBCF6_BBF3B4%EB%BC%BA_C0%CC%B7D0-_BD%C3%B0A3_C6D8%C3%A2B0FA_B1E6C0CC_BCF6C3E0_(B0ED3-B0F8C5EB)_B.jpg?type=w800)  
   
 > 참고: https://the1.wiki/w/%EA%B8%B8%EC%9D%B4%20%EC%88%98%EC%B6%95  
 
