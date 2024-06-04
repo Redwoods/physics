@@ -176,8 +176,8 @@
 
   - 가속되는 물체 내의 가속도와 중력에 의한 가속도와 구분할 수 없다. (등가원리)  
   
-    ![등가원리](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMNoXeOC5bbsA1VLMj-9lgQewXJtOLY8BPWSoPkILeYj_7bWgK)  
-    (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMNoXeOC5bbsA1VLMj-9lgQewXJtOLY8BPWSoPkILeYj_7bWgK)  
+    ![등가원리](https://img1.daumcdn.net/relay/cafe/R400x0/?fname=http%3A%2F%2Fpostfiles13.naver.net%2F20150310_156%2Fpapers_1425924306181H8nSq_GIF%2F030915_1706_Equival3.gif%3Ftype%3Dw2)  
+    (source: https://img1.daumcdn.net/relay/cafe/R400x0/?fname=http%3A%2F%2Fpostfiles13.naver.net%2F20150310_156%2Fpapers_1425924306181H8nSq_GIF%2F030915_1706_Equival3.gif%3Ftype%3Dw2)  
 
 - ### 중력파 (Gravitational wave)
 
