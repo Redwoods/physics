@@ -1,3 +1,6 @@
+# 공지
+- ## 수요일반 보강: 6원 11(화),12(수), 14(금) 오전11시, E114
+---
 # 물리학의 세계 (The World of Physics)
 
 > Introduction to the world of Physics for the undergraduate students, Inje University, GimHae, Korea.
