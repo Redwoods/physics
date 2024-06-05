@@ -212,7 +212,7 @@ link: https://m.blog.naver.com/PostView.nhn?blogId=winzone&logNo=220531162710&pr
 ### ● 양자물리학의 이해 및 개념 확인 퀴즈 6개 (Kahoot quiz)
 
 - PC: kahoot.com 또는 kahoot.it (즉석 퀴즈 참여)
-- Mobile: kahoot app 설치 또는 kahoot.it (즉석 퀴즈 참여)
+- Mobile: kahoot app 설치 또는 kahoot.it (로긴한 후에 즉석 퀴즈 참여)
 
 ---
 
