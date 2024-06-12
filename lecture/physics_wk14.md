@@ -52,8 +52,8 @@
 
   - 특수상대성이론
 
-  ![특수상대성이론](https://i.ytimg.com/vi/Zj37s3bHpcE/maxresdefault.jpg)  
-   (source: https://i.ytimg.com/vi/Zj37s3bHpcE/maxresdefault.jpg)
+  ![특수상대성이론](https://github.com/Redwoods/physics/blob/master/media/SR02.png?raw=true)  
+   (source: https://github.com/Redwoods/physics/blob/master/media/SR02.png?raw=true)  
 
   - 일반상대성이론
 
