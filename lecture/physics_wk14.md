@@ -206,6 +206,12 @@
 
 ### ● 상대성이론과 우주론에 대한 토론
 
+- ## GPS 시간 보정
+  ![인공위성](https://github.com/Redwoods/physics/blob/master/media/SR_GR_GPS.png?raw=true)
+  - [네이버블로그: 특수: +7/100만, 일반: -45/100만](https://blog.naver.com/ximsa1/220793758355)  
+
+  - [Youtube: GPS 오차](https://www.youtube.com/watch?v=1fcvB70wVeM&t=15s)  
+
 - ## 주제 1. 특수상대성이론  
 
   > [Youtube: 상대성이론](https://www.youtube.com/watch?v=_OxF3ZdyZcs&t=158s)
