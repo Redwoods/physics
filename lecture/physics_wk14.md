@@ -183,6 +183,12 @@
 - ![일반상대론 요약](https://github.com/Redwoods/physics/blob/master/media/GR05_summary.png?raw=true)
 ---
 
+- ### 일반 상대론 입증 실험 
+
+  - Eddington이 개기 일식 현장에서 먼 별 빛이 태양 근처에서 휘는 것을 확인.
+
+  ![Eddington 실험](https://github.com/Redwoods/physics/blob/master/media/GR_eddington.png?raw=true)  
+  
 - ### 중력파 (Gravitational wave)
 
   - 두 개의 블랙홀이 나선을 그리며 접근할 때 발생하는 파동
