@@ -169,8 +169,6 @@
   (source: https://upload.wikimedia.org/wikipedia/commons/2/22/Spacetime_curvature.png)
 
 ---
-- ![일반상대론 요약](https://github.com/Redwoods/physics/blob/master/media/GR05_summary.png?raw=true)
----
 
 > ### 일반상대론과 중력파
 
@@ -180,6 +178,10 @@
   
     ![등가원리](https://img1.daumcdn.net/relay/cafe/R400x0/?fname=http%3A%2F%2Fpostfiles13.naver.net%2F20150310_156%2Fpapers_1425924306181H8nSq_GIF%2F030915_1706_Equival3.gif%3Ftype%3Dw2)  
     (source: https://img1.daumcdn.net/relay/cafe/R400x0/?fname=http%3A%2F%2Fpostfiles13.naver.net%2F20150310_156%2Fpapers_1425924306181H8nSq_GIF%2F030915_1706_Equival3.gif%3Ftype%3Dw2)  
+
+---
+- ![일반상대론 요약](https://github.com/Redwoods/physics/blob/master/media/GR05_summary.png?raw=true)
+---
 
 - ### 중력파 (Gravitational wave)
 
