@@ -169,6 +169,8 @@
   (source: https://upload.wikimedia.org/wikipedia/commons/2/22/Spacetime_curvature.png)
 
 ---
+- ![일반상대론 요약](https://github.com/Redwoods/physics/blob/master/media/GR05_summary.png?raw=true)
+---
 
 > ### 일반상대론과 중력파
 
