@@ -85,17 +85,14 @@
 > 탄성충돌과 비탄성충돌
 
 ![](https://lh3.googleusercontent.com/proxy/P6VAulDslLdG85JCA8Bi4kXBC3QsKOjjqDOYTkJgX0J2bWRBjMYVMQQENcLFIVuuAgM5LEnkV_KRjrVNsviqK600F5Cagn9L7KgeEuPqRHcY9cGb7w)  
-![](https://mblogthumb-phinf.pstatic.net/20160301_186/qjqh159_1456760969366xODDb_PNG/1.png?type=w800)
 
-(source:
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOaBXm1iT_g-L8BI5AnSUEF3wsxgRswYSDobqlZHUfxtIR2SsW
-
-https://m.blog.naver.com/PostView.nhn?blogId=qjqh159&logNo=220642115511&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
+(source:https://lh3.googleusercontent.com/proxy/P6VAulDslLdG85JCA8Bi4kXBC3QsKOjjqDOYTkJgX0J2bWRBjMYVMQQENcLFIVuuAgM5LEnkV_KRjrVNsviqK600F5Cagn9L7KgeEuPqRHcY9cGb7w)  
 
 ---
+> ## 뉴턴의운동법칙
 ---
 
-> 뉴턴의운동법칙
+
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAxNjEyMDlfMTQ0/MDAxNDgxMjg2NjM4NTIw.CDr5K4axB7HQmQ87XVt3L3dZyPWv1aET0LQugzn-I2Ig.W02nBb1e0twFDQYhvXUI4vFYtYsIHSNQ1a-gXeMzqK8g.PNG.jintaeky/%EB%89%B4%ED%84%B4%EC%9D%98%EB%B2%95%EC%B9%99.png?type=w2)
 
