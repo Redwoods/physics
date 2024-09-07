@@ -84,7 +84,7 @@
 
 > 탄성충돌과 비탄성충돌
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOaBXm1iT_g-L8BI5AnSUEF3wsxgRswYSDobqlZHUfxtIR2SsW)  
+![](https://lh3.googleusercontent.com/proxy/P6VAulDslLdG85JCA8Bi4kXBC3QsKOjjqDOYTkJgX0J2bWRBjMYVMQQENcLFIVuuAgM5LEnkV_KRjrVNsviqK600F5Cagn9L7KgeEuPqRHcY9cGb7w)  
 ![](https://mblogthumb-phinf.pstatic.net/20160301_186/qjqh159_1456760969366xODDb_PNG/1.png?type=w800)
 
 (source:
