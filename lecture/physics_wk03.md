@@ -65,8 +65,8 @@
  
 > - 아르키메데스의 지렛대  
 
-> ![지구 들어 올리기](https://t1.daumcdn.net/cfile/tistory/22559A4253DBBD182D)    
-> (source:https://t1.daumcdn.net/cfile/tistory/22559A4253DBBD182D)    
+> ![지구 들어 올리기](https://i.namu.wiki/i/gglqQkNpnrP6H2nbtaFJ038aXMJZQFvqE5dskM6-wVi7dYVKMWtRpJbKkUMu-rbAuxhGAMA1-EUIIg9n82wfgaJ7BG3b-6ANgk3kN9mukIlAaEE3mZCMLgFti0-VibLhKs51hhw8zQibpC3nYRJfpQ.webp)    
+> (source:https://i.namu.wiki/i/gglqQkNpnrP6H2nbtaFJ038aXMJZQFvqE5dskM6-wVi7dYVKMWtRpJbKkUMu-rbAuxhGAMA1-EUIIg9n82wfgaJ7BG3b-6ANgk3kN9mukIlAaEE3mZCMLgFti0-VibLhKs51hhw8zQibpC3nYRJfpQ.webp)    
 
 > - 워라벨  
 
