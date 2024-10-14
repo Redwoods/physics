@@ -52,8 +52,8 @@
 (source: https://image.freepik.com/free-vector/no-translate-detected_68708-37.jpg)  
 
 > ### 반사  
-![정반사와 난반사](http://kid.chosun.com/site/data/img_dir/2015/06/29/2015062902452_1.jpg)   
-(source: http://kid.chosun.com/site/data/img_dir/2015/06/29/2015062902452_1.jpg)
+![정반사와 난반사](https://upload.wikimedia.org/wikipedia/commons/0/08/Pied_Avocet_chick.jpg)   
+(source: https://upload.wikimedia.org/wikipedia/commons/0/08/Pied_Avocet_chick.jpg)
 
 > ### 굴절  
 
