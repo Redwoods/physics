@@ -169,7 +169,7 @@ link: https://m.blog.naver.com/PostView.nhn?blogId=winzone&logNo=220531162710&pr
   
   > [Youtube: 핵무기의 원리](https://www.youtube.com/watch?v=gU4xSoGBmWI&t=32s)   
   
-  > [Youtube: 핵에너지의 장/단점](https://www.youtube.com/watch?v=ywGLBeaUReM&t=5s)   
+  > [Youtube: 핵분열과 핵융합](https://www.youtube.com/watch?v=jBw7NTjCicE)   
 
 ---
 
