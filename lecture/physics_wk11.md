@@ -59,7 +59,7 @@
 
 > ### 알파붕괴
 
-- 불안정한 원소가 헬륨의 원자핵과 안정된 원소로 붕괴.
+- 무거운 원소의 불안정한 원자핵이 헬륨의 원자핵과 가벼운 원소의 안정된 원자핵으로 붕괴.  
 
   ![알파붕괴](https://mblogthumb-phinf.pstatic.net/20151220_222/ppp64512_1450537428586wlWF8_JPEG/1429278023836.jpg?type=w2)  
   (source: https://mblogthumb-phinf.pstatic.net/20151220_222/ppp64512_1450537428586wlWF8_JPEG/1429278023836.jpg?type=w2)  
