@@ -4,14 +4,14 @@
 
 # Physics world
 
-“What I cannot create, I do not understand.”
-— Richard Feynman
+“What I cannot create, I do not understand.”  
+— Richard Feynman  
 
-“What I cannot understand, I do not utilize.”
-— Redwoods
+“What I cannot understand, I do not utilize.”  
+— Redwoods  
 
-"물리는 그냥 안된다.~~ 물리에서는 모든 게 된다."
-— Giles Sparrow
+"물리는 그냥 안된다.~~ 물리에서는 모든 게 된다."  
+— Giles Sparrow  
 
 ## keywords
 
