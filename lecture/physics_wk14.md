@@ -239,7 +239,7 @@
 
   > [Youtube: 우주의 팽창과 암흑에너지](https://www.youtube.com/watch?v=uHrSKByv104)
 
-- [Youtube: 눈에 보이지 않는 우주의 비밀](https://post.naver.com/viewer/postView.nhn?volumeNo=20571539&memberNo=37571784)
+- [읽고 검토해 보세요: 눈에 보이지 않는 우주의 비밀](https://post.naver.com/viewer/postView.nhn?volumeNo=20571539&memberNo=37571784)
 
 ---
 
