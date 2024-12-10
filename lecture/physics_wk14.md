@@ -201,8 +201,8 @@
   (source: https://steemitimages.com/DQmZSTbUfRoXBAU7U5gV5TqLCxL1wbuvZB6Zxed4TxCiqb4/image.png)
 
 ---
-- [Youtube: 일반상대성 이론](https://www.youtube.com/watch?v=HwpRN82Cik8)
-- [Youtube: 상대성이론 Q&A](https://www.youtube.com/watch?v=9_NWx_7uFPk&t=7s)
+- [Youtube: 일반상대성 이론, X](https://www.youtube.com/watch?v=HwpRN82Cik8)
+- [Youtube: 상대성이론 Q&A, X](https://www.youtube.com/watch?v=9_NWx_7uFPk&t=7s)
 ---
 
 > ### 암흑물질과 암흑에너지
