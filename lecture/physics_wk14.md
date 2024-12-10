@@ -123,12 +123,11 @@
 
 ## 주제 1. 특수상대성이론  
 
-  - [Youtube: 상대성이론, X](https://www.youtube.com/watch?v=_OxF3ZdyZcs&t=158s)  
+  - [Youtube: 상대성이론, X](https://www.youtube.com/watch?v=_OxF3ZdyZcs&t=158s)   
 
-  - [Youtube: 특수상대성이론, X](https://www.youtube.com/watch?v=Zj37s3bHpcE&t=184s)
+  - [Youtube: 특수상대성이론, X](https://www.youtube.com/watch?v=Zj37s3bHpcE&t=184s)  
     
-  - ### [Youtube: 특수상대성이론, O](https://www.youtube.com/watch?v=b-Fh0N8jjxo)
-) 
+  - ### [Youtube: 특수상대성이론, O](https://www.youtube.com/watch?v=b-Fh0N8jjxo)  
   
 ---
 
