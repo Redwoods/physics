@@ -65,8 +65,8 @@
  
 > - 아르키메데스의 지렛대  
 
-> ![지구 들어 올리기](https://i.namu.wiki/i/gglqQkNpnrP6H2nbtaFJ038aXMJZQFvqE5dskM6-wVi7dYVKMWtRpJbKkUMu-rbAuxhGAMA1-EUIIg9n82wfgaJ7BG3b-6ANgk3kN9mukIlAaEE3mZCMLgFti0-VibLhKs51hhw8zQibpC3nYRJfpQ.webp)    
-> (source:https://i.namu.wiki/i/gglqQkNpnrP6H2nbtaFJ038aXMJZQFvqE5dskM6-wVi7dYVKMWtRpJbKkUMu-rbAuxhGAMA1-EUIIg9n82wfgaJ7BG3b-6ANgk3kN9mukIlAaEE3mZCMLgFti0-VibLhKs51hhw8zQibpC3nYRJfpQ.webp)    
+> ![지구 들어 올리기](https://i0.wp.com/tsmcc.org/wp-content/uploads/2022/10/hrp5ae.jpg?w=640&ssl=1)    
+> (source:https://i0.wp.com/tsmcc.org/wp-content/uploads/2022/10/hrp5ae.jpg?w=640&ssl=1)    
 
 > - ## 워라벨  
 
@@ -87,7 +87,7 @@
 > ![훅의 법칙의 한계](https://mblogthumb-phinf.pstatic.net/20150525_216/junilov2_1432532609808jY2sh_PNG/%C0%C0%B7%C2%BA%AF%C7%FC%C0%B2%BC%B1%B5%B5.png?type=w2)  
 > (source: https://mblogthumb-phinf.pstatic.net/20150525_216/junilov2_1432532609808jY2sh_PNG/%C0%C0%B7%C2%BA%AF%C7%FC%C0%B2%BC%B1%B5%B5.png?type=w2)  
 
-> ### [Youtube: 탄성과 지진](https://www.youtube.com/watch?v=IsQoZyhzB_Q)  
+> ## [Youtube: 탄성과 지진](https://www.youtube.com/watch?v=IsQoZyhzB_Q)  
 ---
 
 ## 기체  
@@ -169,7 +169,7 @@ $PV =  n N_A k_B T = n R T,  (N = n N_A, R = N_A k_B)$
   (SOURCE: http://tinyfactory21.cafe24.com/wp/wp-content/uploads/2016/03/Image1.png)  
   
 - 주제 2 야구에서 공의 회전에 따른 구종과 유체역학  
-> ### [Youtube: 마그누스 효과 = 공의 회전에 따른 구종과 유체역학](https://www.youtube.com/watch?v=0rUvdUXunNo)  
+> ## [Youtube: 마그누스 효과 = 공의 회전에 따른 구종과 유체역학](https://www.youtube.com/watch?v=0rUvdUXunNo)  
 
 ---
 
@@ -192,7 +192,7 @@ $PV =  n N_A k_B T = n R T,  (N = n N_A, R = N_A k_B)$
   ![로렌츠 끌개](https://upload.wikimedia.org/wikipedia/commons/2/20/Intermittent_Lorenz_Attractor_-_Chaoscope.jpg)  
   (SOURCE: https://upload.wikimedia.org/wikipedia/commons/2/20/Intermittent_Lorenz_Attractor_-_Chaoscope.jpg)
 
-> [Youtube: 카오스 이론: 나비효과](https://www.youtube.com/watch?v=ee_DFV49VHQ)  
+> ## [Youtube: 카오스 이론: 나비효과](https://www.youtube.com/watch?v=ee_DFV49VHQ)  
 
 ---
 
