@@ -15,7 +15,7 @@
 — Giles Sparrow  
 
 ## keywords
-### **atom**, genome, bit
+### **atom**, genome, bit  
 ---
 - 물리, 물리학 , physics
   - 고전물리학: 역학
@@ -67,7 +67,7 @@
 ---
 
 - ## 동영상 토론 1. 지진파의 이해
-> [Youtube: 지진파의 발생](https://www.youtube.com/watch?v=IsQoZyhzB_Q) 
+> ## [Youtube: 지진파의 발생](https://www.youtube.com/watch?v=IsQoZyhzB_Q) 
 
 ---
 
@@ -163,7 +163,7 @@
 - [link: Youtube-Braekdown of Tacoma bridge](https://www.youtube.com/watch?v=3mclp9QmCGs)  
 
 - ## 동영상 토론 2. 공명으로 인한 거대한 파괴  
-> [Youtube: Breakdown of Tacoma bridge](https://www.youtube.com/watch?v=3mclp9QmCGs)  
+> ## [Youtube: Breakdown of Tacoma bridge](https://www.youtube.com/watch?v=3mclp9QmCGs)  
 
 ***
 
