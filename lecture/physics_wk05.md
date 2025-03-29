@@ -51,7 +51,8 @@
 ![광학](https://image.freepik.com/free-vector/no-translate-detected_68708-37.jpg)   
 (source: https://image.freepik.com/free-vector/no-translate-detected_68708-37.jpg)  
 
-- ## [뉴턴의 분광 실험](https://cdn.mos.cms.futurecdn.net/wTtaFWScdBwdHZWupMMrLj-1200-80.jpg.webp)  
+- ## [뉴턴의 분광 실험](https://cdn.mos.cms.futurecdn.net/wTtaFWScdBwdHZWupMMrLj-1200-80.jpg.webp)
+- ## [전자기파-빛](https://t1.daumcdn.net/cfile/tistory/2768644A522AF3FD28)   
 
 > ### 반사  
 ![정반사와 난반사](https://upload.wikimedia.org/wikipedia/commons/0/08/Pied_Avocet_chick.jpg)   
