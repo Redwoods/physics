@@ -165,14 +165,11 @@
 ---
 > ## [Youtube: 무한동력기관??](https://www.youtube.com/watch?v=CEDq6tdH6gE)  
 
-> [Youtube: 열역학 법칙과 열기관](https://www.youtube.com/watch?v=fDHkDj3nLuA)  
+***  
 
-***
-
-
-### ● 열과 열적현상에 대한 토론 
+### ● 열과 열적현상에 대한 토론  
  
-- ## 주제 1. 열적평형과 온도 측정
+- ## 주제 1. 열적평형과 온도 측정  
 
 > [Youtube: 열적평형](https://www.youtube.com/watch?v=Hl_rpdOowRg) 
 
