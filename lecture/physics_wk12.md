@@ -272,6 +272,11 @@
 
 ---
 
+![God does not paly dice with the universe.](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*fnQKABIs-HVH4reX)  
+(source: https://miro.medium.com/v2/resize:fit:1400/format:webp/0*fnQKABIs-HVH4reX)  
+
+---
+
 # 수업자료실 : github
 
 # > [Redwood's GitHub](https://github.com/redwoods/physics)
