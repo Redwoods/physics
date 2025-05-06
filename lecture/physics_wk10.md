@@ -1,8 +1,8 @@
-# 물리학의 세계 - wk10
+# 물리학의 세계 - wk10  
 
 ---
 
-# Physics world
+# Physics world  
 
 “What I cannot create, I do not understand.”  
 — Richard Feynman  
@@ -18,9 +18,9 @@
 
 ## keywords
 
-### `atom`, genome, bit
+### `atom`, genome, bit  
 
-- 물리, 물리학 , physics
+- 물리, 물리학 , physics  
 - 고전물리학
 - 열역학
 - 전자기학
