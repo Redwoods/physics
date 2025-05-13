@@ -144,7 +144,7 @@ link: https://m.blog.naver.com/PostView.nhn?blogId=winzone&logNo=220531162710&pr
 
 - ### 원자폭탄, 수소폭탄
 
-  ![핵무기: 원자폭탄, 수소폭탄, 중성자탄](http://res.heraldm.com/content/image/2016/01/06/20160106001264_0.jpg)  
+  ![핵무기: 원자폭탄/수소폭탄/중성자탄](http://res.heraldm.com/content/image/2016/01/06/20160106001264_0.jpg)  
   (source: http://res.heraldm.com/content/image/2016/01/06/20160106001264_0.jpg)  
 
 ---
