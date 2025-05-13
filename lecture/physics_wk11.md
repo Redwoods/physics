@@ -135,8 +135,8 @@ link: https://m.blog.naver.com/PostView.nhn?blogId=winzone&logNo=220531162710&pr
 
 - #### 1억도 이상의 초고온 플라즈마 상태인 별들의 중심에서 수소와 같은 가벼운 원자핵들이 융합해 무거운 헬륨 원자핵으로 바뀌는 핵융합반응이 일어나면서 거대한 에너지가 만들어진다.
 
-  ![핵융합 에너지](https://www.iterkorea.org/images/korean/sub/con02-06-01-1.gif)  
-  (source: https://www.iterkorea.org/images/korean/sub/con02-06-01-1.gif)
+  ![핵융합 에너지](https://img.hankyung.com/photo/201812/AA.18458876.1.jpg)  
+  (source: https://img.hankyung.com/photo/201812/AA.18458876.1.jpg)  
 
 ---
 
