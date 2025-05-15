@@ -85,7 +85,9 @@
 
 ---
 
-[Youtube: 파동-입자 이중성](https://www.youtube.com/watch?v=a4LsdqwZEaU)  
+> ### [Youtube: 초등 양자역학-파동과 입자의 이중성](https://www.youtube.com/watch?v=1eXPqLyji9Y)
+
+> [Youtube: 파동-입자 이중성 => No service](https://www.youtube.com/watch?v=a4LsdqwZEaU)  
 
 ---
 
@@ -116,8 +118,8 @@
 
 - 파동함수가 주변으로 퍼져 나가서 발생되는 현상  
 
-![양자 터널효과](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdBPsZpebV3SmqgpRyyV_w3rnb8dQn48dXw53i-p56tm0toG6Ydg)  
- (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdBPsZpebV3SmqgpRyyV_w3rnb8dQn48dXw53i-p56tm0toG6Ydg)  
+![양자 터널효과](https://e7.pngegg.com/pngimages/1011/831/png-clipart-quantum-tunnelling-quantum-mechanics-penarium-quantum-realm-quantum-tunnelling-angle-particle.png)  
+ (source: https://e7.pngegg.com/pngimages/1011/831/png-clipart-quantum-tunnelling-quantum-mechanics-penarium-quantum-realm-quantum-tunnelling-angle-particle.png)  
 
 - link: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR00PaxF0XTYUGIuBZ4WZ4Ces7PzqfbiupZGcMTgzpwtoJ0dIkE  
 
@@ -218,8 +220,6 @@
 
 ### ● 양자물리 한 방에 정리(???)
  
-  > [Youtube: 초등 양자역학-파동과 입자의 이중성](https://www.youtube.com/watch?v=1eXPqLyji9Y)  
-
   > [Youtube: 양자역학 한 방 정리! [안될과학-긴급과학]](https://www.youtube.com/watch?v=VYWryVDQWO0&t=229s)  
 
   > [Youtube: 양자역학, 양자 얽힘, 시간](https://www.youtube.com/watch?v=BCj_uRWUc6g0)   
