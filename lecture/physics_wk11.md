@@ -51,7 +51,8 @@
 - 방사선과 방사능 측정
 - 핵에너지의 이용  
   ![핵물리학](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNO_Cycle.svg/1024px-CNO_Cycle.svg.png)  
-  (source: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNO_Cycle.svg/1024px-CNO_Cycle.svg.png) 
+  (source: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNO_Cycle.svg/1024px-CNO_Cycle.svg.png)  
+  - [납(82)을 금(79)으로](https://www.dongascience.com/news.php?idx=71596)  
 
 > ## [시뮬레이션: 핵의 발견](https://javalab.org/rutherford_scattering/) 
 
