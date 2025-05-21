@@ -148,7 +148,7 @@
 
 ---
 
-[Youtube: 불확정성원리](https://www.youtube.com/watch?v=0MT1rRvXcVU)  
+[Youtube: 불확정성원리 => No service](https://www.youtube.com/watch?v=0MT1rRvXcVU)  
 
 ---
 
@@ -161,7 +161,7 @@
 
 ---
 
-[Youtube: 슈레딩거의 고양이](https://www.youtube.com/watch?v=39pGNND9ue4)  
+[Youtube: 슈레딩거의 고양이 => No service](https://www.youtube.com/watch?v=39pGNND9ue4)  
 
 ---
 
@@ -185,7 +185,7 @@
 
 ---
 
-[Youtube: 양자 계산과 암호](https://www.youtube.com/watch?v=QlbKFqZjwEQ)   
+[Youtube: 양자 계산과 암호 => No service](https://www.youtube.com/watch?v=QlbKFqZjwEQ)   
 
 ---
 
