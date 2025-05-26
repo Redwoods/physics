@@ -85,13 +85,7 @@
 
 ---
 
-- ## 주제 1. 표준모형
-
-  > [Youtube: 표준 모형](https://www.youtube.com/watch?v=ehHoOYqAT_U)  
-  
----
-
-> ### 쿼크 (Quarks)
+> ### 쿼크 (Quarks)  
 
 - 핵자인 양성자와 중성자를 구성하는 더 작은 기본 입자  
 - 6종 (u,d,c,s,b,t)  
@@ -109,7 +103,13 @@
   ![경입자](https://qph.cf2.quoracdn.net/main-qimg-6c645e7579abed1a242d0dc6c88999a9)  
    (source: https://qph.cf2.quoracdn.net/main-qimg-6c645e7579abed1a242d0dc6c88999a9)
 
-- ## [link: 과학 쿠키 - 표준 모형] https://www.youtube.com/watch?v=TSnFfy3XBRE  
+---
+
+- ## 주제 1. 표준모형  
+
+  > ## [Youtube: 표준 모형](https://www.youtube.com/watch?v=ehHoOYqAT_U)   
+  
+- [link: 과학 쿠키 - 표준 모형] https://www.youtube.com/watch?v=TSnFfy3XBRE  
 
 ---
 
