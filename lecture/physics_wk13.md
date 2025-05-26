@@ -113,7 +113,7 @@
 
 ---
 
-> ### 기본 힘 (Fundamental forces)
+> # 기본 힘 (Fundamental forces)
 
 - 중력  
 - 전자기력, 약한핵력, 강한핵력  
