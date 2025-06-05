@@ -151,7 +151,7 @@
   (source: https://post-phinf.pstatic.net/MjAxNzA1MTdfMjMy/MDAxNDk1MDA1MjEyMDQz.71v5lBJAnzf_GuxTVBMKVhl9aPh1BOIypf0vnklMZ_Qg.-zkj_lts62hsbBMqTq8UHgYKRzRPh-S6QaKZIP1oSHog.JPEG/image_1250250891495004336566.jpg?type=w1200)  
 
 ---
-> [Youtube: 쌍동이 역설, X](https://www.youtube.com/watch?v=KZYfQj1pNWI)
+> ### [Youtube: 쌍동이 역설, O](https://youtu.be/u8Pz7QjWytc?si=fNbU54ikI_4GmJrU)
 
 > [Youtube: 쌍동이 역설, O](https://www.youtube.com/watch?v=3MVIh9Axz4s)  
 ---
