@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="ko" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>인터랙티브 색상 이론: 파동과 광자</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
+    
+    <!-- Chosen Palette: Warm Neutral Harmony -->
+    <!-- Application Structure Plan: 이 SPA는 사용자가 두 가지 핵심 관점(파동, 광자)을 비선형적으로 탐색하고 직접 비교할 수 있도록 설계되었습니다. 보고서의 순차적 구조 대신, 사용자가 주제를 선택(예: 빨간 사과)하면 두 관점의 설명이 동시에 제공되는 '대시보드형 비교' 구조를 채택했습니다. 이는 두 이론의 상호 보완성을 직관적으로 이해시키는 데 가장 효과적인 방법입니다. 또한, '인터랙티브 스펙트럼' 섹션을 통해 데이터(Table 1)를 정적인 표가 아닌 동적인 탐색 도구로 변환하여 학습 효과를 극대화했습니다. 이러한 구조는 사용자가 스스로 학습 경로를 제어하며 능동적으로 정보를 탐색하도록 유도합니다. -->
+    <!-- Visualization & Content Choices: 
+        - 보고서 정보: 서론/핵심 질문 -> 목표: 도입 및 흥미 유발 -> 표현: 시각적으로 인상적인 Hero 섹션 -> 상호작용: 없음 (안내 역할).
+        - 보고서 정보: 파동론 vs 양자론 설명 -> 목표: 두 관점 비교 및 이해 -> 표현: 2단 그리드 레이아웃, 아이콘 기반 예제 선택기, 동적 텍스트 패널 -> 상호작용: 예제 버튼 클릭 시 양쪽 패널의 설명이 동적으로 변경됨 -> 정당성: 두 이론의 차이와 상호보완성을 가장 효과적으로 보여줌. JS로 구현.
+        - 보고서 정보: Table 1 (색상-파장-에너지 관계) -> 목표: 데이터 관계 탐색 -> 표현: 인터랙티브 슬라이더, 실시간 데이터 표시, Chart.js 막대 그래프 -> 상호작용: 슬라이더를 드래그하면 색상, 파장, 주파수, 에너지 값이 실시간으로 업데이트됨 -> 정당성: 정적 데이터를 동적 학습 도구로 변환하여 직관적 이해를 도움. Chart.js(Canvas) 및 Vanilla JS 사용.
+        - 보고서 정보: 양자 도약 과정 -> 목표: 추상적 개념 시각화 -> 표현: HTML/CSS로 구현된 간단한 원자 모델 애니메이션 -> 상호작용: 스크롤 시 자동 재생 -> 정당성: 복잡한 양자 현상을 텍스트보다 쉽게 전달.
+        - 보고서 정보: 결론/응용 -> 목표: 요약 및 지식 확장 -> 표현: 깔끔한 텍스트 기반 카드 레이아웃 -> 상호작용: 없음.
+    -->
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+
+    <style>
+        body {
+            font-family: 'Noto Sans KR', sans-serif;
+            background-color: #FDFBF7;
+            color: #4A4A4A;
+        }
+        .nav-link {
+            transition: color 0.3s, border-color 0.3s;
+            border-bottom: 2px solid transparent;
+        }
+        .nav-link:hover, .nav-link.active {
+            color: #F4A261;
+            border-bottom-color: #F4A261;
+        }
+        .perspective-card {
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .perspective-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        }
+        .example-btn {
+            transition: all 0.3s;
+        }
+        .example-btn.active {
+            transform: scale(1.1);
+            background-color: #F4A261;
+            color: white;
+            box-shadow: 0 4px 14px 0 rgba(244, 162, 97, 0.39);
+        }
+        .content-panel {
+            transition: opacity 0.5s ease-in-out;
+            min-height: 280px;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 300px;
+            max-height: 400px;
+        }
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 400px;
+            }
+        }
+        /* Atom Animation */
+        .atom-container {
+            width: 150px;
+            height: 150px;
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .nucleus {
+            width: 20px;
+            height: 20px;
+            background-color: #E76F51;
+            border-radius: 50%;
+            z-index: 10;
+        }
+        .orbit {
+            position: absolute;
+            border: 2px solid #A8DADC;
+            border-radius: 50%;
+            animation: spin 20s linear infinite;
+        }
+        .orbit1 { width: 80px; height: 80px; }
+        .orbit2 { width: 140px; height: 140px; animation-delay: -2s; }
+        .electron {
+            position: absolute;
+            width: 12px;
+            height: 12px;
+            background-color: #2A9D8F;
+            border-radius: 50%;
+            top: -6px;
+            left: calc(50% - 6px);
+        }
+        .photon-in, .photon-out {
+            position: absolute;
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            opacity: 0;
+        }
+        .photon-in { background-color: #F4A261; animation: photon-fly-in 3s ease-in-out forwards; }
+        .photon-out { background-color: #E9C46A; animation: photon-fly-out 3s ease-in-out forwards; animation-delay: 1.5s; }
+
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+        @keyframes photon-fly-in {
+            0% { left: -20px; top: 100px; opacity: 1; }
+            50% { left: 65px; top: 65px; opacity: 1; transform: scale(1.2); }
+            100% { left: 65px; top: 65px; opacity: 0; transform: scale(0); }
+        }
+        @keyframes photon-fly-out {
+            0% { left: 65px; top: 65px; opacity: 1; transform: scale(0); }
+            50% { left: 65px; top: 65px; opacity: 1; transform: scale(1.2); }
+            100% { left: 180px; top: 20px; opacity: 1; }
+        }
+        @keyframes electron-jump {
+            0%, 100% { transform: none; }
+            50% { transform: scale(1.5) rotate(180deg); }
+        }
+        .orbit2 .electron { animation: electron-jump 3s ease-in-out forwards; animation-delay: 1.4s; }
+
+    </style>
+</head>
+<body>
+
+    <header class="bg-white/80 backdrop-blur-sm sticky top-0 z-50 shadow-sm">
+        <nav class="container mx-auto px-6 py-3 flex justify-between items-center">
+            <a href="#home" class="text-xl font-bold text-[#E76F51]">색상의 과학</a>
+            <div class="hidden md:flex space-x-8">
+                <a href="#home" class="nav-link px-3 py-2 text-sm font-medium">소개</a>
+                <a href="#perspectives" class="nav-link px-3 py-2 text-sm font-medium">두 개의 관점</a>
+                <a href="#spectrum" class="nav-link px-3 py-2 text-sm font-medium">인터랙티브 스펙트럼</a>
+                <a href="#conclusion" class="nav-link px-3 py-2 text-sm font-medium">결론 및 응용</a>
+            </div>
+            <button id="mobile-menu-button" class="md:hidden p-2 rounded-md text-gray-500 hover:text-black focus:outline-none focus:ring-2 focus:ring-inset focus:ring-[#F4A261]">
+                <span class="sr-only">메뉴 열기</span>
+                <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
+            </button>
+        </nav>
+        <div id="mobile-menu" class="hidden md:hidden">
+            <a href="#home" class="block py-2 px-4 text-sm hover:bg-gray-100">소개</a>
+            <a href="#perspectives" class="block py-2 px-4 text-sm hover:bg-gray-100">두 개의 관점</a>
+            <a href="#spectrum" class="block py-2 px-4 text-sm hover:bg-gray-100">인터랙티브 스펙트럼</a>
+            <a href="#conclusion" class="block py-2 px-4 text-sm hover:bg-gray-100">결론 및 응용</a>
+        </div>
+    </header>
+
+    <main>
+        <section id="home" class="min-h-screen flex items-center bg-gradient-to-br from-[#fdfbf7] to-[#fceee0]">
+            <div class="container mx-auto px-6 text-center">
+                <h1 class="text-4xl md:text-6xl font-bold text-[#E76F51] mb-4">물체의 색은 어떻게 결정될까요?</h1>
+                <p class="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto mb-8">
+                    우리가 보는 세상의 다채로운 색들은 빛과 물질의 복잡한 상호작용의 결과물입니다. 이 현상을 이해하기 위해, 우리는 빛을 거시적인 '파동'과 미시적인 '광자'라는 두 가지 관점에서 탐구해야 합니다.
+                </p>
+                <a href="#perspectives" class="bg-[#F4A261] text-white font-bold py-3 px-8 rounded-full hover:bg-[#E76F51] transition-colors duration-300">탐험 시작하기</a>
+            </div>
+        </section>
+
+        <section id="perspectives" class="py-20 bg-white">
+            <div class="container mx-auto px-6">
+                <div class="text-center mb-12">
+                    <h2 class="text-3xl md:text-4xl font-bold mb-3">두 개의 관점: 파동과 광자</h2>
+                    <p class="text-gray-600 max-w-2xl mx-auto">
+                        동일한 현상도 거시적 세계(파동)와 미시적 세계(광자)에서는 다르게 설명됩니다. 아래 예시를 클릭하여 각 관점의 설명을 비교해보세요. 이를 통해 우리는 색상의 원리에 대한 통합적인 이해에 도달할 수 있습니다.
+                    </p>
+                </div>
+
+                <div class="flex justify-center items-center space-x-2 md:space-x-4 mb-10 flex-wrap gap-y-4">
+                    <button class="example-btn active" data-example="apple">🍎 빨간 사과</button>
+                    <button class="example-btn" data-example="leaf">🌿 초록 나뭇잎</button>
+                    <button class="example-btn" data-example="cloud">☁️ 하얀 구름</button>
+                    <button class="example-btn" data-example="fluorescence">✨ 형광펜</button>
+                </div>
+
+                <div class="grid md:grid-cols-2 gap-8">
+                    <div id="wave-perspective" class="perspective-card bg-gray-50 p-6 rounded-xl border border-gray-200">
+                        <h3 class="text-2xl font-bold mb-4 text-[#2A9D8F]">🌊 파동(Wave)의 관점: 거시적 현상</h3>
+                        <div id="wave-content" class="content-panel text-gray-700 space-y-3"></div>
+                    </div>
+                    <div id="quantum-perspective" class="perspective-card bg-gray-50 p-6 rounded-xl border border-gray-200">
+                        <h3 class="text-2xl font-bold mb-4 text-[#E76F51]">⚛️ 광자(Photon)의 관점: 미시적 상호작용</h3>
+                        <div id="quantum-content" class="content-panel text-gray-700 space-y-3"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="spectrum" class="py-20">
+            <div class="container mx-auto px-6">
+                <div class="text-center mb-12">
+                    <h2 class="text-3xl md:text-4xl font-bold mb-3">인터랙티브 스펙트럼 탐험</h2>
+                    <p class="text-gray-600 max-w-2xl mx-auto">
+                       가시광선은 파장에 따라 다른 색과 에너지를 가집니다. 아래 슬라이더를 움직여 파장, 주파수, 광자 에너지 사이의 관계를 직접 확인해보세요. 파장이 짧을수록 에너지가 커지는 것을 볼 수 있습니다.
+                    </p>
+                </div>
+
+                <div class="bg-white p-6 rounded-xl shadow-lg">
+                    <div id="spectrum-display" class="w-full h-20 rounded-md mb-6 transition-colors duration-300"></div>
+                    
+                    <input id="spectrum-slider" type="range" min="380" max="750" value="550" class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer">
+                    
+                    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mt-6 text-center">
+                        <div>
+                            <p class="text-sm text-gray-500">색상</p>
+                            <p id="color-name" class="text-xl font-bold"></p>
+                        </div>
+                        <div>
+                            <p class="text-sm text-gray-500">파장 (Wavelength)</p>
+                            <p id="wavelength-value" class="text-xl font-bold"></p>
+                        </div>
+                        <div>
+                            <p class="text-sm text-gray-500">주파수 (Frequency)</p>
+                            <p id="frequency-value" class="text-xl font-bold"></p>
+                        </div>
+                        <div>
+                            <p class="text-sm text-gray-500">광자 에너지 (Photon Energy)</p>
+                            <p id="energy-value" class="text-xl font-bold"></p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mt-12">
+                     <div class="chart-container bg-white p-4 rounded-xl shadow-lg">
+                        <canvas id="energyChart"></canvas>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <section id="conclusion" class="py-20 bg-white">
+            <div class="container mx-auto px-6">
+                <div class="text-center mb-12">
+                    <h2 class="text-3xl md:text-4xl font-bold mb-3">결론: 두 관점의 통합과 응용</h2>
+                    <p class="text-gray-600 max-w-2xl mx-auto">
+                        물체의 색을 완전히 이해하려면 빛의 파동성과 입자성을 모두 고려해야 합니다. 파동론은 '어떻게' 빛이 물리적으로 상호작용하는지, 광자론은 '왜' 특정 빛만 선택적으로 상호작용하는지에 대한 근본적인 답을 제공합니다. 이 두 관점은 서로를 보완하며 완전한 그림을 만듭니다.
+                    </p>
+                </div>
+                <div class="grid md:grid-cols-3 gap-8">
+                    <div class="bg-gray-50 p-6 rounded-xl border border-gray-200">
+                        <h4 class="font-bold text-lg mb-2 text-[#264653]">완전한 이해</h4>
+                        <p class="text-sm text-gray-600">우리가 색을 인지하는 것은 광원에서 나온 빛(파동)이 물체에 도달하고, 물체의 원자/분자가 특정 에너지의 광자(입자)를 선택적으로 흡수한 뒤, 반사된 나머지 빛이 우리 눈에 들어오는 복합적인 과정의 결과입니다.</p>
+                    </div>
+                    <div class="bg-gray-50 p-6 rounded-xl border border-gray-200">
+                        <h4 class="font-bold text-lg mb-2 text-[#2A9D8F]">과학 기술에의 응용</h4>
+                        <p class="text-sm text-gray-600">색상 원리에 대한 이해는 새로운 안료 개발, 디스플레이 기술(OLED), 광학 필터, 레이저, 태양 전지 등 다양한 첨단 기술의 기초가 됩니다. 재료의 분자 구조를 조절하여 원하는 색이나 광학적 특성을 구현할 수 있습니다.</p>
+                    </div>
+                    <div class="bg-gray-50 p-6 rounded-xl border border-gray-200">
+                        <h4 class="font-bold text-lg mb-2 text-[#E9C46A]">자연에 대한 통찰</h4>
+                        <p class="text-sm text-gray-600">식물이 녹색인 이유(광합성), 가을 단풍의 원리, 동물의 보호색 등 자연계의 다양한 생명 현상 속에 숨겨진 물리적, 화학적 원리를 이해하는 열쇠가 됩니다. 빛과 물질의 상호작용은 생명 유지의 핵심입니다.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="bg-gray-800 text-white py-6">
+        <div class="container mx-auto px-6 text-center text-sm">
+            <p>&copy; 2025 Interactive Science Explorer. All Rights Reserved.</p>
+            <p class="text-gray-400 mt-1">본 콘텐츠는 제공된 보고서를 기반으로 제작된 교육용 애플리케이션입니다.</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+
+            const contentData = {
+                apple: {
+                    wave: `
+                        <p>사과가 빨갛게 보이는 것은 백색광(모든 색의 빛이 섞인 빛)이 사과에 비쳤을 때, 사과 표면이 <strong>빨간색 파장의 빛은 반사</strong>하고 나머지 색(파랑, 초록 등)의 빛은 <strong>흡수</strong>하기 때문입니다.</p>
+                        <p>우리 눈은 표면에서 반사된 빨간색 빛을 감지하여 뇌로 전달하고, 우리는 이를 '빨간색'으로 인지합니다. 물체의 색은 이처럼 빛의 선택적 반사와 흡수에 의해 결정됩니다.</p>
+                    `,
+                    quantum: `
+                        <p>사과 껍질에 포함된 '안토시아닌'이라는 분자는 특정 <strong>에너지 준위</strong> 구조를 가집니다. 이 구조는 파란색이나 초록색 빛에 해당하는 에너지를 가진 <strong>광자(photon)는 흡수</strong>하기에 알맞습니다.</p>
+                        <p>광자를 흡수한 전자는 더 높은 에너지 상태로 '들떴다가' 열에너지 등으로 에너지를 잃습니다. 반면, <strong>빨간색 빛의 광자는 에너지가 맞지 않아 흡수되지 못하고 그대로 반사</strong>됩니다. 이 반사된 광자가 우리 눈에 들어와 색으로 인식됩니다.</p>
+                    `
+                },
+                leaf: {
+                    wave: `
+                        <p>나뭇잎이 초록색으로 보이는 것은 잎 속의 엽록소가 백색광 중 <strong>초록색 파장의 빛을 주로 반사</strong>하고, 빨간색과 파란색 계열의 빛은 대부분 <strong>흡수</strong>하기 때문입니다.</p>
+                        <p>흡수된 빛은 광합성에 사용되며, 반사된 초록색 빛이 우리 눈에 도달하여 나뭇잎을 초록색으로 인식하게 만듭니다. 가을이 되어 엽록소가 파괴되면 다른 색소들이 드러나 단풍이 듭니다.</p>
+                    `,
+                    quantum: `
+                        <p>나뭇잎의 '엽록소' 분자는 광합성을 위해 특정 에너지의 <strong>광자</strong>를 효율적으로 흡수하도록 설계되었습니다. 이 분자의 전자들은 <strong>빨간색과 파란색 광자의 에너지</strong>와 정확히 일치하는 에너지 준위 차이를 가지고 있습니다.</p>
+                        <p>따라서 이 광자들은 흡수되어 광합성 에너지로 전환됩니다. 반면 <strong>초록색 광자는 에너지가 맞지 않아 흡수되지 않고 반사</strong>되어 우리 눈에 보이게 됩니다.</p>
+                    `
+                },
+                cloud: {
+                    wave: `
+                        <p>구름이 하얗게 보이는 것은 '산란' 현상 때문입니다. 구름을 이루는 미세한 물방울들은 태양광의 <strong>모든 파장의 빛(빨강, 초록, 파랑 등)을 거의 동일하게 모든 방향으로 흩어버립니다(미 산란, Mie Scattering).</strong></p>
+                        <p>모든 색의 빛이 뒤섞여 우리 눈에 들어오기 때문에, 빛의 3원색이 합쳐지면 흰색이 되는 원리에 따라 구름이 하얗게 보입니다. 먹구름은 구름이 너무 두꺼워 빛이 투과하지 못하고 대부분 흡수/차단되기 때문에 어둡게 보이는 것입니다.</p>
+                    `,
+                    quantum: `
+                        <p>구름의 물방울은 단일 원자나 분자보다 훨씬 크기 때문에, 특정 에너지의 <strong>광자</strong>만을 선택적으로 흡수하는 뚜렷한 에너지 준위가 없습니다. 대신, 물방울 내부의 수많은 분자들과 광자들이 복잡하게 상호작용합니다.</p>
+                        <p>결과적으로, 대부분의 광자들은 흡수되지 않고 물방울 표면이나 내부에서 튕겨져 나오거나 방향이 바뀝니다. 이 과정이 <strong>모든 에너지(색)의 광자에게 거의 무작위적으로 일어나기 때문에</strong>, 결국 모든 색의 광자가 섞여서 우리 눈에 도달하여 흰색으로 보이게 됩니다.</p>
+                    `
+                },
+                fluorescence: {
+                    wave: `
+                        <p>형광 현상을 파동론만으로 설명하기는 매우 어렵습니다. 빛의 파장이 흡수된 후 다른 파장으로 바뀌어 방출되는 현상은, 파동이 물질과 상호작용하며 그 특성(파장) 자체가 변환되는 과정을 설명할 명확한 메커니즘이 없기 때문입니다. 이는 고전 파동론의 한계를 보여주는 대표적인 사례입니다.</p>
+                    `,
+                    quantum: `
+                        <div class="flex flex-col md:flex-row items-center gap-4">
+                            <div class="flex-shrink-0">
+                               <div class="atom-container">
+                                    <div class="nucleus"></div>
+                                    <div class="orbit orbit1"><div class="electron"></div></div>
+                                    <div class="orbit orbit2"><div class="electron"></div></div>
+                                    <div class="photon-in"></div>
+                                    <div class="photon-out"></div>
+                                </div>
+                            </div>
+                            <div class="flex-grow">
+                                <p>형광 물질은 보이지 않는 <strong>자외선(높은 에너지) 광자를 흡수</strong>합니다. 이 에너지를 받은 전자는 매우 높은 에너지 준위로 '양자 도약'합니다.</p>
+                                <p>들뜬 전자는 즉시 빛을 방출하지 않고, 진동이나 내부 변환을 통해 <strong>에너지의 일부를 열로 잃어버리며</strong> 약간 더 안정적인 들뜬 상태로 내려옵니다.</p>
+                                <p>마지막으로, 이 낮은 들뜬 상태에서 바닥 상태로 떨어지면서, 흡수했던 에너지보다 작아진 만큼의 에너지를 가진 <strong>새로운 광자를 방출</strong>합니다. 이 광자는 에너지가 낮아졌으므로(파장이 길어졌으므로) 우리 눈에 보이는 가시광선(예: 밝은 노란색, 분홍색)이 됩니다.</p>
+                            </div>
+                        </div>
+                    `
+                }
+            };
+
+            const waveContent = document.getElementById('wave-content');
+            const quantumContent = document.getElementById('quantum-content');
+            const exampleBtns = document.querySelectorAll('.example-btn');
+
+            function updateContent(example) {
+                waveContent.style.opacity = 0;
+                quantumContent.style.opacity = 0;
+                
+                setTimeout(() => {
+                    waveContent.innerHTML = contentData[example].wave;
+                    quantumContent.innerHTML = contentData[example].quantum;
+                    waveContent.style.opacity = 1;
+                    quantumContent.style.opacity = 1;
+                }, 500);
+            }
+
+            exampleBtns.forEach(btn => {
+                btn.addEventListener('click', () => {
+                    exampleBtns.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    const example = btn.dataset.example;
+                    updateContent(example);
+                });
+            });
+
+            updateContent('apple');
+
+            const spectrumSlider = document.getElementById('spectrum-slider');
+            const spectrumDisplay = document.getElementById('spectrum-display');
+            const colorNameEl = document.getElementById('color-name');
+            const wavelengthEl = document.getElementById('wavelength-value');
+            const frequencyEl = document.getElementById('frequency-value');
+            const energyEl = document.getElementById('energy-value');
+            
+            const spectrumData = [
+                { wl: 380, color: '보라색', hex: '#8F00FF' },
+                { wl: 450, color: '파랑', hex: '#0000FF' },
+                { wl: 495, color: '초록', hex: '#00FF00' },
+                { wl: 570, color: '노랑', hex: '#FFFF00' },
+                { wl: 590, color: '주황', hex: '#FFA500' },
+                { wl: 630, color: '빨강', hex: '#FF0000' },
+                { wl: 750, color: '빨강', hex: '#FF0000' }
+            ];
+
+            function updateSpectrum(wavelength) {
+                const c = 299792458; 
+                const h = 6.62607015e-34; 
+                const e = 1.602176634e-19; 
+
+                const frequency = (c / (wavelength * 1e-9)) / 1e12; 
+                const energy = (h * (c / (wavelength * 1e-9))) / e;
+
+                let colorInfo = spectrumData.find(d => wavelength <= d.wl) || spectrumData[spectrumData.length - 1];
+                let colorHex = colorInfo.hex;
+                
+                spectrumDisplay.style.backgroundColor = colorHex;
+                colorNameEl.textContent = colorInfo.color;
+                wavelengthEl.textContent = `${Math.round(wavelength)} nm`;
+                frequencyEl.textContent = `${frequency.toFixed(0)} THz`;
+                energyEl.textContent = `${energy.toFixed(2)} eV`;
+            }
+
+            spectrumSlider.addEventListener('input', (e) => {
+                updateSpectrum(e.target.value);
+            });
+            updateSpectrum(spectrumSlider.value);
+
+
+            const ctx = document.getElementById('energyChart').getContext('2d');
+            const energyChart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: ['빨강 (1.6-2.0 eV)', '주황 (2.0-2.1 eV)', '노랑 (2.1-2.17 eV)', '초록 (2.17-2.5 eV)', '파랑 (2.5-2.75 eV)', '보라 (2.75-3.26 eV)'],
+                    datasets: [{
+                        label: '평균 광자 에너지 (eV)',
+                        data: [1.8, 2.05, 2.14, 2.34, 2.63, 3.0],
+                        backgroundColor: [
+                            'rgba(255, 99, 132, 0.6)',
+                            'rgba(255, 159, 64, 0.6)',
+                            'rgba(255, 205, 86, 0.6)',
+                            'rgba(75, 192, 192, 0.6)',
+                            'rgba(54, 162, 235, 0.6)',
+                            'rgba(153, 102, 255, 0.6)'
+                        ],
+                        borderColor: [
+                            'rgb(255, 99, 132)',
+                            'rgb(255, 159, 64)',
+                            'rgb(255, 205, 86)',
+                            'rgb(75, 192, 192)',
+                            'rgb(54, 162, 235)',
+                            'rgb(153, 102, 255)'
+                        ],
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: '색상별 광자 에너지 크기 비교',
+                            font: { size: 16 }
+                        },
+                        legend: { display: false }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: '에너지 (eV)'
+                            }
+                        }
+                    }
+                }
+            });
+            
+            const mobileMenuButton = document.getElementById('mobile-menu-button');
+            const mobileMenu = document.getElementById('mobile-menu');
+            mobileMenuButton.addEventListener('click', () => {
+                mobileMenu.classList.toggle('hidden');
+            });
+            
+            const navLinks = document.querySelectorAll('.nav-link, #mobile-menu a');
+            const sections = document.querySelectorAll('main section');
+
+            navLinks.forEach(link => {
+                link.addEventListener('click', () => {
+                    if (mobileMenu.classList.contains('hidden') === false) {
+                        mobileMenu.classList.add('hidden');
+                    }
+                });
+            });
+
+            window.addEventListener('scroll', () => {
+                let current = '';
+                sections.forEach(section => {
+                    const sectionTop = section.offsetTop;
+                    if (pageYOffset >= sectionTop - 60) {
+                        current = section.getAttribute('id');
+                    }
+                });
+
+                navLinks.forEach(link => {
+                    link.classList.remove('active');
+                    if (link.getAttribute('href').includes(current)) {
+                        link.classList.add('active');
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
