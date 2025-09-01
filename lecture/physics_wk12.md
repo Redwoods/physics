@@ -106,7 +106,8 @@
 
 - 물질파 현상을 설명하는 파동방정식  
 - 물질파는 파동함수로 표현됨. -> 확률적 해석 (코펜하겐 해석)  
-- 파동의 에너지는 불연속적인 값으로 양자화된다.  
+- 파동의 에너지는 불연속적인 값으로 양자화된다.
+  
   ![일차원 입자의 파동 함수](https://upload.wikimedia.org/wikipedia/commons/8/8f/InfiniteSquareWellAnimation.gif)  
    (source: https://upload.wikimedia.org/wikipedia/commons/8/8f/InfiniteSquareWellAnimation.gif)  
 
