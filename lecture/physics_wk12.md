@@ -107,8 +107,8 @@
 - 물질파 현상을 설명하는 파동방정식  
 - 물질파는 파동함수로 표현됨. -> 확률적 해석 (코펜하겐 해석)  
 - 파동의 에너지는 불연속적인 값으로 양자화된다.  
-  ![슈뢰딩거 파동방정식](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkGvRe7vDYdUIxjZlK4K4zhUGdq7YMcaJgV2o4th898ui2mLL5g)  
-   (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkGvRe7vDYdUIxjZlK4K4zhUGdq7YMcaJgV2o4th898ui2mLL5g)  
+  ![일차원 입자의 파동 함수](https://upload.wikimedia.org/wikipedia/commons/8/8f/InfiniteSquareWellAnimation.gif)  
+   (source: https://upload.wikimedia.org/wikipedia/commons/8/8f/InfiniteSquareWellAnimation.gif)  
 
 - link:파동함수 http://cfile202.uf.daum.net/R400x0/2579524957A6C9E732EA0A  
 
