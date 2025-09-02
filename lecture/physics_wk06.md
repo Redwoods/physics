@@ -195,6 +195,11 @@
 
 ***
 
+![우주의 스펙트럼](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Y-BgFOxPfDxBrEINb95kJQ.jpeg)  
+(source: https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Y-BgFOxPfDxBrEINb95kJQ.jpeg)  
+
+***
+
 ### ● 전자기학-전자기파에 대한 토론 
  
 - ## 주제 1. 전자기파 스펙트럼의 이해
