@@ -197,6 +197,7 @@
 
 ![우주의 스펙트럼](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Y-BgFOxPfDxBrEINb95kJQ.jpeg)  
 (source: https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Y-BgFOxPfDxBrEINb95kJQ.jpeg)  
+(Credit: X-ray: NASA/CXC/Univ. of Hong Kong/S. Zhang et al.; Radio: ATNF/CSIRO/ATCA; H-alpha: UK STFC/Royal Observatory Edinburgh; Image Processing: NASA/CXC/SAO/N. Wolk)  
 
 ***
 
