@@ -2,9 +2,9 @@
 
 ---
 
-# Physics world
+# Physics world  
 
-“What I cannot create, I do not understand.”
+“What I cannot create, I do not understand.”  
 — Richard Feynman  
 
 “What I cannot understand, I do not utilize.”
@@ -85,3 +85,4 @@
 ---
 - > [Youtube: 시간이란???](https://www.youtube.com/watch?v=R2U-9QFmiP8)    
 - > [Youtube: 양자역학, 양자 얽힘, 시간](https://www.youtube.com/watch?v=BCj_uRWUc6g0)
+
