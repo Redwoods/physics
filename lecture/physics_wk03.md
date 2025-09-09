@@ -44,7 +44,7 @@
 > 속력, 속도와 가속도 / 질량, 관성, 무게 / 마찰력 / 운동량 / 일, 에너지와 일률 / 운동에너지와 위치에너지 / 탄성충돌과 비탄성충돌 / 뉴턴의운동법칙 / (식과 운동 그래프) / 궤도 / 케플러의 행성 운동 법칙 / 뉴턴의 인력 / 각운동량 / 구심력과 원심력 / 코리올리효과
 
 - 주제  1 사과의 떨어짐과 달의 공전
-> [Youtube: 사과의 떨어짐과 달의 공전](https://www.youtube.com/watch?v=Tkb2OMgim14)
+> [Youtube: 사과의 떨어짐과 달의 공전](https://www.youtube.com/watch?v=MTjPIIIyztE)  
 
 > [Youtube: 뉴턴과 만유인력](https://www.youtube.com/watch?v=ozaK5PbqDBk)  
 
@@ -261,3 +261,4 @@ $PV =  n N_A k_B T = n R T,  (N = n N_A, R = N_A k_B)$
 # > [Redwood's GitHub](https://github.com/redwoods/physics)
 
 > https://github.com/redwoods/physics
+
