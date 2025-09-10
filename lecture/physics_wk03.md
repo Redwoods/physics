@@ -165,8 +165,8 @@ $PV =  n N_A k_B T = n R T,  (N = n N_A, R = N_A k_B)$
   (source: https://file.mk.co.kr/mkde_7/N0/2020/09/20200929_4375167_1601365020.jpg)  
   
 - ### 커브볼: 마그누스 효과  
-  ![커브볼](http://tinyfactory21.cafe24.com/wp/wp-content/uploads/2016/03/Image1.png)  
-  (SOURCE: http://tinyfactory21.cafe24.com/wp/wp-content/uploads/2016/03/Image1.png)  
+  ![커브볼](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkA7AOtB3ZL4XtYUaBcsBgRCBhtKxcvrG_4Q&s)  
+  (SOURCE: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkA7AOtB3ZL4XtYUaBcsBgRCBhtKxcvrG_4Q&s)  
   
 - 주제 2 야구에서 공의 회전에 따른 구종과 유체역학  
 > ## [Youtube: 마그누스 효과 = 공의 회전에 따른 구종과 유체역학](https://www.youtube.com/watch?v=0rUvdUXunNo)  
@@ -261,4 +261,5 @@ $PV =  n N_A k_B T = n R T,  (N = n N_A, R = N_A k_B)$
 # > [Redwood's GitHub](https://github.com/redwoods/physics)
 
 > https://github.com/redwoods/physics
+
 
