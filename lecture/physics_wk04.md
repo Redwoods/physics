@@ -60,13 +60,13 @@
 
 >> 위의 그림에서 윗 그림이 횡파, 아랫 그림이 종파입니다. 
 
-> [횡파와 종파 발생 실험 - Youtube](https://www.youtube.com/watch?v=9fTCqqdooLg)  
-(source: https://www.youtube.com/watch?v=9fTCqqdooLg)
+> ### [횡파와 종파 발생 실험 - Youtube](https://www.youtube.com/watch?v=9fTCqqdooLg)  
+(source: https://www.youtube.com/watch?v=9fTCqqdooLg)  
 
 
 ---
 
-- ## 동영상 토론 1. 지진파의 이해
+- ## 동영상 토론 1. 지진파의 이해  
 > ## [Youtube: 지진파의 발생](https://www.youtube.com/watch?v=IsQoZyhzB_Q) 
 
 ---
