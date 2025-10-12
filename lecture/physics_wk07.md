@@ -115,8 +115,8 @@
 
 - ## 제2법칙:엔트로피 증가, 열은 고온부에서 저온부로 이동
 
-![제2법칙:엔트로피 증가](https://hvackkw.com/wp-content/uploads/2023/05/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C6.png)  
-(source: https://hvackkw.com/wp-content/uploads/2023/05/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C6.png)  
+![제2법칙:엔트로피 증가](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fc4bu5a%2FbtqFmtIH652%2FAAAAAAAAAAAAAAAAAAAAABjVZmj3LHIHK6RBXU-hl4nGi8zB5N8QcWzdVQlfFHX5%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1761922799%26allow_ip%3D%26allow_referer%3D%26signature%3DAU2O%252BTVNh5PyDWJ35gaaiVPkHZQ%253D)  
+(source: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fc4bu5a%2FbtqFmtIH652%2FAAAAAAAAAAAAAAAAAAAAABjVZmj3LHIHK6RBXU-hl4nGi8zB5N8QcWzdVQlfFHX5%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1761922799%26allow_ip%3D%26allow_referer%3D%26signature%3DAU2O%252BTVNh5PyDWJ35gaaiVPkHZQ%253D)  
 
 ![제2법칙:엔트로피 증가](https://t1.daumcdn.net/cfile/tistory/234C6C4758E3584719)  
 (source: https://t1.daumcdn.net/cfile/tistory/234C6C4758E3584719)  
