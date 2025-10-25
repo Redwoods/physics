@@ -169,7 +169,9 @@ link: https://m.blog.naver.com/PostView.nhn?blogId=winzone&logNo=220531162710&pr
   
   > [Youtube: 핵무기의 원리](https://www.youtube.com/watch?v=gU4xSoGBmWI&t=32s)   
   
-  > [Youtube: 핵분열과 핵융합](https://www.youtube.com/watch?v=jBw7NTjCicE)   
+  > [Youtube: 핵분열과 핵융합](https://www.youtube.com/watch?v=jBw7NTjCicE)
+  
+  > ### [Youtube: AI와 원자력 그리고 물](https://www.youtube.com/watch?v=_NL3e0KkGfA)  
 
 ---
 
