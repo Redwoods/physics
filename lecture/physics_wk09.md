@@ -133,7 +133,7 @@
 
 ---
 
-![방출스펙트럼과 흡수스펙트럼_예](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_GOgcLEJ4Jj4pcEvqwxKLrhDePyIBGu0F3mOtEh4jIjgihb3)  
+![방출스펙트럼과 흡수스펙트럼_예](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_GOgcLEJ4Jj4pcEvqwxKLrhDePyIBGu0F3mOtEh4jIjgihb3)    
 (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_GOgcLEJ4Jj4pcEvqwxKLrhDePyIBGu0F3mOtEh4jIjgihb3)  
 
 ---
