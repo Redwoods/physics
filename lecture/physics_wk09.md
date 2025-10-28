@@ -126,15 +126,11 @@
 > ### 방출스펙트럼과 흡수스펙트럼
 
 - ## 특정 파정의 빛이 흡수 또는 방출되는 스펙트럼  
-![방출스펙트럼과 흡수스펙트럼](https://t1.daumcdn.net/cfile/tistory/99A4603A5CB9276610)  
-(source: https://t1.daumcdn.net/cfile/tistory/99A4603A5CB9276610)  
+![방출스펙트럼과 흡수스펙트럼_예](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_GOgcLEJ4Jj4pcEvqwxKLrhDePyIBGu0F3mOtEh4jIjgihb3)    
+(source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_GOgcLEJ4Jj4pcEvqwxKLrhDePyIBGu0F3mOtEh4jIjgihb3)   
 
 ## [Youtube: 보어의 원자 구조와 흡수/방출 스펙트럼 ](https://www.youtube.com/watch?v=u9zQJ8hNnwI)  
 
----
-
-![방출스펙트럼과 흡수스펙트럼_예](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_GOgcLEJ4Jj4pcEvqwxKLrhDePyIBGu0F3mOtEh4jIjgihb3)    
-(source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_GOgcLEJ4Jj4pcEvqwxKLrhDePyIBGu0F3mOtEh4jIjgihb3)  
 
 ---
 > ### 보어의 원자모형
