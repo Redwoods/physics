@@ -55,8 +55,8 @@
 - 전하의 이동을 전류 (실제로는 음전하를 가진 전자들의 이동)  
 - 전자는 자전으로 자연에서 가장 작은 자석  
 - 전류의 변화는 주위에 자기장을 만든다.  
-  ![전기](https://t1.daumcdn.net/cfile/tistory/24216E385893E6432F)  
-  (source: https://t1.daumcdn.net/cfile/tistory/24216E385893E6432F)  
+  ![전기](https://cdn.it.chosun.com/news/photo/201701/2017010785000_1.jpg)  
+  (source: https://cdn.it.chosun.com/news/photo/201701/2017010785000_1.jpg)  
 
 ---
 
@@ -71,7 +71,7 @@
 ![전류](https://slidesplayer.org/slide/11219411/60/images/4/%EC%A0%84%EB%A5%98%EC%9D%98+%ED%9D%90%EB%A6%84%EA%B3%BC+%EC%A0%84%EC%9E%90%EC%9D%98+%EC%9D%B4%EB%8F%99.jpg)  
 (source: https://slidesplayer.org/slide/11219411/60/images/4/%EC%A0%84%EB%A5%98%EC%9D%98+%ED%9D%90%EB%A6%84%EA%B3%BC+%EC%A0%84%EC%9E%90%EC%9D%98+%EC%9D%B4%EB%8F%99.jpg)  
 
-- [link: 전류 시뮬레이션](https://javalab.org/electric_current/)  
+- ### [link: 전류 시뮬레이션](https://javalab.org/electric_current/)  
 
 > ### 전위차  
 
