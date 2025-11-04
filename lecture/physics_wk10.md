@@ -75,8 +75,8 @@
 
 > ### 전위차  
 
-![전위차](https://t1.daumcdn.net/cfile/tistory/24029D4B585083FD25)  
- (source: https://t1.daumcdn.net/cfile/tistory/24029D4B585083FD25)  
+![전위차](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MTJfMzMg/MDAxNzQ5Njk3MzUzNjI2.SAiqvnPpbuKd_lVxY51eIMLvNd-Hup4g4fzs32HFz00g.QC_TVoHmdBx1iZ8m5C0167Awdfnr2Y0I_cKrYlHwMlIg.JPEG/SE-79380e21-4739-11f0-a89d-7b5bbfd70115.jpg?type=w800)  
+ (source: https://mblogthumb-phinf.pstatic.net/MjAyNTA2MTJfMzMg/MDAxNzQ5Njk3MzUzNjI2.SAiqvnPpbuKd_lVxY51eIMLvNd-Hup4g4fzs32HFz00g.QC_TVoHmdBx1iZ8m5C0167Awdfnr2Y0I_cKrYlHwMlIg.JPEG/SE-79380e21-4739-11f0-a89d-7b5bbfd70115.jpg?type=w800)  
 
 ---
 [Youtube: 정전기](https://www.youtube.com/watch?v=2MVAuROgQTM)  
