@@ -130,8 +130,8 @@
   (source: https://t1.daumcdn.net/cfile/tistory/2263423F55AF04F016)  
 
 - ### 앙페르의 법칙: 전류가 흐르는 도선 주위에 자기장이 발생하며 두 도선 사이에 자기력이 작용한다.  
-  ![앙페르의 법칙](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpiGXW_JUlOKQMfqAYrKARauL96wxNB2U0oMHNx2lJ2Kaubdn)  
-  (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpiGXW_JUlOKQMfqAYrKARauL96wxNB2U0oMHNx2lJ2Kaubdn)  
+  ![앙페르의 법칙](https://i.ytimg.com/vi/7PLl_QaHtDo/maxresdefault.jpg)  
+  (source: https://i.ytimg.com/vi/7PLl_QaHtDo/maxresdefault.jpg)  
 
 ---
 
