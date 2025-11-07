@@ -80,7 +80,7 @@
 (source: https://www.kaeri.re.kr/resources/images/kaeri/contents/sub04/sub04_0503_img01_2.jpg)
 
 ---
-- ## [Youtube: 방사능 붕괴](https://www.youtube.com/watch?v=0AKmZ-acxUg)  
+- ## [Youtube: 방사능, 방사선](https://www.youtube.com/watch?v=lkd5Ur7AYXU)  
 
 ---
 
@@ -155,10 +155,10 @@ link: https://m.blog.naver.com/PostView.nhn?blogId=winzone&logNo=220531162710&pr
 
 - ## 주제 1. 방사능 붕괴
 
+  > [Youtube: 방사능, 방사선](https://www.youtube.com/watch?v=lkd5Ur7AYXU)
+  
   > [Youtube: 방사능 붕괴](https://www.youtube.com/watch?v=0AKmZ-acxUg)
   
-  > [Youtube: 방사선은 얼마나 위험할까?](https://www.youtube.com/watch?v=doF8bgw89Lg)  
-
 - ## 주제 2. 중성미자란?
 
   > [Youtube: 중성미자](https://www.youtube.com/watch?v=h0Eo6mdyPak)
@@ -171,7 +171,7 @@ link: https://m.blog.naver.com/PostView.nhn?blogId=winzone&logNo=220531162710&pr
   
   > [Youtube: 핵분열과 핵융합](https://www.youtube.com/watch?v=jBw7NTjCicE)
   
-  > ### [Youtube: AI와 원자력 그리고 물](https://www.youtube.com/watch?v=_NL3e0KkGfA)  
+* ## [Youtube: AI와 원자력 그리고 물](https://www.youtube.com/watch?v=_NL3e0KkGfA)   
 
 ---
 
