@@ -216,6 +216,8 @@
     
 - [Youtube: 우주의 팽창과 암흑에너지](https://www.youtube.com/watch?v=uHrSKByv104)
 
+- [Youtube: 우주의 팽창: 가속?, 감속??](https://www.youtube.com/watch?v=1-Zc1f13Zsw)  
+
 ---
 
 ### ● 상대성이론과 우주론에 대한 토론
