@@ -170,8 +170,8 @@
 
 - ### 신체의 주요 구성 요소인 물에 있는 수소 원자핵인 양성자의 자기모멘트 정렬의 변화를 이용한 3차원 신체 내부 촬영 방법
 
-  ![자기공명 영상](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhukgYGfoxVzH6ofxU8z0tj6VVGckD5eemWTYTuvn2oxsu7hz)  
-  (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhukgYGfoxVzH6ofxU8z0tj6VVGckD5eemWTYTuvn2oxsu7hz)  
+  ![자기공명 영상](https://previews.123rf.com/images/sermax55/sermax551610/sermax55161000087/67644326-magnetic-resonance-imaging-of-the-brain-with-no-visible-abnormalities-mri-in-different-views.jpg)  
+  (source: https://previews.123rf.com/images/sermax55/sermax551610/sermax55161000087/67644326-magnetic-resonance-imaging-of-the-brain-with-no-visible-abnormalities-mri-in-different-views.jpg)  
 
 ---
 
