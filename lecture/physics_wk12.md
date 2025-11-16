@@ -85,7 +85,7 @@
 
 ---
 
-> ### [Youtube: 초등 양자역학-파동과 입자의 이중성](https://www.youtube.com/watch?v=1eXPqLyji9Y)
+> ### [Youtube: 초등 양자역학-파동과 입자의 이중성](https://www.youtube.com/watch?v=1eXPqLyji9Y)  
 
 > [Youtube: 파동-입자 이중성 => No service](https://www.youtube.com/watch?v=a4LsdqwZEaU)  
 
@@ -205,28 +205,22 @@
 
 - ## 주제 1. 파동-입자 이중성
 
-  > [Youtube: 파동-입자 이중성](https://www.youtube.com/watch?v=a4LsdqwZEaU)
+  > ### [Youtube: 초등 양자역학-파동과 입자의 이중성](https://www.youtube.com/watch?v=1eXPqLyji9Y)  
 
 - ## 주제 2. 양자역학과 불확정성원리
 
-  > [Youtube: 불확정성원리](https://www.youtube.com/watch?v=0MT1rRvXcVU)
-
-  > [Youtube: 슈레딩거의 고양이](https://www.youtube.com/watch?v=39pGNND9ue4)
-
 * ## 주제 3. 양자 계산과 암호
-  > [Youtube: 양자 계산과 암호](https://www.youtube.com/watch?v=QlbKFqZjwEQ)  
   > [Youtube: 양자 우월성 (quantum supremacy, 2019)](https://www.youtube.com/watch?v=Vo6ix2FZrVE)
 
 ---
 
 ### ● 양자물리 한 방에 정리(???)
  
-  > [Youtube: 양자역학 한 방 정리! [안될과학-긴급과학]](https://www.youtube.com/watch?v=VYWryVDQWO0&t=229s)  
-
-  > [Youtube: 양자역학, 양자 얽힘, 시간](https://www.youtube.com/watch?v=BCj_uRWUc6g0)  
+  > ### [Youtube: 양자역학 한 방 정리! [안될과학-긴급과학]](https://www.youtube.com/watch?v=VYWryVDQWO0&t=229s)
 
   > ### [Youtube: Physics of AI](https://www.youtube.com/watch?v=dRkehLL19Wo)  
 
+  > [Youtube: 양자역학, 양자 얽힘, 시간](https://www.youtube.com/watch?v=BCj_uRWUc6g0)  
 
 ---
 
