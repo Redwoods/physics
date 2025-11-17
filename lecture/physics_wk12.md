@@ -98,7 +98,7 @@
 ![드브로이의 물질파 가설](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPV2ctfw64qsTJGwXjiCmiE7P2jymDfpxRJQ3CD6O7IVfPweNV)  
  (source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPV2ctfw64qsTJGwXjiCmiE7P2jymDfpxRJQ3CD6O7IVfPweNV)  
 
-- [link: 물질파 전산 시늉](https://javalab.org/matter_wave/)  
+- ### [link: 물질파 전산 시늉](https://javalab.org/matter_wave/)  
 
 ---
 
