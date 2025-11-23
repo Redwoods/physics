@@ -82,8 +82,8 @@
 - 선형 또는 원형의 입자 가속 장치  
 - 새로운 물질 또는 기본 입자 간 힘을 매개하는 입자 연구  
 
-![입자가속기](https://pds.joins.com/news/component/htmlphoto_mmdata/201310/28/htm_20131028117573007310.jpg)  
-(source: https://pds.joins.com/news/component/htmlphoto_mmdata/201310/28/htm_20131028117573007310.jpg)
+![입자가속기](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/CERN_Aerial_View.jpg/1200px-CERN_Aerial_View.jpg)  
+(source: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/CERN_Aerial_View.jpg/1200px-CERN_Aerial_View.jpg)  
 
 [link: LHC at CERN] http://image.chosun.com/sitedata/image/201605/27/2016052701927_0.jpg
 
