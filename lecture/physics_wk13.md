@@ -59,10 +59,7 @@
   ![입자물리학](https://file.mk.co.kr/meet/neds/2008/09/image_readtop_2008_553785_122090070897619.jpg)  
   (source: https://file.mk.co.kr/meet/neds/2008/09/image_readtop_2008_553785_122090070897619.jpg)  
 
-  ![입자물리학2](https://images.slidesplayer.org/40/11048383/slides/slide_6.jpg)  
-  (source: https://images.slidesplayer.org/40/11048383/slides/slide_6.jpg)
-
----
+---  
 
 > ### 표준 모형 (Standard model)
 
