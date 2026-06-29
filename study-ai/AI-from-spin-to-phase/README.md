@@ -1,1 +1,1 @@
-# AI for spin system to coupled oscillators
+# AI from spin system to coupled oscillators
