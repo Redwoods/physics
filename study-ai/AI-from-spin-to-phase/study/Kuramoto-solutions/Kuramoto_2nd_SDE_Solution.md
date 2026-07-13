@@ -81,7 +81,7 @@ $$v_i(t + \Delta t) = v_i(t) + \frac{1}{m} \left[ \omega_i - \alpha v_i(t) + \fr
    
 3. **RK45 적분 (가상 결정론적 업데이트)** :
    
-   표준 Dormand-Prince 계수 행렬($a_{ij}, b_i$)을 적용하여 한 단계 진행된 가상의 결정론적 최종 상태인 $\vec{\theta}_{new}, \vec{v}_{new}$를 유도합니다.
+   표준 Dormand-Prince 계수 행렬($a_{ij}, b_i$)을 적용하여 한 단계 진행된 가상의 결정론적 최종 상태인 $\vec{\theta}_{new}$, $\vec{v}_{new}$를 유도합니다.
    
 4. **오차 노름 검증 및 보폭 $dt$ 가감** :
    
