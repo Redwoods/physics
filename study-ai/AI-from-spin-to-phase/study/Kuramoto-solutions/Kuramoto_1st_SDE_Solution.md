@@ -25,7 +25,7 @@ $$d\theta_i(t) = \left[ \omega_i + \frac{K}{N} \sum_{j=1}^{N} A_{ij} \sin(\theta
 
 ## 2. 평균장 이론과 단순화 (Mean-field Approximation)
 
-1차 쿠라모토 모델은 시스템 전체의 동기화 정도를 정량화하기 위해 **질서 매개변수(Order Parameter, $r$)**와 집단의 평균 위상($\psi$)을 다음과 같이 정의합니다.
+1차 쿠라모토 모델은 시스템 전체의 동기화 정도를 정량화하기 위해 **질서 매개변수(Order Parameter, $r$)** 와 집단의 평균 위상($\psi$)을 다음과 같이 정의합니다.
 
 $$r(t) e^{i \psi(t)} = \frac{1}{N} \sum_{j=1}^{N} e^{i \theta_j(t)}$$
 
