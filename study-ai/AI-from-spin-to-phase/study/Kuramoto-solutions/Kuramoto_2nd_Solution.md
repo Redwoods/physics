@@ -27,12 +27,15 @@ $$m \ddot{\theta}_i(t) + \alpha \dot{\theta}_i(t) = \omega_i + \frac{K}{N} \sum_
 컴퓨터 상에서 수치 연산을 효과적으로 수행하기 위해 속도 상태 변수 $v_i(t) = \dot{\theta}_i(t)$를 도입하여 2계 ODE를 연립 1계 ODE 시스템으로 분리합니다.
 
 $$\frac{d\theta_i(t)}{dt} = v_i(t)$$
+
 $$\frac{dv_i(t)}{dt} = \frac{1}{m} \left[ \omega_i - \alpha v_i(t) + \frac{K}{N} \sum_{j=1}^{N} A_{ij} \sin(\theta_j(t) - \theta_i(t)) \right]$$
 
 또한, 집단의 평균 흐름을 대변하는 복소 **질서 매개변수(Order Parameter, $r$)**와 집단 평균 위상($\psi$)을 다음과 같이 정의합니다:
+
 $$r(t) e^{i \psi(t)} = \frac{1}{N} \sum_{j=1}^{N} e^{i \theta_j(t)}$$
 
 이를 결합하면 각 오실레이터의 질량 가속 운동은 공유하는 평균장 $r(t)$에만 동기화 힘을 받는 형태로 단순화됩니다:
+
 $$m \ddot{\theta}_i(t) + \alpha \dot{\theta}_i(t) = \omega_i + K r(t) \sin(\psi(t) - \theta_i(t))$$
 
 ---
@@ -47,10 +50,13 @@ $$m \ddot{\phi}_i + \alpha \dot{\phi}_i = \omega_i - \alpha \Omega - K r \sin\ph
 
 ### ① 동기화 진동자 (Phase-locked Oscillators)
 상대 속도와 상대 가속도가 완전히 0이 되어 특정 평형 위상각에 고정되는 오실레이터들입니다 ($\dot{\phi}_i = \ddot{\phi}_i = 0$). 위상 고정 평형 조건식은 다음과 같습니다.
+
 $$\sin\phi_i = \frac{\omega_i - \alpha \Omega}{K r}$$
 
 이 평형 실근이 존재하기 위한 필요충분조건은 고유진동수의 편차가 결합력보다 작아야 함을 의미합니다:
+
 $$|\omega_i - \alpha \Omega| \le K r$$
+
 이때 1차 모델과 달리 2차 모델은 동일 범위 내에 두 개의 평형 상태(안정 노드와 안장점)가 공존하며, $\cos\phi_i > 0$ 을 만족하는 위상 각도만 국소적 안정성(Local stability)을 확보합니다.
 
 ### ② 비동기화 진동자 및 표류 (Drifting Oscillators)
@@ -59,6 +65,7 @@ $$|\omega_i - \alpha \Omega| \le K r$$
 ### ③ 1차 불연속 상전이 및 히스테리시스 이력 현상 (Hysteresis)
 2차 쿠라모토 모델의 가장 핵심적인 수학적·물리적 특성은 1차 모델의 연속 상전이와 달리 **1차 불연속 상전이(1st-order Discontinuous Phase Transition)**와 **히스테리시스(이력 현상)**를 유발한다는 점입니다.
 * **불연속 상전이**: 결합 강도 $K$를 점진적으로 늘릴 때, 동기화 지표 $r$이 0에서 완만하게 상승하지 않고 임계점 $K_c$에 도달하는 순간 갑자기 유한한 동기화 값으로 **불연속적인 점프(Discontinuous Jump)**를 일으킵니다.
+
 * **히스테리시스 루프**: 이미 동기화된 시스템($r > 0$)의 결합도를 다시 약화시킬 때, 결합도가 $K_c$보다 작아지더라도 동기화가 즉시 파괴되지 않고 더 낮은 하한 임계점 $K_c^-$까지 동기화 상태가 잔존합니다. 즉, $K \in [K_c^-, K_c]$ 구간에서 시스템은 과거의 경로에 따라 동기화 상태와 비동기화 상태 중 하나로 결정되는 다중 안정성(Multistability) 및 시간적 이력을 가집니다. 이 관성(질량)에 의한 히스테리시스 특성은 주식 시장에서 정보 반영이 지연되며 급등락 추세가 지속되는 오버슈팅 현상을 설명하는 물리적 근거가 됩니다.
 
 ---
@@ -69,16 +76,24 @@ $$|\omega_i - \alpha \Omega| \le K r$$
 
 ### ① Euler 방법 (1차 연립 적분)
 가장 원초적인 이산화 스텝 기법입니다.
+
 $$\theta_i(t + \Delta t) = \theta_i(t) + v_i(t) \Delta t$$
+
 $$v_i(t + \Delta t) = v_i(t) + \frac{1}{m} \left[ \omega_i - \alpha v_i(t) + \text{coupling}_i(t) \right] \Delta t$$
 
 ### ② Runge-Kutta 4차 방법 (RK4)
 상태 공간 연립 미분 벡터 방정식 $\vec{x}' = \vec{f}(\vec{x}, t)$에 대해 오차 차수 $\mathcal{O}(\Delta t^4)$를 제공하는 표준 수치해석 기법입니다.
+
 $$\vec{k}_1 = \vec{f}(\vec{x}(t), t)$$
+
 $$\vec{k}_2 = \vec{f}\left(\vec{x}(t) + \frac{\Delta t}{2} \vec{k}_1, t + \frac{\Delta t}{2}\right)$$
+
 $$\vec{k}_3 = \vec{f}\left(\vec{x}(t) + \frac{\Delta t}{2} \vec{k}_2, t + \frac{\Delta t}{2}\right)$$
+
 $$\vec{k}_4 = \vec{f}(\vec{x}(t) + \Delta t \vec{k}_3, t + \Delta t)$$
+
 $$\vec{x}(t + \Delta t) = \vec{x}(t) + \frac{\Delta t}{6} (\vec{k}_1 + 2\vec{k}_2 + 2\vec{k}_3 + \vec{k}_4)$$
+
 
 ---
 
