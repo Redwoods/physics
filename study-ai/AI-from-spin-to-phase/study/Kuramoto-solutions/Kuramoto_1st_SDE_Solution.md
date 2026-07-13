@@ -73,12 +73,12 @@ $$\theta_i(t + \Delta t) = \theta_i(t) + \left[ \omega_i + \frac{K}{N} \sum_{j=1
 
 결정론적 동역학 항은 고차 오차 정밀도와 어댑티브 보폭을 제공하는 **Dormand-Prince RK45** 적분기로 가상의 $\theta_{new}$를 유도하고, 수락된 시간 보폭 $dt$에 대해 Langevin 잡음을 더해주는 분할 결합 기법입니다. 
 
-1. **결정론적 궤적 계산**:
-2. 
+1. **결정론적 궤적 계산** :
+
    $$\theta_{new} = \text{RK45\_Deterministic\_Update}(\theta, \omega, dt)$$
-   
-4. **Wiener Step 가산**:
-5. 
+
+2. **Wiener Step 가산** :
+
    수락 마스크가 활성화되면 오차 요건에 맞추어 보정된 $dt$ 크기의 난수 잡음을 갱신된 위상에 가산합니다.
    
    $$\theta(t + dt) = \theta_{new} + \sigma \sqrt{dt} \epsilon, \quad \epsilon \sim \mathcal{N}(0, \mathbf{I})$$
