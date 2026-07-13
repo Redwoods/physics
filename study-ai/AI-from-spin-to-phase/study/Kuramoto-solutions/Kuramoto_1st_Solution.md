@@ -11,6 +11,7 @@
 $$\frac{d\theta_i(t)}{dt} = \omega_i + \frac{K}{N} \sum_{j=1}^{N} A_{ij} \sin(\theta_j(t) - \theta_i(t))$$
 
 이 식에서 각 물리량의 정의는 다음과 같습니다:
+
 * $\theta_i(t)$: 오실레이터 $i$의 위상 (Phase)
 * $\omega_i$: 오실레이터 $i$의 고유 진동수 (Intrinsic Frequency)
 * $K$: 결합 강도 (Coupling strength)
@@ -21,7 +22,7 @@ $$\frac{d\theta_i(t)}{dt} = \omega_i + \frac{K}{N} \sum_{j=1}^{N} A_{ij} \sin(\t
 
 ## 2. 평균장 단순화와 자가일치 조건 (Mean-field Formulation)
 
-결정론적 쿠라모토 모델 역시 집단적인 동기화 정도를 측정하기 위해 복소 **질서 매개변수(Order Parameter, $r$)**와 집단 평균 위상($\psi$)을 다음과 같이 정의합니다.
+결정론적 쿠라모토 모델 역시 집단적인 동기화 정도를 측정하기 위해 복소 **질서 매개변수(Order Parameter, $r$)** 와 집단 평균 위상($\psi$)을 다음과 같이 정의합니다.
 
 $$r(t) e^{i \psi(t)} = \frac{1}{N} \sum_{j=1}^{N} e^{i \theta_j(t)}$$
 
@@ -49,11 +50,15 @@ $$\sin\phi_i = \frac{\omega_i - \Omega}{K r}$$
 
 ### ② 비동기화 표류 진동자 (Drifting Oscillators)
 고유 진동수가 결합력 한계를 초과하여 집단 속도에 결속되지 못하고 독립적으로 계속 표류하는 진동자들입니다.
+
 $$|\omega_i - \Omega| > K r$$
+
 이들은 동기화 상태에 도달하지 못하고 계속 360도 회전하지만, 결합력의 영향으로 인해 특정 위상각 부근을 지날 때 회전 속도가 느려지고 반대쪽에서는 빨라집니다. 정상 상태에서 이 표류 오실레이터들이 임의의 각도 $\phi$에 존재할 정밀 확률 밀도 $n(\phi, \omega)$는 속도 크기에 반비례합니다:
+
 $$n(\phi, \omega) = \frac{C}{|d\phi/dt|} = \frac{\sqrt{(\omega - \Omega)^2 - (Kr)^2}}{2\pi |\omega - \Omega - Kr \sin\phi|}$$
 
 ### ③ 쿠라모토 자가일치 관계식 및 임계값 ($K_c$)
+
 동기화된 진동자들과 표류하는 진동자들의 기여도를 합산하여 복소 질서 매개변수의 자가일치 조건(Self-consistency relation) 적분식을 세우면 다음과 같습니다. 고유 진동수 분포 $g(\omega)$가 우함수(symmetric)이고 단봉(unimodal) 분포일 때 집단 진동수 $\Omega$는 분포의 중심과 일치하고, 질서 매개변수 $r$은 다음 비선형 방정식을 만족합니다.
 
 $$r = K r \int_{-\pi/2}^{\pi/2} \cos^2\phi \, g(Kr \sin\phi) d\phi$$
@@ -63,6 +68,7 @@ $$r = K r \int_{-\pi/2}^{\pi/2} \cos^2\phi \, g(Kr \sin\phi) d\phi$$
 $$K_c = \frac{2}{\pi g(0)}$$
 
 예를 들어, 고유 진동수 분포 $g(\omega)$가 표준 편차 $\gamma$를 가지는 Lorentzian 분포인 경우 임계값은 $K_c = 2\gamma$가 되며, $K > K_c$ 일 때 생성되는 정상 상태 질서 매개변수 $r$의 분기 거동은 다음과 같은 멱법칙을 따릅니다:
+
 $$r \approx \sqrt{\frac{16}{\pi K_c^3} \frac{K - K_c}{-g''(0)}} \propto (K - K_c)^{1/2}$$
 
 ---
@@ -73,15 +79,23 @@ $$r \approx \sqrt{\frac{16}{\pi K_c^3} \frac{K - K_c}{-g''(0)}} \propto (K - K_c
 
 ### ① Euler 방법 (1차 전진 오일러)
 가장 단순한 시간 전진 적분 기법입니다.
+
 $$\theta_i(t + \Delta t) = \theta_i(t) + \left[ \omega_i + \frac{K}{N} \sum_{j=1}^{N} A_{ij} \sin(\theta_j(t) - \theta_i(t)) \right] \Delta t$$
+
 연산 속도가 극단적으로 빠르지만 수치 안정성을 담보하기 위해 보폭 $\Delta t$를 매우 작게 설정해야 합니다.
 
 ### ② Runge-Kutta 4차 방법 (RK4)
+
 상미분방정식에서 보편적으로 사용되는 높은 정확도의 이산화 기법입니다. 보폭 $\Delta t$를 크게 잡더라도 4차 오차 정확도($\mathcal{O}(\Delta t^4)$)로 안정적으로 해 궤적을 계산합니다.
+
 $$k_1 = f(\theta(t), t)$$
+
 $$k_2 = f\left(\theta(t) + \frac{\Delta t}{2} k_1, t + \frac{\Delta t}{2}\right)$$
+
 $$k_3 = f\left(\theta(t) + \frac{\Delta t}{2} k_2, t + \frac{\Delta t}{2}\right)$$
+
 $$k_4 = f(\theta(t) + \Delta t k_3, t + \Delta t)$$
+
 $$\theta(t + \Delta t) = \theta(t) + \frac{\Delta t}{6} (k_1 + 2k_2 + 2k_3 + k_4)$$
 
 ---
