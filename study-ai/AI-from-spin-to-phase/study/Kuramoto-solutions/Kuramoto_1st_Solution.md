@@ -86,7 +86,7 @@ $$\theta_i(t + \Delta t) = \theta_i(t) + \left[ \omega_i + \frac{K}{N} \sum_{j=1
 
 ### ② Runge-Kutta 4차 방법 (RK4)
 
-상미분방정식에서 보편적으로 사용되는 높은 정확도의 이산화 기법입니다. 보폭 $\Delta t$를 크게 잡더라도 4차 오차 정확도($\mathcal{O}(\Delta t^4)$)로 안정적으로 해 궤적을 계산합니다.
+상미분방정식에서 보편적으로 사용되는 높은 정확도의 이산화 기법입니다. 보폭 $\Delta t$를 크게 잡더라도 4차 오차 정확도( $\mathcal{O}(\Delta t^4)$ )로 안정적으로 해 궤적을 계산합니다.
 
 $$k_1 = f(\theta(t), t)$$
 
