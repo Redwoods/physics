@@ -1,16 +1,17 @@
 # 확률적 1차 쿠라모토(Kuramoto) SDE 모형의 이론 및 수치적 해석 기법
 
-본 보고서는 관성(질량)이 없는 1차 쿠라모토 진동자계에 확률적 노이즈가 도입된 **'확률적 1차 쿠라모토 SDE 모형(Stochastic 1st-order Kuramoto SDE Model)'**의 지배 방정식, 수학적 해석 방법 및 컴퓨터로 이산적인 해를 구하는 수치 해석 알고리즘과 참조 파이썬 코드를 상세히 정리한 문서입니다.
+본 보고서는 관성(질량)이 없는 1차 쿠라모토 진동자계에 확률적 노이즈가 도입된 **'확률적 1차 쿠라모토 SDE 모형(Stochastic 1st-order Kuramoto SDE Model)'** 의 지배 방정식, 수학적 해석 방법 및 컴퓨터로 이산적인 해를 구하는 수치 해석 알고리즘과 참조 파이썬 코드를 상세히 정리한 문서입니다.
 
 ---
 
 ## 1. 확률적 1차 쿠라모토 SDE 지배 방정식
 
-1차 쿠라모토 모델은 오실레이터가 상호작용할 때 지연 시간 없이 위상을 즉각적으로 조정한다고 가정합니다. 오실레이터들의 위상 상태 갱신에 외부 노이즈(시장 잡음 및 확률적 교란)를 나타내는 **표준 위너 프로세스(Wiener Process)**를 가산 형태로 결합하면 다음과 같은 이토 확률미분방정식(Itô SDE)을 얻습니다.
+1차 쿠라모토 모델은 오실레이터가 상호작용할 때 지연 시간 없이 위상을 즉각적으로 조정한다고 가정합니다. 오실레이터들의 위상 상태 갱신에 외부 노이즈(시장 잡음 및 확률적 교란)를 나타내는 **표준 위너 프로세스(Wiener Process)** 를 가산 형태로 결합하면 다음과 같은 이토 확률미분방정식(Itô SDE)을 얻습니다.
 
 $$d\theta_i(t) = \left[ \omega_i + \frac{K}{N} \sum_{j=1}^{N} A_{ij} \sin(\theta_j(t) - \theta_i(t)) \right] dt + \sigma dW_i(t)$$
 
 이 식에서 각 물리량의 정의는 다음과 같습니다:
+
 * $\theta_i(t)$: 오실레이터 $i$의 위상 (Phase)
 * $\omega_i$: 오실레이터 $i$의 고유 진동수 (Intrinsic Frequency)
 * $K$: 결합 강도 (Coupling strength)
@@ -43,6 +44,7 @@ $$d\theta_i(t) = \left[ \omega_i + K r(t) \sin(\psi(t) - \theta_i(t)) \right] dt
 사인 결합 항의 비선형성으로 인해 개별 궤적의 일반적인 analytical solution을 구하는 것은 불가능하지만, 통계역학적으로 다음과 같은 해석 기법을 사용합니다.
 
 ### ① 쿠라모토-사카구치 포커-플랑크 방정식 (Kuramoto-Sakaguchi Fokker-Planck Equation)
+
 오실레이터의 개수가 무한대($N \to \infty$)로 수렴하는 연속체 한계(Thermodynamic limit)에서, 특정 고유진동수 $\omega$를 지닌 오실레이터가 시점 $t$에 위상 $\theta$에 존재할 확률 밀도 함수 $P(\theta, \omega, t)$의 거동은 다음 편미분방정식을 따릅니다.
 
 $$\frac{\partial P}{\partial t} = -\frac{\partial}{\partial \theta} \left[ \left( \omega + K r \sin(\psi - \theta) \right) P \right] + \frac{\sigma^2}{2} \frac{\partial^2 P}{\partial \theta^2}$$
@@ -59,7 +61,8 @@ $$K_c = 2 \left( \gamma + \frac{\sigma^2}{2} \right)$$
 
 컴퓨터 연산을 위해 시계열 시간 축을 이산적인 시간 보폭 $\Delta t$ 단위로 나누어 궤적을 전진시키는 해법들입니다.
 
-### ① 오일러-마루야마 방법 (Euler-Maruyama Method)
+### ① 오일러-마루야마 방법 (Euler-Maruyama Method) 
+
 1차 SDE 모형에 Euler-Maruyama를 적용하면 가속도가 없는 심플한 형태로 이산화됩니다.
 
 $$\theta_i(t + \Delta t) = \theta_i(t) + \left[ \omega_i + \frac{K}{N} \sum_{j=1}^{N} A_{ij} \sin(\theta_j(t) - \theta_i(t)) \right] \Delta t + \sigma \sqrt{\Delta t} \epsilon_i$$
@@ -67,12 +70,17 @@ $$\theta_i(t + \Delta t) = \theta_i(t) + \left[ \omega_i + \frac{K}{N} \sum_{j=1
 여기서 $\epsilon_i \sim \mathcal{N}(0, 1)$은 가우시안 정규분포 난수입니다. 구현이 단순하여 연산 효율이 매우 뛰어납니다.
 
 ### ② 런게-쿠타-마루야마 분할 적분법 (Runge-Kutta-Maruyama Splitting Method)
-결정론적 동역학 항은 고차 오차 정밀도와 어댑티브 보폭을 제공하는 **Dormand-Prince RK45** 적분기로 가상의 $\theta_{new}$를 유도하고, 수락된 시간 보폭 $dt$에 대해 Langevin 잡음을 더해주는 분할 결합 기법입니다. [hkino_Kuramoto_1st_SDE.py](file:///home/redwoods/gdrive/AI/AI_ALL/New_methods/Phase_Deep_Learning/Deep_Research/Z_Stock_Prediction/hkino_Kuramoto_1st_SDE.py)에 실제 채택된 수치 적분 구조입니다.
+
+결정론적 동역학 항은 고차 오차 정밀도와 어댑티브 보폭을 제공하는 **Dormand-Prince RK45** 적분기로 가상의 $\theta_{new}$를 유도하고, 수락된 시간 보폭 $dt$에 대해 Langevin 잡음을 더해주는 분할 결합 기법입니다. 
 
 1. **결정론적 궤적 계산**:
+2. 
    $$\theta_{new} = \text{RK45\_Deterministic\_Update}(\theta, \omega, dt)$$
-2. **Wiener Step 가산**:
+   
+4. **Wiener Step 가산**:
+5. 
    수락 마스크가 활성화되면 오차 요건에 맞추어 보정된 $dt$ 크기의 난수 잡음을 갱신된 위상에 가산합니다.
+   
    $$\theta(t + dt) = \theta_{new} + \sigma \sqrt{dt} \epsilon, \quad \epsilon \sim \mathcal{N}(0, \mathbf{I})$$
 
 이 방법은 비선형 결합력의 시간 누적 오차를 고차 RK45로 모니터링하여 보폭을 유연하게 잡고, 확률적 잡음을 결합하므로 안정적이고 정확한 시뮬레이션 경로를 제공합니다.
