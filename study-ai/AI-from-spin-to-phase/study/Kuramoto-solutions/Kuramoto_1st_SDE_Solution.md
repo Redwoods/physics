@@ -1,6 +1,6 @@
 # 확률적 1차 쿠라모토(Kuramoto) SDE 모형의 이론 및 수치적 해석 기법
 
-본 보고서는 관성(질량)이 없는 1차 쿠라모토 진동자계에 확률적 노이즈가 도입된 **'확률적 1차 쿠라모토 SDE 모형(Stochastic 1st-order Kuramoto SDE Model)'** 의 지배 방정식, 수학적 해석 방법 및 컴퓨터로 이산적인 해를 구하는 수치 해석 알고리즘과 참조 파이썬 코드를 상세히 정리한 문서입니다.
+관성(질량)이 없는 1차 쿠라모토 진동자계에 확률적 노이즈가 도입된 **'확률적 1차 쿠라모토 SDE 모형(Stochastic 1st-order Kuramoto SDE Model)'**에 대한 지배 방정식, 수학적 해석 방법 및 컴퓨터로 이산적인 해를 구하는 수치 해석 알고리즘과 참조 파이썬 코드를 정리합니다.
 
 ---
 
@@ -25,7 +25,7 @@ $$d\theta_i(t) = \left[ \omega_i + \frac{K}{N} \sum_{j=1}^{N} A_{ij} \sin(\theta
 
 ## 2. 평균장 이론과 단순화 (Mean-field Approximation)
 
-1차 쿠라모토 모델은 시스템 전체의 동기화 정도를 정량화하기 위해 **질서 매개변수(Order Parameter, $r$)** 와 집단의 평균 위상($\psi$)을 다음과 같이 정의합니다.
+1차 쿠라모토 모델은 시스템 전체의 동기화 정도를 정량화하기 위해 **질서 매개변수(Order Parameter, $r$)** 와 집단의 평균 위상($\psi$) 을 다음과 같이 정의합니다.
 
 $$r(t) e^{i \psi(t)} = \frac{1}{N} \sum_{j=1}^{N} e^{i \theta_j(t)}$$
 
@@ -36,6 +36,65 @@ $$r(t) e^{i \psi(t)} = \frac{1}{N} \sum_{j=1}^{N} e^{i \theta_j(t)}$$
 $$d\theta_i(t) = \left[ \omega_i + K r(t) \sin(\psi(t) - \theta_i(t)) \right] dt + \sigma dW_i(t)$$
 
 이 식은 복잡한 다체 상호작용 문제를 평균장 $r(t)$ 하의 1체 운동으로 치환할 수 있어 수학적 해석 및 수치 연산 효율성을 극대화합니다.
+
+### 2.1 평균장 지배 방정식 유도 과정 (Derivation Steps)
+
+평균장 Langevin 방정식의 유도 과정은 복소평면에서의 질서 매개변수 정의와 삼각함수 항등식을 결합하여 다음과 같이 진행됩니다.
+
+**1단계: 가설 및 기본 SDE 지배 방정식**
+
+먼저, 확률적 1차 쿠라모토 SDE 모델에서 모든 진동자가 동일한 가중치로 결합되어 있다고 가정합니다(All-to-all coupling, 즉 $A_{ij} = 1$).
+
+$$d\theta_i(t) = \left[ \omega_i + \frac{K}{N} \sum_{j=1}^{N} \sin(\theta_j(t) - \theta_i(t)) \right] dt + \sigma dW_i(t)$$
+
+**2단계: 질서 매개변수(Order Parameter) 정의**
+
+전체 진동자계의 거시적 위상 정렬 상태를 설명하기 위해 질서 매개변수 $r(t)$와 집단 평균 위상 $\psi(t)$를 복소수 평면 상에서 다음과 같이 정의합니다.
+
+$$r(t) e^{i \psi(t)} = \frac{1}{N} \sum_{j=1}^{N} e^{i \theta_j(t)}$$
+
+**3단계: 국소 위상 $\theta_i(t)$ 분리**
+
+개별 진동자 $i$의 입장에서 수식을 단순화하기 위해, 위 정의식의 양변에 $e^{-i \theta_i(t)}$를 곱합니다.
+
+$$r(t) e^{i \psi(t)} \cdot e^{-i \theta_i(t)} = \left( \frac{1}{N} \sum_{j=1}^{N} e^{i \theta_j(t)} \right) \cdot e^{-i \theta_i(t)}$$
+
+지수 법칙을 통해 지수 항을 묶으면 다음과 같이 정리됩니다.
+
+$$r(t) e^{i (\psi(t) - \theta_i(t))} = \frac{1}{N} \sum_{j=1}^{N} e^{i (\theta_j(t) - \theta_i(t))}$$
+
+**4단계: 오일러 공식(Euler's Formula) 적용 및 허수부 추출**
+
+오일러 공식 $e^{i \phi} = \cos \phi + i \sin \phi$를 양변에 각각 적용하여 실수부와 허수부로 나눕니다.
+
+* **좌변 (Left-Hand Side):**
+
+  $$r(t) e^{i (\psi(t) - \theta_i(t))} = r(t) \left[ \cos(\psi(t) - \theta_i(t)) + i \sin(\psi(t) - \theta_i(t)) \right]$$
+
+* **우변 (Right-Hand Side):**
+
+  $$\frac{1}{N} \sum_{j=1}^{N} e^{i (\theta_j(t) - \theta_i(t))} = \frac{1}{N} \sum_{j=1}^{N} \left[ \cos(\theta_j(t) - \theta_i(t)) + i \sin(\theta_j(t) - \theta_i(t)) \right]$$
+
+양변의 허수부(Imaginary Part, $\text{Im}[\cdot]$)만을 취하여 서로 비교합니다.
+
+$$\text{Im}\left[ r(t) e^{i (\psi(t) - \theta_i(t))} \right] = \text{Im}\left[ \frac{1}{N} \sum_{j=1}^{N} e^{i (\theta_j(t) - \theta_i(t))} \right]$$
+
+이를 정리하면 다음과 같은 삼각함수 항등식을 얻을 수 있습니다.
+
+$$r(t) \sin(\psi(t) - \theta_i(t)) = \frac{1}{N} \sum_{j=1}^{N} \sin(\theta_j(t) - \theta_i(t))$$
+
+**5단계: 원래의 SDE에 대입하여 최종 수식 도출**
+
+유도한 삼각함수 항등식을 원래 SDE 지배 방정식의 비선형 상호작용 항(drift term)에 대입합니다.
+
+$$d\theta_i(t) = \left[ \omega_i + K \left( \frac{1}{N} \sum_{j=1}^{N} \sin(\theta_j(t) - \theta_i(t)) \right) \right] dt + \sigma dW_i(t)$$
+
+이 대입을 거치면, 최종적으로 각 오실레이터 $i$가 다른 $N-1$개의 진동자들과 쌍으로(pairwise) 상호작용하는 복잡한 수식이 집단 평균장인 $r(t)$와 $\psi(t)$에만 국소적으로 반응하는 일체(one-body) 방정식으로 단순화됩니다:
+
+$$\therefore d\theta_i(t) = \left[ \omega_i + K r(t) \sin(\psi(t) - \theta_i(t)) \right] dt + \sigma dW_i(t)$$
+
+이 방정식이 바로 **평균장 Langevin 방정식(Mean-field Langevin Equation)**
+입니다. 이 변환을 통해 수치 해석 시 **연산 복잡도가 기존 $O(N^2)$에서 $O(N)$** 으로 획기적으로 개선됩니다.
 
 ---
 
@@ -61,7 +120,7 @@ $$K_c = 2 \left( \gamma + \frac{\sigma^2}{2} \right)$$
 
 컴퓨터 연산을 위해 시계열 시간 축을 이산적인 시간 보폭 $\Delta t$ 단위로 나누어 궤적을 전진시키는 해법들입니다.
 
-### ① 오일러-마루야마 방법 (Euler-Maruyama Method) 
+### ① 오일러-마루야마 방법 (Euler-Maruyama Method)
 
 1차 SDE 모형에 Euler-Maruyama를 적용하면 가속도가 없는 심플한 형태로 이산화됩니다.
 
@@ -71,16 +130,16 @@ $$\theta_i(t + \Delta t) = \theta_i(t) + \left[ \omega_i + \frac{K}{N} \sum_{j=1
 
 ### ② 런게-쿠타-마루야마 분할 적분법 (Runge-Kutta-Maruyama Splitting Method)
 
-결정론적 동역학 항은 고차 오차 정밀도와 어댑티브 보폭을 제공하는 **Dormand-Prince RK45** 적분기로 가상의 $\theta_{new}$를 유도하고, 수락된 시간 보폭 $dt$에 대해 Langevin 잡음을 더해주는 분할 결합 기법입니다. 
+결정론적 동역학 항은 고차 오차 정밀도와 어댑티브 보폭을 제공하는 **Dormand-Prince RK45** 적분기로 가상의 $\theta_{new}$를 유도하고, 수락된 시간 보폭 $dt$에 대해 Langevin 잡음을 더해주는 분할 결합 기법입니다.
 
-1. **결정론적 궤적 계산** :
+1. **결정론적 궤적 계산**:
 
-   $$\theta_{new} = \text{RK45-Deterministic-Update}(\theta, \omega, dt)$$
+   $$\theta_{new} = \text{RK45\_Deterministic\_Update}(\theta, \omega, dt)$$
 
-2. **Wiener Step 가산** :
+2. **Wiener Step 가산**:
 
    수락 마스크가 활성화되면 오차 요건에 맞추어 보정된 $dt$ 크기의 난수 잡음을 갱신된 위상에 가산합니다.
-   
+
    $$\theta(t + dt) = \theta_{new} + \sigma \sqrt{dt} \epsilon, \quad \epsilon \sim \mathcal{N}(0, \mathbf{I})$$
 
 이 방법은 비선형 결합력의 시간 누적 오차를 고차 RK45로 모니터링하여 보폭을 유연하게 잡고, 확률적 잡음을 결합하므로 안정적이고 정확한 시뮬레이션 경로를 제공합니다.
