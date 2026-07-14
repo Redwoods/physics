@@ -134,7 +134,7 @@ $$\theta_i(t + \Delta t) = \theta_i(t) + \left[ \omega_i + \frac{K}{N} \sum_{j=1
 
 1. **결정론적 궤적 계산**:
 
-   $$\theta_{new} = \text{RK45\_Deterministic\_Update}(\theta, \omega, dt)$$
+   $$\theta_{new} = \text{RK45\_{Deterministic}\_{Update}}(\theta, \omega, dt)$$
 
 2. **Wiener Step 가산**:
 
