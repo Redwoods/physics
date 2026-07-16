@@ -22,7 +22,7 @@ $$ \frac{d\theta_i(t)}{dt} = \omega_i + \frac{K}{N} \sum_{j=1}^{N} A_{ij} \sin(\
 
 $$ d\theta_i(t) = \left[ \omega_i + \frac{K}{N} \sum_{j=1}^{N} A_{ij} \sin(\theta_j(t) - \theta_i(t)) \right] dt + \sigma dW_i(t) $$
 
-*(※ 문헌에 따라 가우시안 백색 잡음 $\xi_i(t)$를 사용하여 $\dot{\theta}_i = \dots + \xi_i(t)$ 형태로 표기하기도 합니다)*
+**(※ 문헌에 따라 가우시안 백색 잡음 $\xi_i(t)$를 사용하여 $\dot{\theta}_i = \dots + \xi_i(t)$ 형태로 표기하기도 합니다)**
 
 ---
 
