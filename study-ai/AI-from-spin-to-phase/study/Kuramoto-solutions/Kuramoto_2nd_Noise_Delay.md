@@ -11,12 +11,17 @@
 1차 모형은 진동자(오실레이터)가 상호작용 시 지연이나 물리적 저항(관성) 없이 위상을 즉각적으로 조정한다고 가정하는 모델입니다.
 
 **① 결정론적 1차 모형 (기본형: 외부 잡음 없음, 시간 지연 없음)**
+
 외부 교란이 없는 순수 비선형 시스템으로, 개별 진동자의 위상 변화율은 자신의 고유 진동수와 다른 진동자들과의 위상차에 의해서만 결정됩니다.
+
 $$ \frac{d\theta_i(t)}{dt} = \omega_i + \frac{K}{N} \sum_{j=1}^{N} A_{ij} \sin(\theta_j(t) - \theta_i(t)) $$
 
 **② 확률적 1차 SDE 모형 (외부 잡음 추가)**
+
 결정론적 모형의 위상 갱신 과정에 시장 잡음이나 외부 교란을 나타내는 확률적 노이즈(표준 위너 프로세스 등)를 가산 형태로 결합한 이토 확률미분방정식(Itô SDE)입니다.
+
 $$ d\theta_i(t) = \left[ \omega_i + \frac{K}{N} \sum_{j=1}^{N} A_{ij} \sin(\theta_j(t) - \theta_i(t)) \right] dt + \sigma dW_i(t) $$
+
 *(※ 문헌에 따라 가우시안 백색 잡음 $\xi_i(t)$를 사용하여 $\dot{\theta}_i = \dots + \xi_i(t)$ 형태로 표기하기도 합니다)*
 
 ---
@@ -26,14 +31,19 @@ $$ d\theta_i(t) = \left[ \omega_i + \frac{K}{N} \sum_{j=1}^{N} A_{ij} \sin(\thet
 2차 모형은 진동자에 회전 관성을 의미하는 **질량($m$)** 과 저항 역할을 하는 **감쇠 계수($\alpha$)** 를 추가하여 뉴턴 역학적인 가속도 운동을 기술합니다.
 
 **① 결정론적 2차 모형 (기본형: 외부 잡음 없음, 시간 지연 없음)**
+
 히스테리시스(이력 현상)와 1차 불연속 상전이 등 다중 안정성을 유발하는 결정론적 상미분방정식입니다.
+
 $$ m \ddot{\theta}_i(t) + \alpha \dot{\theta}_i(t) = \omega_i + \frac{K}{N} \sum_{j=1}^{N} A_{ij} \sin(\theta_j(t) - \theta_i(t)) $$
 
 **② 확률적 2차 SDE 모형 (외부 잡음 추가)**
+
 2차 지배 방정식의 가속력(Force) 단에 예측 불가능한 가우시안 백색 잡음을 결합한 2계 확률미분방정식(Langevin SDE)입니다.
+
 $$ m \ddot{\theta}_i(t) + \alpha \dot{\theta}_i(t) = \omega_i + \frac{K}{N} \sum_{j=1}^{N} A_{ij} \sin(\theta_j(t) - \theta_i(t)) + \sigma \xi_i(t) $$
 
 **③ 2차 시간 지연 + 확률적 모형 (시간 지연 및 외부 잡음 동시 포함)**
+
 정보나 자극이 즉각적으로 전달되지 않고 물리적 시차($\tau$)를 두고 전달되는 '리드-래그(Lead-Lag) 동역학' 및 '전도 지연' 현상을 반영한 가장 복잡한 형태의 모델입니다. 진동자 $i$는 현재가 아닌 **과거 $\tau$ 시점의 다른 진동자 위상($\theta_j(t-\tau)$)** 에 반응합니다.
 
 $$ m_i \frac{d^2 \theta_i(t)}{dt^2} + \alpha_i \frac{d\theta_i(t)}{dt} = \omega_i + \frac{1}{N} \sum_{j=1}^{N} K_{ij} \sin\bigl(\theta_j(t - \tau) - \theta_i(t)\bigr) + \sigma_i \xi_i(t) $$
@@ -100,15 +110,22 @@ $$m_i \frac{d^2 \theta_i(t)}{dt^2} + \alpha_i \frac{d\theta_i(t)}{dt} = \omega_i
 RK4 기법은 현재 시점 $t$에서 다음 시점 $t+dt$로 가기 위해, 중간 시점의 기울기($k_1, k_2, k_3, k_4$)를 네 차례 밟아 평균을 내어 전진시킵니다.
 
 1. **$k_1$ (현재 위치에서의 기울기)**:
+
    - $k_{1\theta} = v(t)$
    - $k_{1v} = f_v\bigl(\theta(t), v(t), \theta(t-\tau)\bigr)$
-2. **$k_2$ (절반 보폭 $dt/2$만큼 전진한 위치의 기울기)**:
+     
+3. **$k_2$ (절반 보폭 $dt/2$만큼 전진한 위치의 기울기)**:
+
    - $k_{2\theta} = v(t) + 0.5 \cdot dt \cdot k_{1v}$
    - $k_{2v} = f_v\bigl(\theta(t) + 0.5 \cdot dt \cdot k_{1\theta}, v(t) + 0.5 \cdot dt \cdot k_{1v}, \theta(t-\tau)\bigr)$
-3. **$k_3$ (다시 그 중간 위치에서 새로 조정한 기울기)**:
+     
+4. **$k_3$ (다시 그 중간 위치에서 새로 조정한 기울기)**:
+
    - $k_{3\theta} = v(t) + 0.5 \cdot dt \cdot k_{2v}$
    - $k_{3v} = f_v\bigl(\theta(t) + 0.5 \cdot dt \cdot k_{2\theta}, v(t) + 0.5 \cdot dt \cdot k_{2v}, \theta(t-\tau)\bigr)$
-4. **$k_4$ (전체 보폭 $dt$만큼 전진한 끝점에서의 기울기)**:
+     
+5. **$k_4$ (전체 보폭 $dt$만큼 전진한 끝점에서의 기울기)**:
+
    - $k_{4\theta} = v(t) + dt \cdot k_{3v}$
    - $k_{4v} = f_v\bigl(\theta(t) + dt \cdot k_{3\theta}, v(t) + dt \cdot k_{3v}, \theta(t-\tau)\bigr)$
 
@@ -120,14 +137,15 @@ RK4 기법은 현재 시점 $t$에서 다음 시점 $t+dt$로 가기 위해, 중
 
 위 단계들을 가중 평균하여 잡음이 없는 다음 단계 예측치 $(\theta_{new}, v_{new})$를 구합니다.
 
-- $\theta_{new} = \theta(t) + \frac{dt}{6} (k_{1\theta} + 2k_{2\theta} + 2k_{3\theta} + k_{4\theta})$
+- $$\theta_{new} = \theta(t) + \frac{dt}{6} (k_{1\theta} + 2k_{2\theta} + 2k_{3\theta} + k_{4\theta})$$
 
-- $v_{new} = v(t) + \frac{dt}{6} (k_{1v} + 2k_{2v} + 2k_{3v} + k_{4v})$
+- $$v_{new} = v(t) + \frac{dt}{6} (k_{1v} + 2k_{2v} + 2k_{3v} + k_{4v})$$
 
 여기에 확률 변동성인 **Langevin 노이즈**를 주입합니다. 확률 적분 법칙상, 시간 간격 $dt$ 동안 브라운 운동의 무작위 증분은 $\sqrt{dt}$ 스케일을 따르므로 표준 정규분포 난수 $Z \sim \mathcal{N}(0, 1)$를 생성하여 최종적으로 다음 단계 값을 얻습니다.
 
-- $v(t + dt) = v_{new} + \frac{\sigma_i}{m_i} \sqrt{dt} \cdot Z_v$
-- $\theta(t + dt) = \theta_{new} + 0.1 \cdot \sigma_i \sqrt{dt} \cdot Z_\theta$
+- $$v(t + dt) = v_{new} + \frac{\sigma_i}{m_i} \sqrt{dt} \cdot Z_v$$
+  
+- $$\theta(t + dt) = \theta_{new} + 0.1 \cdot \sigma_i \sqrt{dt} \cdot Z_\theta$$
 
 이 과정을 시뮬레이션 전체 일수만큼 루프를 돌며 계속 반복하는 것이 **시간 지연 2차 Kuramoto SDE 모델의 수치적 풀이 과정**입니다.
 
