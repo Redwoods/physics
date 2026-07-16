@@ -44,7 +44,7 @@ $$ m \ddot{\theta}_i(t) + \alpha \dot{\theta}_i(t) = \omega_i + \frac{K}{N} \sum
 
 **③ 2차 시간 지연 + 확률적 모형 (시간 지연 및 외부 잡음 동시 포함)**
 
-정보나 자극이 즉각적으로 전달되지 않고 물리적 시차 ($\tau$)를 두고 전달되는 '리드-래그(Lead-Lag) 동역학' 및 '전도 지연' 현상을 반영한 가장 복잡한 형태의 모델입니다. 진동자 $i$는 현재가 아닌 **과거 $\tau$ 시점의 다른 진동자 위상 ($\theta_{j}(t-\tau)$) ** 에 반응합니다.
+정보나 자극이 즉각적으로 전달되지 않고 물리적 시차 ($\tau$)를 두고 전달되는 '리드-래그(Lead-Lag) 동역학' 및 '전도 지연' 현상을 반영한 가장 복잡한 형태의 모델입니다. 진동자 $i$는 현재가 아닌 **과거 $\tau$ 시점의 다른 진동자 위상** ($\theta_{j}(t-\tau)$) 에 반응합니다.
 
 $$ m_i \frac{d^2 \theta_i(t)}{dt^2} + \alpha_i \frac{d\theta_i(t)}{dt} = \omega_i + \frac{1}{N} \sum_{j=1}^{N} K_{ij} \sin\bigl(\theta_j(t - \tau) - \theta_i(t)\bigr) + \sigma_i \xi_i(t) $$
 
